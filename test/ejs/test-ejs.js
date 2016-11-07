@@ -22,6 +22,9 @@ var data = {
 
 var ejsPath = './a.ejs';
 
+
+
+
 var options = {
     strict: true
 };
