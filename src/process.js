@@ -1,11 +1,18 @@
+/*!
+ * 数据处理引擎
+ * @author will
+ * @date 2016-11-03
+ */
+var path = require('path');
+var fs = require('fs');
+var rmrf = require('rimraf')
 var doc = require('./utils/read-config')
-var log = require('./utils/log');
-log.console.error(doc.tpl)
-    /**
-     * 数据处理引擎
-     * @author will
-     * @date 2016-11-03
-     */
+    // var log = require('./utils/log');
+var copy = require('./utils/copy-file-dir');
+
+
+// log.console.error(doc.tpl)
+
 /**
  * 数据处理对象
  * @return {[type]} [description]
@@ -13,7 +20,7 @@ log.console.error(doc.tpl)
 function dataProcess() {
     console.log("数据处理对象实例化！！！");
     //初始化方法
-    this.init = function() {
+    this.init = function () {
         console.log("读取系统配置文件config.yml");
     }
     this.init();
@@ -24,26 +31,28 @@ function dataProcess() {
 //3、获取
 
 
-/**
- * js加载器方法，模板中通过此方法加载的js最后会被复制到output下的相对位置，例如tpl/js/a.js会复制到output/js/a.js
- * @param  path  tpl/js相对于tpl/layout的相对路径
- * @return {[type]}      [description]
- */
-function js(path) {
-
-}
 
 
-/**
- * css加载器，和js加载器的作用类似
- * @param  path tpl/css相对于tpl/layout的相对路径
- * @return {[type]}      [description]
- */
-function css(path) {
-
-
-}
 
 
 var dp = new dataProcess();
+var formPath = path.resolve(__dirname, "../", "tpl", "ppt", "source");
+var toPath = path.resolve(__dirname, "../", "output");
 
+
+    rmrf(toPath,{ nosort: true, silent: true },function(err){
+console.log(err);
+
+    });
+
+
+
+// console.log(formPath);
+// console.log(toPath);
+// console.log("正在复制主题文件......");
+// copy.copyDir(formPath, toPath, function (err) {
+//     if (err) {
+//         console.log(err);
+//     }
+// console.log("主题文件复制完成......");
+// });

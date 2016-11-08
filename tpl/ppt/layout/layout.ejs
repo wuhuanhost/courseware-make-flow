@@ -1,1 +1,15 @@
-//每个模板的入口文件
+<!--//每个模板的入口文件-->
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<header>
+    <!--加载header模板-->
+    <%- include('header', {content: content} ) %>
+</header>
+<body>
+    <!--加载content模板-->
+    <%- include('content', {content: content} ) %>
+</body>
+<!--加载footer模板-->
+
+<%- include('footer', {content: content} ) %>
