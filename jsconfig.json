@@ -1,8 +1,10 @@
 {
     "compilerOptions": {
-        "target": "ES5"
+        "target": "ES6",
+        "module": "commonjs"
     },
     "exclude": [
         "node_modules"
-    ]
+    ],
+    "files": ["index.js","src/"]
 }

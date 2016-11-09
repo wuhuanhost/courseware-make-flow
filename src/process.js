@@ -1,3 +1,4 @@
+
 /*!
  * 数据处理引擎
  * @author will
@@ -13,6 +14,7 @@ var copy = require('./utils/copy-file-dir');
 var async = require('async');
 var logger = require('./utils/log').logger("process.js");
 // log.console.error(doc.tpl)
+
 
 
 
@@ -97,6 +99,8 @@ function renderHtml() {
             }
         });
 }
+
+
 
 module.exports = {
     renderHtml: renderHtml,
