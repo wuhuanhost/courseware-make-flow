@@ -113,29 +113,30 @@ var txtPath = path.resolve(__dirname, "../", "data", "txt");
 
 var data = {
     pages: [],
-    countPage:0
+    countPage: 0
 };
 
 //读取data/txt中的所有的文件
 function readData(callback) {
     fs.readdir(txtPath, function (err, list) {
         var len = list.length;
-        data.countPage=len;
+        data.countPage = len;
         var count = 0;
         async.whilst(function () {
             return count < len;
         }, function (cb) {
-            //读取文件
             count++;
+            //读取文件
+            var txt = fs.readFileSync(path.resolve(txtPath, list[count - 1])).toString();
             //调用txt2html方法
             var temp = {};
-            temp.content = splitSection("txt");
+            temp.content = splitSection(txt);
             temp.index = count;
             data.pages.push(temp);
             cb(null, count);
         }, function (err, n) {
             console.log(n);
-            logger.error(data.pages[0].content[1]);
+            logger.error(data);
             callback();
         })
     });
@@ -144,7 +145,27 @@ function readData(callback) {
 
 // txt2html测试方法
 function txt2html(str) {
-    return "<section><h1>第1单元</h1><p>内容区域</p></section><section><h1>第2单元</h1><p>内容区域</p></section><section><h1>第3单元</h1><p>内容区域</p></section>";
+    var txtArr = str.split("\r\n");
+
+    console.log(txtArr)
+    var str = "";
+    for (var i = 0, len = txtArr.length; i < len; i++) {
+       
+        logger.debug(txtArr[i] + "   " + txtArr[i].match(/^##\s/g)+"         "+txtArr[i].match(/^#\s/g))
+
+        if (txtArr[i].match(/^#\s/g) != null) {
+            str += "<section><h1>" + txtArr[i].replace("#", "") + "</h1>";
+        } else if (txtArr[i].match(/^##\s/g) != null) {
+            console.log(0)
+            str += "<section><h2>" + txtArr[i].replace("##", "") + "</h2>";
+        } else if (txtArr[i].match(/^>/) != null) {
+            str += "<p>" + txtArr[i].replace(">", "") + "</p>";
+        }
+        if (txtArr[i] === "") {
+            str += "</section>";
+        }
+    }
+    return str+"</section>"
 }
 
 /**
@@ -160,7 +181,7 @@ function splitSection(txt) {
     return content;
 }
 
-readData(function(){
+readData(function () {
 
 });
 
