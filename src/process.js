@@ -14,7 +14,7 @@ var copy = require('./utils/copy-file-dir');
 var async = require('async');
 var logger = require('./utils/log').logger("process.js");
 // log.console.error(doc.tpl)
-
+var ejs = require('ejs');
 
 /**
  * 数据处理对象
@@ -38,7 +38,7 @@ var dp = new dataProcess();
 var formPathTpl = path.resolve(__dirname, "../", "tpl", "ppt", "source");
 var formPathImages = path.resolve(__dirname, "../", "data", "images");
 var toPath = path.resolve(__dirname, "../", "output");
-
+var tplPath = path.resolve(__dirname, "../", "tpl", "ppt", "layout", "_layout.ejs");
 
 
 // 清空目录
@@ -88,7 +88,7 @@ function copyImages(cb) {
 // 生成课件的方法
 function renderHtml() {
     logger.error("ddddddddddddd")
-    async.series([clean, copyTpl, copyImages],
+    async.series([clean, copyTpl, copyImages, readData],
         function (err, values) {
             if (err) {
                 logger.error(err);
@@ -133,15 +133,43 @@ function readData(callback) {
             temp.content = splitSection(txt);
             temp.index = count;
             data.pages.push(temp);
-            cb(null, count);
-        }, function (err, n) {
-            console.log(n);
+            cb(null, data);
+        }, function (err, data) {
             logger.error(data);
+            render(data);
             callback();
         })
     });
 
 }
+
+/**
+ * 
+ */
+function render(data) {
+    for (var i = 0; i < data.pages.length; i++) {
+        ejsRenderHtml(data.pages[i],(i+1));
+    }
+}
+
+
+
+/**
+ * ejs渲染数据
+ **/
+function ejsRenderHtml(data, fileName) {
+            logger.warn("");
+    ejs.renderFile(tplPath, data, function (err, str) {
+        logger.error(str)
+        if (err) {
+            console.log(err)
+        }
+
+        fs.writeFileSync('E:\\渲染引擎\\工具集\\新版课件制作工具\\output\\' + fileName + '.html', str);
+    });
+}
+
+
 
 // txt2html测试方法
 function txt2html(str) {
@@ -150,8 +178,8 @@ function txt2html(str) {
     console.log(txtArr)
     var str = "";
     for (var i = 0, len = txtArr.length; i < len; i++) {
-       
-        logger.debug(txtArr[i] + "   " + txtArr[i].match(/^##\s/g)+"         "+txtArr[i].match(/^#\s/g))
+
+        logger.debug(txtArr[i] + "   " + txtArr[i].match(/^##\s/g) + "         " + txtArr[i].match(/^#\s/g))
 
         if (txtArr[i].match(/^#\s/g) != null) {
             str += "<section><h1>" + txtArr[i].replace("#", "") + "</h1>";
@@ -165,7 +193,7 @@ function txt2html(str) {
             str += "</section>";
         }
     }
-    return str+"</section>"
+    return str + "</section>"
 }
 
 /**
@@ -181,9 +209,7 @@ function splitSection(txt) {
     return content;
 }
 
-readData(function () {
 
-});
 
 
 

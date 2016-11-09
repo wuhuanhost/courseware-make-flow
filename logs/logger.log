@@ -1623,3 +1623,3438 @@
      { content: [Object], index: 2 },
      { content: [Object], index: 3 } ],
   countPage: 3 }
+[2016-11-09 18:03:24.969] [INFO] console - { '0': 'index.js' }
+[2016-11-09 18:03:33.038] [INFO] console - { '0': 'index.js' }
+[2016-11-09 18:03:53.423] [INFO] console - { '0': 'index.js' }
+[2016-11-09 18:03:53.600] [INFO] console - { '0': 'process.js' }
+[2016-11-09 18:03:53.608] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 18:03:53.609] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 18:03:53.611] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 18:03:53.612] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 18:03:53.613] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 18:03:53.614] [INFO] console - 6
+[2016-11-09 18:03:53.617] [INFO] console - [ '# 第1单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:03:53.621] [INFO] console - 0
+[2016-11-09 18:03:53.621] [INFO] console - 0
+[2016-11-09 18:03:53.623] [INFO] console - [ '# 第2单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:03:53.626] [INFO] console - 0
+[2016-11-09 18:03:53.626] [INFO] console - 0
+[2016-11-09 18:03:53.627] [INFO] console - [ '# 第3单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:03:53.630] [INFO] console - 0
+[2016-11-09 18:03:53.631] [INFO] console - 0
+[2016-11-09 18:03:53.632] [INFO] console - 3
+[2016-11-09 18:03:53.633] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3 }
+[2016-11-09 18:04:31.533] [INFO] console - { '0': 'index.js' }
+[2016-11-09 18:04:31.778] [INFO] console - { '0': 'process.js' }
+[2016-11-09 18:04:31.786] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 18:04:31.788] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 18:04:31.791] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 18:04:31.793] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 18:04:31.796] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 18:04:31.798] [INFO] console - 6
+[2016-11-09 18:04:31.802] [INFO] console - [ '# 第1单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:04:31.809] [INFO] console - 0
+[2016-11-09 18:04:31.810] [INFO] console - 0
+[2016-11-09 18:04:31.813] [INFO] console - [ '# 第2单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:04:31.817] [INFO] console - 0
+[2016-11-09 18:04:31.821] [INFO] console - 0
+[2016-11-09 18:04:31.828] [INFO] console - [ '# 第3单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:04:31.834] [INFO] console - 0
+[2016-11-09 18:04:31.841] [INFO] console - 0
+[2016-11-09 18:04:31.845] [INFO] console - 3
+[2016-11-09 18:04:31.848] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3 }
+[2016-11-09 18:04:31.870] [ERROR] process.js - <!--//每个模板的入口文件-->
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<header>
+    <!--加载header模板-->
+      <meta charset="utf-8">
+    <title>全国化学二轮教用</title>
+    <meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+    <meta name="author" content="Hakim El Hattab">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/bk7.css" id="theme">
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+    <!-- Printing and PDF exports -->
+    <script>
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+    document.getElementsByTagName('head')[0].appendChild(link);
+    </script>
+    <!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+    <style>
+    html {
+        font-size: 38px;
+        -webkit-transition: font-size 0.2s ease-out;
+    }
+    
+    @media only screen and (max-width: 1200px) {
+        html {
+            font-size: 38px;
+        }
+    }
+    
+    @media only screen and (max-width: 1100px) {
+        html {
+            font-size: 36px;
+        }
+    }
+    
+    @media only screen and (max-width: 1000px) {
+        html {
+            font-size: 34px;
+        }
+    }
+    
+    @media only screen and (max-width: 900px) {
+        html {
+            font-size: 32px;
+        }
+    }
+    
+    @media only screen and (max-width: 800px) {
+        html {
+            font-size: 30px;
+        }
+    }
+    
+    @media only screen and (max-width: 700px) {
+        html {
+            font-size: 28px;
+        }
+    }
+    
+    @media only screen and (max-width: 600px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 500px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 400px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 300px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    #header {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        height: 2em;
+        color: #558cd9;
+        font-family: "微软雅黑";
+        font-size: 0.8em;
+        line-height: 2em;
+        text-align: right;
+    }
+    
+    #head {
+        color: #558cd9;
+    }
+    
+    #footer {
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+        height: 2em;
+        color: #666666;
+        font-family: "微软雅黑";
+        font-size: 0.8em;
+        line-height: 1em;
+        text-align: center;
+    }
+    
+    #foot a {
+        text-decoration: none;
+        color: #666666;
+    }
+    
+    .reveal section img {
+        border: 0px;
+    }
+    
+    .centerLayout {
+        text-align: center;
+    }
+    
+    p.content {
+        font-size: 0.8em;
+        /*line-height: 1.2em;*/
+        text-indent: 1.6em;
+    }
+    
+    p.list-content {
+        font-size: 0.8em;
+        /*line-height: 1.2em;*/
+    }
+    
+    p.fragment {
+        font-size: 0.8em;
+        font-family: 'Times New Roman', "楷体", "宋体";
+    }
+    
+    .mask {
+        top: 0;
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        z-index: 10
+    }
+    </style>
+
+
+
+</header>
+<body>
+    <!--加载content模板-->
+    <div class="reveal">
+        <div class="mask"></div>
+        <!-- Any section element inside of this container is displayed as a slide -->
+        <div class="slides">
+                <!--ppt的每一页-->
+            
+                <section><h1> 第1单元</h1><p> 内容区域</p></section>
+            
+                <section><h2> 第1课</h2><p> 内容区域</p></section>
+            
+                <section><h2> 第2课</h2><p> 内容区域</p></section>
+            
+        </div>
+    </div>
+</div>        
+</body>
+<!--加载footer模板-->
+
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.js"></script>
+    <script>
+    // More info https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        width: 960,
+        height: 700,
+        slideNumber: true,
+        showNotes: false,
+        touch: false,
+        help: false,
+        overview: false,
+
+        transition: 'convex', // none/fade/slide/convex/concave/zoom
+
+        math: {
+            mathjax: 'MathJax/MathJax.js',
+            config: 'TeX-AMS_HTML-full' // See http://docs.mathjax.org/en/latest/config-files.html
+        },
+
+        menu: {
+            custom: [{
+                title: '帮助',
+                icon: '<i class="fa fa-info">',
+                src: 'help.html'
+            }],
+
+
+            themes: [{
+                name: '自然',
+                theme: 'css/theme/bk.css'
+            }, {
+                name: '蓝调',
+                theme: 'css/theme/bk1.css'
+            }, {
+                name: '朦胧',
+                theme: 'css/theme/bk2.css'
+            }, {
+                name: '清新',
+                theme: 'css/theme/bk3.css'
+            }, {
+                name: '蜂巢',
+                theme: 'css/theme/bk4.css'
+            }, {
+                name: '朴素',
+                theme: 'css/theme/bk5.css'
+            }, {
+                name: '梦幻',
+                theme: 'css/theme/bk6.css'
+            }, {
+                name: '晚霞',
+                theme: 'css/theme/bk7.css'
+            }],
+
+
+            transitions: false,
+            mouseWheel: true,
+            titleSelector: 'h2',
+            hideMissingTitles: true,
+
+        },
+
+        // More info https://github.com/hakimel/reveal.js#dependencies
+        dependencies: [{
+                src: 'lib/js/classList.js',
+                condition: function() {
+                    return !document.body.classList;
+                }
+            }, {
+                src: 'plugin/markdown/marked.js',
+                condition: function() {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            }, {
+                src: 'plugin/markdown/markdown.js',
+                condition: function() {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            }, {
+                src: 'plugin/highlight/highlight.js',
+                async: true,
+                callback: function() {
+                    hljs.initHighlightingOnLoad();
+                }
+            }, {
+                src: 'plugin/zoom-js/zoom.js',
+                async: true
+            },
+            // { src: 'plugin/notes/notes.js', async: true },
+            {
+                src: 'plugin/math/math.js',
+                async: true
+            }, {
+                src: 'plugin/chalkboard/chalkboard.js'
+            }, {
+                src: 'plugin/menu/menu.js'
+            }
+        ],
+
+        chalkboard: { // font-awesome.min.css must be available
+            // src: "chalkboard/chalkboard.json",
+            toggleChalkboardButton: {
+                left: "80px"
+            },
+            toggleNotesButton: {
+                left: "130px"
+            },
+            //					theme: "whiteboard",
+            //					background: [ 'rgba(127,127,127,.1)' , 'reveal.js-plugins/chalkboard/img/whiteboard.png' ],
+            //					pen: [ 'reveal.js-plugins/chalkboard/img/boardmarker.png' , 'reveal.js-plugins/chalkboard/img/boardmarker.png' ],
+            //				        color: [ 'rgba(0,0,255,1)', 'rgba(0,0,255,0.5)' ],
+            //				        draw: [ (RevealChalkboard) ?  RevealChalkboard.drawWithPen : null , (RevealChalkboard) ? RevealChalkboard.drawWithPen : null ],
+        },
+        keyboard: {
+            67: function() {
+                RevealChalkboard.toggleNotesCanvas()
+            }, // toggle chalkboard when 'c' is pressed
+            66: function() {
+                RevealChalkboard.toggleChalkboard()
+            }, // toggle chalkboard when 'b' is pressed
+            46: function() {
+                RevealChalkboard.clear()
+            }, // clear chalkboard when 'DEL' is pressed
+            8: function() {
+                RevealChalkboard.reset()
+            }, // reset all chalkboard data when 'BACKSPACE' is pressed
+            // 68: function() { RevealChalkboard.download() },	// downlad chalkboard drawing when 'd' is pressed
+            //	90: function() { Recorder.downloadZip(); }, 	// press 'z' to download zip containing audio files
+            //84: function() { Recorder.fetchTTS(); } 	// press 't' to fetch TTS audio files
+        },
+    });
+    </script>
+    <script>
+    document.querySelector(".mask").addEventListener("click", function(e) {
+        e.stopPropagation();
+        e.preventDefault();
+        console.log(Reveal.getState());
+        var w = document.body.clientWidth;
+        var h = document.body.clientHeight;
+        var offset = 0;
+        if (0 <= e.pageX && e.pageX < (w / 2 - offset) && e.pageX < (w / 2) && e.pageY < (h - 100)) {
+            console.log("prev");
+            Reveal.prev();
+        }
+
+        if (w >= e.pageX && e.pageX > (w / 2 + offset) && e.pageX > (w / 2) && e.pageY < (h - 100)) {
+            console.log("next");
+            Reveal.next();
+        }
+        
+    })
+    </script>
+
+[2016-11-09 18:05:22.867] [INFO] console - { '0': 'index.js' }
+[2016-11-09 18:05:23.045] [INFO] console - { '0': 'process.js' }
+[2016-11-09 18:05:23.052] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 18:05:23.053] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 18:05:23.055] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 18:05:23.056] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 18:05:23.059] [INFO] index.js - 第3个参数为:g
+[2016-11-09 18:05:23.059] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 18:05:23.060] [INFO] console - 6
+[2016-11-09 18:05:23.063] [INFO] console - [ '# 第1单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:05:23.068] [INFO] console - 0
+[2016-11-09 18:05:23.068] [INFO] console - 0
+[2016-11-09 18:05:23.069] [INFO] console - [ '# 第2单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:05:23.073] [INFO] console - 0
+[2016-11-09 18:05:23.074] [INFO] console - 0
+[2016-11-09 18:05:23.075] [INFO] console - [ '# 第3单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:05:23.077] [INFO] console - 0
+[2016-11-09 18:05:23.077] [INFO] console - 0
+[2016-11-09 18:05:23.079] [INFO] console - 3
+[2016-11-09 18:05:23.080] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3 }
+[2016-11-09 18:05:23.092] [ERROR] process.js - <!--//每个模板的入口文件-->
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<header>
+    <!--加载header模板-->
+      <meta charset="utf-8">
+    <title>全国化学二轮教用</title>
+    <meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+    <meta name="author" content="Hakim El Hattab">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/bk7.css" id="theme">
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+    <!-- Printing and PDF exports -->
+    <script>
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+    document.getElementsByTagName('head')[0].appendChild(link);
+    </script>
+    <!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+    <style>
+    html {
+        font-size: 38px;
+        -webkit-transition: font-size 0.2s ease-out;
+    }
+    
+    @media only screen and (max-width: 1200px) {
+        html {
+            font-size: 38px;
+        }
+    }
+    
+    @media only screen and (max-width: 1100px) {
+        html {
+            font-size: 36px;
+        }
+    }
+    
+    @media only screen and (max-width: 1000px) {
+        html {
+            font-size: 34px;
+        }
+    }
+    
+    @media only screen and (max-width: 900px) {
+        html {
+            font-size: 32px;
+        }
+    }
+    
+    @media only screen and (max-width: 800px) {
+        html {
+            font-size: 30px;
+        }
+    }
+    
+    @media only screen and (max-width: 700px) {
+        html {
+            font-size: 28px;
+        }
+    }
+    
+    @media only screen and (max-width: 600px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 500px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 400px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 300px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    #header {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        height: 2em;
+        color: #558cd9;
+        font-family: "微软雅黑";
+        font-size: 0.8em;
+        line-height: 2em;
+        text-align: right;
+    }
+    
+    #head {
+        color: #558cd9;
+    }
+    
+    #footer {
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+        height: 2em;
+        color: #666666;
+        font-family: "微软雅黑";
+        font-size: 0.8em;
+        line-height: 1em;
+        text-align: center;
+    }
+    
+    #foot a {
+        text-decoration: none;
+        color: #666666;
+    }
+    
+    .reveal section img {
+        border: 0px;
+    }
+    
+    .centerLayout {
+        text-align: center;
+    }
+    
+    p.content {
+        font-size: 0.8em;
+        /*line-height: 1.2em;*/
+        text-indent: 1.6em;
+    }
+    
+    p.list-content {
+        font-size: 0.8em;
+        /*line-height: 1.2em;*/
+    }
+    
+    p.fragment {
+        font-size: 0.8em;
+        font-family: 'Times New Roman', "楷体", "宋体";
+    }
+    
+    .mask {
+        top: 0;
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        z-index: 10
+    }
+    </style>
+
+
+
+</header>
+<body>
+    <!--加载content模板-->
+    <div class="reveal">
+        <div class="mask"></div>
+        <!-- Any section element inside of this container is displayed as a slide -->
+        <div class="slides">
+                <!--ppt的每一页-->
+            
+                <section><h1> 第1单元</h1><p> 内容区域</p></section>
+            
+                <section><h2> 第1课</h2><p> 内容区域</p></section>
+            
+                <section><h2> 第2课</h2><p> 内容区域</p></section>
+            
+        </div>
+    </div>
+</div>        
+</body>
+<!--加载footer模板-->
+
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.js"></script>
+    <script>
+    // More info https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        width: 960,
+        height: 700,
+        slideNumber: true,
+        showNotes: false,
+        touch: false,
+        help: false,
+        overview: false,
+
+        transition: 'convex', // none/fade/slide/convex/concave/zoom
+
+        math: {
+            mathjax: 'MathJax/MathJax.js',
+            config: 'TeX-AMS_HTML-full' // See http://docs.mathjax.org/en/latest/config-files.html
+        },
+
+        menu: {
+            custom: [{
+                title: '帮助',
+                icon: '<i class="fa fa-info">',
+                src: 'help.html'
+            }],
+
+
+            themes: [{
+                name: '自然',
+                theme: 'css/theme/bk.css'
+            }, {
+                name: '蓝调',
+                theme: 'css/theme/bk1.css'
+            }, {
+                name: '朦胧',
+                theme: 'css/theme/bk2.css'
+            }, {
+                name: '清新',
+                theme: 'css/theme/bk3.css'
+            }, {
+                name: '蜂巢',
+                theme: 'css/theme/bk4.css'
+            }, {
+                name: '朴素',
+                theme: 'css/theme/bk5.css'
+            }, {
+                name: '梦幻',
+                theme: 'css/theme/bk6.css'
+            }, {
+                name: '晚霞',
+                theme: 'css/theme/bk7.css'
+            }],
+
+
+            transitions: false,
+            mouseWheel: true,
+            titleSelector: 'h2',
+            hideMissingTitles: true,
+
+        },
+
+        // More info https://github.com/hakimel/reveal.js#dependencies
+        dependencies: [{
+                src: 'lib/js/classList.js',
+                condition: function() {
+                    return !document.body.classList;
+                }
+            }, {
+                src: 'plugin/markdown/marked.js',
+                condition: function() {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            }, {
+                src: 'plugin/markdown/markdown.js',
+                condition: function() {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            }, {
+                src: 'plugin/highlight/highlight.js',
+                async: true,
+                callback: function() {
+                    hljs.initHighlightingOnLoad();
+                }
+            }, {
+                src: 'plugin/zoom-js/zoom.js',
+                async: true
+            },
+            // { src: 'plugin/notes/notes.js', async: true },
+            {
+                src: 'plugin/math/math.js',
+                async: true
+            }, {
+                src: 'plugin/chalkboard/chalkboard.js'
+            }, {
+                src: 'plugin/menu/menu.js'
+            }
+        ],
+
+        chalkboard: { // font-awesome.min.css must be available
+            // src: "chalkboard/chalkboard.json",
+            toggleChalkboardButton: {
+                left: "80px"
+            },
+            toggleNotesButton: {
+                left: "130px"
+            },
+            //					theme: "whiteboard",
+            //					background: [ 'rgba(127,127,127,.1)' , 'reveal.js-plugins/chalkboard/img/whiteboard.png' ],
+            //					pen: [ 'reveal.js-plugins/chalkboard/img/boardmarker.png' , 'reveal.js-plugins/chalkboard/img/boardmarker.png' ],
+            //				        color: [ 'rgba(0,0,255,1)', 'rgba(0,0,255,0.5)' ],
+            //				        draw: [ (RevealChalkboard) ?  RevealChalkboard.drawWithPen : null , (RevealChalkboard) ? RevealChalkboard.drawWithPen : null ],
+        },
+        keyboard: {
+            67: function() {
+                RevealChalkboard.toggleNotesCanvas()
+            }, // toggle chalkboard when 'c' is pressed
+            66: function() {
+                RevealChalkboard.toggleChalkboard()
+            }, // toggle chalkboard when 'b' is pressed
+            46: function() {
+                RevealChalkboard.clear()
+            }, // clear chalkboard when 'DEL' is pressed
+            8: function() {
+                RevealChalkboard.reset()
+            }, // reset all chalkboard data when 'BACKSPACE' is pressed
+            // 68: function() { RevealChalkboard.download() },	// downlad chalkboard drawing when 'd' is pressed
+            //	90: function() { Recorder.downloadZip(); }, 	// press 'z' to download zip containing audio files
+            //84: function() { Recorder.fetchTTS(); } 	// press 't' to fetch TTS audio files
+        },
+    });
+    </script>
+    <script>
+    document.querySelector(".mask").addEventListener("click", function(e) {
+        e.stopPropagation();
+        e.preventDefault();
+        console.log(Reveal.getState());
+        var w = document.body.clientWidth;
+        var h = document.body.clientHeight;
+        var offset = 0;
+        if (0 <= e.pageX && e.pageX < (w / 2 - offset) && e.pageX < (w / 2) && e.pageY < (h - 100)) {
+            console.log("prev");
+            Reveal.prev();
+        }
+
+        if (w >= e.pageX && e.pageX > (w / 2 + offset) && e.pageX > (w / 2) && e.pageY < (h - 100)) {
+            console.log("next");
+            Reveal.next();
+        }
+        
+    })
+    </script>
+
+[2016-11-09 18:05:34.229] [INFO] console - { '0': 'index.js' }
+[2016-11-09 18:05:34.393] [INFO] console - { '0': 'process.js' }
+[2016-11-09 18:05:34.399] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 18:05:34.400] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 18:05:34.401] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 18:05:34.402] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 18:05:34.403] [INFO] index.js - 第3个参数为:--g
+[2016-11-09 18:05:34.404] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 18:05:34.405] [WARN] index.js - 生成页面
+[2016-11-09 18:05:34.419] [ERROR] process.js - ddddddddddddd
+[2016-11-09 18:05:34.422] [INFO] console - 正在清空output目录......
+[2016-11-09 18:05:34.442] [INFO] console - 6
+[2016-11-09 18:05:34.445] [INFO] console - [ '# 第1单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:05:34.449] [INFO] console - 0
+[2016-11-09 18:05:34.450] [INFO] console - 0
+[2016-11-09 18:05:34.451] [INFO] console - [ '# 第2单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:05:34.454] [INFO] console - 0
+[2016-11-09 18:05:34.455] [INFO] console - 0
+[2016-11-09 18:05:34.457] [INFO] console - [ '# 第3单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:05:34.461] [INFO] console - 0
+[2016-11-09 18:05:34.461] [INFO] console - 0
+[2016-11-09 18:05:34.462] [INFO] console - 3
+[2016-11-09 18:05:34.463] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3 }
+[2016-11-09 18:05:34.475] [ERROR] process.js - <!--//每个模板的入口文件-->
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<header>
+    <!--加载header模板-->
+      <meta charset="utf-8">
+    <title>全国化学二轮教用</title>
+    <meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+    <meta name="author" content="Hakim El Hattab">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/bk7.css" id="theme">
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+    <!-- Printing and PDF exports -->
+    <script>
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+    document.getElementsByTagName('head')[0].appendChild(link);
+    </script>
+    <!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+    <style>
+    html {
+        font-size: 38px;
+        -webkit-transition: font-size 0.2s ease-out;
+    }
+    
+    @media only screen and (max-width: 1200px) {
+        html {
+            font-size: 38px;
+        }
+    }
+    
+    @media only screen and (max-width: 1100px) {
+        html {
+            font-size: 36px;
+        }
+    }
+    
+    @media only screen and (max-width: 1000px) {
+        html {
+            font-size: 34px;
+        }
+    }
+    
+    @media only screen and (max-width: 900px) {
+        html {
+            font-size: 32px;
+        }
+    }
+    
+    @media only screen and (max-width: 800px) {
+        html {
+            font-size: 30px;
+        }
+    }
+    
+    @media only screen and (max-width: 700px) {
+        html {
+            font-size: 28px;
+        }
+    }
+    
+    @media only screen and (max-width: 600px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 500px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 400px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 300px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    #header {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        height: 2em;
+        color: #558cd9;
+        font-family: "微软雅黑";
+        font-size: 0.8em;
+        line-height: 2em;
+        text-align: right;
+    }
+    
+    #head {
+        color: #558cd9;
+    }
+    
+    #footer {
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+        height: 2em;
+        color: #666666;
+        font-family: "微软雅黑";
+        font-size: 0.8em;
+        line-height: 1em;
+        text-align: center;
+    }
+    
+    #foot a {
+        text-decoration: none;
+        color: #666666;
+    }
+    
+    .reveal section img {
+        border: 0px;
+    }
+    
+    .centerLayout {
+        text-align: center;
+    }
+    
+    p.content {
+        font-size: 0.8em;
+        /*line-height: 1.2em;*/
+        text-indent: 1.6em;
+    }
+    
+    p.list-content {
+        font-size: 0.8em;
+        /*line-height: 1.2em;*/
+    }
+    
+    p.fragment {
+        font-size: 0.8em;
+        font-family: 'Times New Roman', "楷体", "宋体";
+    }
+    
+    .mask {
+        top: 0;
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        z-index: 10
+    }
+    </style>
+
+
+
+</header>
+<body>
+    <!--加载content模板-->
+    <div class="reveal">
+        <div class="mask"></div>
+        <!-- Any section element inside of this container is displayed as a slide -->
+        <div class="slides">
+                <!--ppt的每一页-->
+            
+                <section><h1> 第1单元</h1><p> 内容区域</p></section>
+            
+                <section><h2> 第1课</h2><p> 内容区域</p></section>
+            
+                <section><h2> 第2课</h2><p> 内容区域</p></section>
+            
+        </div>
+    </div>
+</div>        
+</body>
+<!--加载footer模板-->
+
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.js"></script>
+    <script>
+    // More info https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        width: 960,
+        height: 700,
+        slideNumber: true,
+        showNotes: false,
+        touch: false,
+        help: false,
+        overview: false,
+
+        transition: 'convex', // none/fade/slide/convex/concave/zoom
+
+        math: {
+            mathjax: 'MathJax/MathJax.js',
+            config: 'TeX-AMS_HTML-full' // See http://docs.mathjax.org/en/latest/config-files.html
+        },
+
+        menu: {
+            custom: [{
+                title: '帮助',
+                icon: '<i class="fa fa-info">',
+                src: 'help.html'
+            }],
+
+
+            themes: [{
+                name: '自然',
+                theme: 'css/theme/bk.css'
+            }, {
+                name: '蓝调',
+                theme: 'css/theme/bk1.css'
+            }, {
+                name: '朦胧',
+                theme: 'css/theme/bk2.css'
+            }, {
+                name: '清新',
+                theme: 'css/theme/bk3.css'
+            }, {
+                name: '蜂巢',
+                theme: 'css/theme/bk4.css'
+            }, {
+                name: '朴素',
+                theme: 'css/theme/bk5.css'
+            }, {
+                name: '梦幻',
+                theme: 'css/theme/bk6.css'
+            }, {
+                name: '晚霞',
+                theme: 'css/theme/bk7.css'
+            }],
+
+
+            transitions: false,
+            mouseWheel: true,
+            titleSelector: 'h2',
+            hideMissingTitles: true,
+
+        },
+
+        // More info https://github.com/hakimel/reveal.js#dependencies
+        dependencies: [{
+                src: 'lib/js/classList.js',
+                condition: function() {
+                    return !document.body.classList;
+                }
+            }, {
+                src: 'plugin/markdown/marked.js',
+                condition: function() {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            }, {
+                src: 'plugin/markdown/markdown.js',
+                condition: function() {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            }, {
+                src: 'plugin/highlight/highlight.js',
+                async: true,
+                callback: function() {
+                    hljs.initHighlightingOnLoad();
+                }
+            }, {
+                src: 'plugin/zoom-js/zoom.js',
+                async: true
+            },
+            // { src: 'plugin/notes/notes.js', async: true },
+            {
+                src: 'plugin/math/math.js',
+                async: true
+            }, {
+                src: 'plugin/chalkboard/chalkboard.js'
+            }, {
+                src: 'plugin/menu/menu.js'
+            }
+        ],
+
+        chalkboard: { // font-awesome.min.css must be available
+            // src: "chalkboard/chalkboard.json",
+            toggleChalkboardButton: {
+                left: "80px"
+            },
+            toggleNotesButton: {
+                left: "130px"
+            },
+            //					theme: "whiteboard",
+            //					background: [ 'rgba(127,127,127,.1)' , 'reveal.js-plugins/chalkboard/img/whiteboard.png' ],
+            //					pen: [ 'reveal.js-plugins/chalkboard/img/boardmarker.png' , 'reveal.js-plugins/chalkboard/img/boardmarker.png' ],
+            //				        color: [ 'rgba(0,0,255,1)', 'rgba(0,0,255,0.5)' ],
+            //				        draw: [ (RevealChalkboard) ?  RevealChalkboard.drawWithPen : null , (RevealChalkboard) ? RevealChalkboard.drawWithPen : null ],
+        },
+        keyboard: {
+            67: function() {
+                RevealChalkboard.toggleNotesCanvas()
+            }, // toggle chalkboard when 'c' is pressed
+            66: function() {
+                RevealChalkboard.toggleChalkboard()
+            }, // toggle chalkboard when 'b' is pressed
+            46: function() {
+                RevealChalkboard.clear()
+            }, // clear chalkboard when 'DEL' is pressed
+            8: function() {
+                RevealChalkboard.reset()
+            }, // reset all chalkboard data when 'BACKSPACE' is pressed
+            // 68: function() { RevealChalkboard.download() },	// downlad chalkboard drawing when 'd' is pressed
+            //	90: function() { Recorder.downloadZip(); }, 	// press 'z' to download zip containing audio files
+            //84: function() { Recorder.fetchTTS(); } 	// press 't' to fetch TTS audio files
+        },
+    });
+    </script>
+    <script>
+    document.querySelector(".mask").addEventListener("click", function(e) {
+        e.stopPropagation();
+        e.preventDefault();
+        console.log(Reveal.getState());
+        var w = document.body.clientWidth;
+        var h = document.body.clientHeight;
+        var offset = 0;
+        if (0 <= e.pageX && e.pageX < (w / 2 - offset) && e.pageX < (w / 2) && e.pageY < (h - 100)) {
+            console.log("prev");
+            Reveal.prev();
+        }
+
+        if (w >= e.pageX && e.pageX > (w / 2 + offset) && e.pageX > (w / 2) && e.pageY < (h - 100)) {
+            console.log("next");
+            Reveal.next();
+        }
+        
+    })
+    </script>
+
+[2016-11-09 18:05:34.608] [INFO] console - output目录清空完成......
+[2016-11-09 18:05:34.609] [INFO] console - 正在复制主题目录......
+[2016-11-09 18:05:49.038] [INFO] console - 主题文件复制完成......
+[2016-11-09 18:05:49.045] [INFO] console - 正在复制课件图片目录......
+[2016-11-09 18:05:49.051] [INFO] console - 图片复制完成......
+[2016-11-09 18:05:58.333] [INFO] console - { '0': 'index.js' }
+[2016-11-09 18:05:58.530] [INFO] console - { '0': 'process.js' }
+[2016-11-09 18:05:58.537] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 18:05:58.537] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 18:05:58.539] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 18:05:58.540] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 18:05:58.543] [INFO] index.js - 第3个参数为:--g
+[2016-11-09 18:05:58.544] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 18:05:58.545] [WARN] index.js - 生成页面
+[2016-11-09 18:05:58.545] [ERROR] process.js - ddddddddddddd
+[2016-11-09 18:05:58.547] [INFO] console - 正在清空output目录......
+[2016-11-09 18:05:58.552] [INFO] console - 6
+[2016-11-09 18:05:58.555] [INFO] console - [ '# 第1单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:05:58.562] [INFO] console - 0
+[2016-11-09 18:05:58.563] [INFO] console - 0
+[2016-11-09 18:05:58.564] [INFO] console - [ '# 第2单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:05:58.566] [INFO] console - 0
+[2016-11-09 18:05:58.567] [INFO] console - 0
+[2016-11-09 18:05:58.568] [INFO] console - [ '# 第3单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:05:58.573] [INFO] console - 0
+[2016-11-09 18:05:58.574] [INFO] console - 0
+[2016-11-09 18:05:58.575] [INFO] console - 3
+[2016-11-09 18:05:58.576] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3 }
+[2016-11-09 18:05:58.587] [ERROR] process.js - <!--//每个模板的入口文件-->
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<header>
+    <!--加载header模板-->
+      <meta charset="utf-8">
+    <title>全国化学二轮教用</title>
+    <meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+    <meta name="author" content="Hakim El Hattab">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/bk7.css" id="theme">
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+    <!-- Printing and PDF exports -->
+    <script>
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+    document.getElementsByTagName('head')[0].appendChild(link);
+    </script>
+    <!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+    <style>
+    html {
+        font-size: 38px;
+        -webkit-transition: font-size 0.2s ease-out;
+    }
+    
+    @media only screen and (max-width: 1200px) {
+        html {
+            font-size: 38px;
+        }
+    }
+    
+    @media only screen and (max-width: 1100px) {
+        html {
+            font-size: 36px;
+        }
+    }
+    
+    @media only screen and (max-width: 1000px) {
+        html {
+            font-size: 34px;
+        }
+    }
+    
+    @media only screen and (max-width: 900px) {
+        html {
+            font-size: 32px;
+        }
+    }
+    
+    @media only screen and (max-width: 800px) {
+        html {
+            font-size: 30px;
+        }
+    }
+    
+    @media only screen and (max-width: 700px) {
+        html {
+            font-size: 28px;
+        }
+    }
+    
+    @media only screen and (max-width: 600px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 500px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 400px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 300px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    #header {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        height: 2em;
+        color: #558cd9;
+        font-family: "微软雅黑";
+        font-size: 0.8em;
+        line-height: 2em;
+        text-align: right;
+    }
+    
+    #head {
+        color: #558cd9;
+    }
+    
+    #footer {
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+        height: 2em;
+        color: #666666;
+        font-family: "微软雅黑";
+        font-size: 0.8em;
+        line-height: 1em;
+        text-align: center;
+    }
+    
+    #foot a {
+        text-decoration: none;
+        color: #666666;
+    }
+    
+    .reveal section img {
+        border: 0px;
+    }
+    
+    .centerLayout {
+        text-align: center;
+    }
+    
+    p.content {
+        font-size: 0.8em;
+        /*line-height: 1.2em;*/
+        text-indent: 1.6em;
+    }
+    
+    p.list-content {
+        font-size: 0.8em;
+        /*line-height: 1.2em;*/
+    }
+    
+    p.fragment {
+        font-size: 0.8em;
+        font-family: 'Times New Roman', "楷体", "宋体";
+    }
+    
+    .mask {
+        top: 0;
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        z-index: 10
+    }
+    </style>
+
+
+
+</header>
+<body>
+    <!--加载content模板-->
+    <div class="reveal">
+        <div class="mask"></div>
+        <!-- Any section element inside of this container is displayed as a slide -->
+        <div class="slides">
+                <!--ppt的每一页-->
+            
+                <section><h1> 第1单元</h1><p> 内容区域</p></section>
+            
+                <section><h2> 第1课</h2><p> 内容区域</p></section>
+            
+                <section><h2> 第2课</h2><p> 内容区域</p></section>
+            
+        </div>
+    </div>
+</div>        
+</body>
+<!--加载footer模板-->
+
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.js"></script>
+    <script>
+    // More info https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        width: 960,
+        height: 700,
+        slideNumber: true,
+        showNotes: false,
+        touch: false,
+        help: false,
+        overview: false,
+
+        transition: 'convex', // none/fade/slide/convex/concave/zoom
+
+        math: {
+            mathjax: 'MathJax/MathJax.js',
+            config: 'TeX-AMS_HTML-full' // See http://docs.mathjax.org/en/latest/config-files.html
+        },
+
+        menu: {
+            custom: [{
+                title: '帮助',
+                icon: '<i class="fa fa-info">',
+                src: 'help.html'
+            }],
+
+
+            themes: [{
+                name: '自然',
+                theme: 'css/theme/bk.css'
+            }, {
+                name: '蓝调',
+                theme: 'css/theme/bk1.css'
+            }, {
+                name: '朦胧',
+                theme: 'css/theme/bk2.css'
+            }, {
+                name: '清新',
+                theme: 'css/theme/bk3.css'
+            }, {
+                name: '蜂巢',
+                theme: 'css/theme/bk4.css'
+            }, {
+                name: '朴素',
+                theme: 'css/theme/bk5.css'
+            }, {
+                name: '梦幻',
+                theme: 'css/theme/bk6.css'
+            }, {
+                name: '晚霞',
+                theme: 'css/theme/bk7.css'
+            }],
+
+
+            transitions: false,
+            mouseWheel: true,
+            titleSelector: 'h2',
+            hideMissingTitles: true,
+
+        },
+
+        // More info https://github.com/hakimel/reveal.js#dependencies
+        dependencies: [{
+                src: 'lib/js/classList.js',
+                condition: function() {
+                    return !document.body.classList;
+                }
+            }, {
+                src: 'plugin/markdown/marked.js',
+                condition: function() {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            }, {
+                src: 'plugin/markdown/markdown.js',
+                condition: function() {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            }, {
+                src: 'plugin/highlight/highlight.js',
+                async: true,
+                callback: function() {
+                    hljs.initHighlightingOnLoad();
+                }
+            }, {
+                src: 'plugin/zoom-js/zoom.js',
+                async: true
+            },
+            // { src: 'plugin/notes/notes.js', async: true },
+            {
+                src: 'plugin/math/math.js',
+                async: true
+            }, {
+                src: 'plugin/chalkboard/chalkboard.js'
+            }, {
+                src: 'plugin/menu/menu.js'
+            }
+        ],
+
+        chalkboard: { // font-awesome.min.css must be available
+            // src: "chalkboard/chalkboard.json",
+            toggleChalkboardButton: {
+                left: "80px"
+            },
+            toggleNotesButton: {
+                left: "130px"
+            },
+            //					theme: "whiteboard",
+            //					background: [ 'rgba(127,127,127,.1)' , 'reveal.js-plugins/chalkboard/img/whiteboard.png' ],
+            //					pen: [ 'reveal.js-plugins/chalkboard/img/boardmarker.png' , 'reveal.js-plugins/chalkboard/img/boardmarker.png' ],
+            //				        color: [ 'rgba(0,0,255,1)', 'rgba(0,0,255,0.5)' ],
+            //				        draw: [ (RevealChalkboard) ?  RevealChalkboard.drawWithPen : null , (RevealChalkboard) ? RevealChalkboard.drawWithPen : null ],
+        },
+        keyboard: {
+            67: function() {
+                RevealChalkboard.toggleNotesCanvas()
+            }, // toggle chalkboard when 'c' is pressed
+            66: function() {
+                RevealChalkboard.toggleChalkboard()
+            }, // toggle chalkboard when 'b' is pressed
+            46: function() {
+                RevealChalkboard.clear()
+            }, // clear chalkboard when 'DEL' is pressed
+            8: function() {
+                RevealChalkboard.reset()
+            }, // reset all chalkboard data when 'BACKSPACE' is pressed
+            // 68: function() { RevealChalkboard.download() },	// downlad chalkboard drawing when 'd' is pressed
+            //	90: function() { Recorder.downloadZip(); }, 	// press 'z' to download zip containing audio files
+            //84: function() { Recorder.fetchTTS(); } 	// press 't' to fetch TTS audio files
+        },
+    });
+    </script>
+    <script>
+    document.querySelector(".mask").addEventListener("click", function(e) {
+        e.stopPropagation();
+        e.preventDefault();
+        console.log(Reveal.getState());
+        var w = document.body.clientWidth;
+        var h = document.body.clientHeight;
+        var offset = 0;
+        if (0 <= e.pageX && e.pageX < (w / 2 - offset) && e.pageX < (w / 2) && e.pageY < (h - 100)) {
+            console.log("prev");
+            Reveal.prev();
+        }
+
+        if (w >= e.pageX && e.pageX > (w / 2 + offset) && e.pageX > (w / 2) && e.pageY < (h - 100)) {
+            console.log("next");
+            Reveal.next();
+        }
+        
+    })
+    </script>
+
+[2016-11-09 18:06:20.631] [ERROR] process.js - { [Error: EPERM: operation not permitted, unlink 'E:\渲染引擎\工具集\新版课件制作工具\output\css\theme\README.md']
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'unlink',
+  path: 'E:\\渲染引擎\\工具集\\新版课件制作工具\\output\\css\\theme\\README.md' }
+Error: EPERM: operation not permitted, unlink 'E:\渲染引擎\工具集\新版课件制作工具\output\css\theme\README.md'
+    at Error (native)
+[2016-11-09 18:06:45.711] [INFO] console - { '0': 'index.js' }
+[2016-11-09 18:06:45.872] [INFO] console - { '0': 'process.js' }
+[2016-11-09 18:06:45.879] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 18:06:45.880] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 18:06:45.881] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 18:06:45.881] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 18:06:45.883] [INFO] index.js - 第3个参数为:--g
+[2016-11-09 18:06:45.883] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 18:06:45.884] [WARN] index.js - 生成页面
+[2016-11-09 18:06:45.884] [ERROR] process.js - ddddddddddddd
+[2016-11-09 18:06:45.886] [INFO] console - 正在清空output目录......
+[2016-11-09 18:06:45.892] [INFO] console - 6
+[2016-11-09 18:06:45.896] [INFO] console - [ '# 第1单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:06:45.899] [INFO] console - 0
+[2016-11-09 18:06:45.900] [INFO] console - 0
+[2016-11-09 18:06:45.901] [INFO] console - [ '# 第2单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:06:45.903] [INFO] console - 0
+[2016-11-09 18:06:45.904] [INFO] console - 0
+[2016-11-09 18:06:45.905] [INFO] console - [ '# 第3单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:06:45.908] [INFO] console - 0
+[2016-11-09 18:06:45.909] [INFO] console - 0
+[2016-11-09 18:06:45.910] [INFO] console - 3
+[2016-11-09 18:06:45.911] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3 }
+[2016-11-09 18:06:45.920] [ERROR] process.js - <!--//每个模板的入口文件-->
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<header>
+    <!--加载header模板-->
+      <meta charset="utf-8">
+    <title>全国化学二轮教用</title>
+    <meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+    <meta name="author" content="Hakim El Hattab">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/bk7.css" id="theme">
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+    <!-- Printing and PDF exports -->
+    <script>
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+    document.getElementsByTagName('head')[0].appendChild(link);
+    </script>
+    <!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+    <style>
+    html {
+        font-size: 38px;
+        -webkit-transition: font-size 0.2s ease-out;
+    }
+    
+    @media only screen and (max-width: 1200px) {
+        html {
+            font-size: 38px;
+        }
+    }
+    
+    @media only screen and (max-width: 1100px) {
+        html {
+            font-size: 36px;
+        }
+    }
+    
+    @media only screen and (max-width: 1000px) {
+        html {
+            font-size: 34px;
+        }
+    }
+    
+    @media only screen and (max-width: 900px) {
+        html {
+            font-size: 32px;
+        }
+    }
+    
+    @media only screen and (max-width: 800px) {
+        html {
+            font-size: 30px;
+        }
+    }
+    
+    @media only screen and (max-width: 700px) {
+        html {
+            font-size: 28px;
+        }
+    }
+    
+    @media only screen and (max-width: 600px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 500px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 400px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 300px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    #header {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        height: 2em;
+        color: #558cd9;
+        font-family: "微软雅黑";
+        font-size: 0.8em;
+        line-height: 2em;
+        text-align: right;
+    }
+    
+    #head {
+        color: #558cd9;
+    }
+    
+    #footer {
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+        height: 2em;
+        color: #666666;
+        font-family: "微软雅黑";
+        font-size: 0.8em;
+        line-height: 1em;
+        text-align: center;
+    }
+    
+    #foot a {
+        text-decoration: none;
+        color: #666666;
+    }
+    
+    .reveal section img {
+        border: 0px;
+    }
+    
+    .centerLayout {
+        text-align: center;
+    }
+    
+    p.content {
+        font-size: 0.8em;
+        /*line-height: 1.2em;*/
+        text-indent: 1.6em;
+    }
+    
+    p.list-content {
+        font-size: 0.8em;
+        /*line-height: 1.2em;*/
+    }
+    
+    p.fragment {
+        font-size: 0.8em;
+        font-family: 'Times New Roman', "楷体", "宋体";
+    }
+    
+    .mask {
+        top: 0;
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        z-index: 10
+    }
+    </style>
+
+
+
+</header>
+<body>
+    <!--加载content模板-->
+    <div class="reveal">
+        <div class="mask"></div>
+        <!-- Any section element inside of this container is displayed as a slide -->
+        <div class="slides">
+                <!--ppt的每一页-->
+            
+                <section><h1> 第1单元</h1><p> 内容区域</p></section>
+            
+                <section><h2> 第1课</h2><p> 内容区域</p></section>
+            
+                <section><h2> 第2课</h2><p> 内容区域</p></section>
+            
+        </div>
+    </div>
+</div>        
+</body>
+<!--加载footer模板-->
+
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.js"></script>
+    <script>
+    // More info https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        width: 960,
+        height: 700,
+        slideNumber: true,
+        showNotes: false,
+        touch: false,
+        help: false,
+        overview: false,
+
+        transition: 'convex', // none/fade/slide/convex/concave/zoom
+
+        math: {
+            mathjax: 'MathJax/MathJax.js',
+            config: 'TeX-AMS_HTML-full' // See http://docs.mathjax.org/en/latest/config-files.html
+        },
+
+        menu: {
+            custom: [{
+                title: '帮助',
+                icon: '<i class="fa fa-info">',
+                src: 'help.html'
+            }],
+
+
+            themes: [{
+                name: '自然',
+                theme: 'css/theme/bk.css'
+            }, {
+                name: '蓝调',
+                theme: 'css/theme/bk1.css'
+            }, {
+                name: '朦胧',
+                theme: 'css/theme/bk2.css'
+            }, {
+                name: '清新',
+                theme: 'css/theme/bk3.css'
+            }, {
+                name: '蜂巢',
+                theme: 'css/theme/bk4.css'
+            }, {
+                name: '朴素',
+                theme: 'css/theme/bk5.css'
+            }, {
+                name: '梦幻',
+                theme: 'css/theme/bk6.css'
+            }, {
+                name: '晚霞',
+                theme: 'css/theme/bk7.css'
+            }],
+
+
+            transitions: false,
+            mouseWheel: true,
+            titleSelector: 'h2',
+            hideMissingTitles: true,
+
+        },
+
+        // More info https://github.com/hakimel/reveal.js#dependencies
+        dependencies: [{
+                src: 'lib/js/classList.js',
+                condition: function() {
+                    return !document.body.classList;
+                }
+            }, {
+                src: 'plugin/markdown/marked.js',
+                condition: function() {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            }, {
+                src: 'plugin/markdown/markdown.js',
+                condition: function() {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            }, {
+                src: 'plugin/highlight/highlight.js',
+                async: true,
+                callback: function() {
+                    hljs.initHighlightingOnLoad();
+                }
+            }, {
+                src: 'plugin/zoom-js/zoom.js',
+                async: true
+            },
+            // { src: 'plugin/notes/notes.js', async: true },
+            {
+                src: 'plugin/math/math.js',
+                async: true
+            }, {
+                src: 'plugin/chalkboard/chalkboard.js'
+            }, {
+                src: 'plugin/menu/menu.js'
+            }
+        ],
+
+        chalkboard: { // font-awesome.min.css must be available
+            // src: "chalkboard/chalkboard.json",
+            toggleChalkboardButton: {
+                left: "80px"
+            },
+            toggleNotesButton: {
+                left: "130px"
+            },
+            //					theme: "whiteboard",
+            //					background: [ 'rgba(127,127,127,.1)' , 'reveal.js-plugins/chalkboard/img/whiteboard.png' ],
+            //					pen: [ 'reveal.js-plugins/chalkboard/img/boardmarker.png' , 'reveal.js-plugins/chalkboard/img/boardmarker.png' ],
+            //				        color: [ 'rgba(0,0,255,1)', 'rgba(0,0,255,0.5)' ],
+            //				        draw: [ (RevealChalkboard) ?  RevealChalkboard.drawWithPen : null , (RevealChalkboard) ? RevealChalkboard.drawWithPen : null ],
+        },
+        keyboard: {
+            67: function() {
+                RevealChalkboard.toggleNotesCanvas()
+            }, // toggle chalkboard when 'c' is pressed
+            66: function() {
+                RevealChalkboard.toggleChalkboard()
+            }, // toggle chalkboard when 'b' is pressed
+            46: function() {
+                RevealChalkboard.clear()
+            }, // clear chalkboard when 'DEL' is pressed
+            8: function() {
+                RevealChalkboard.reset()
+            }, // reset all chalkboard data when 'BACKSPACE' is pressed
+            // 68: function() { RevealChalkboard.download() },	// downlad chalkboard drawing when 'd' is pressed
+            //	90: function() { Recorder.downloadZip(); }, 	// press 'z' to download zip containing audio files
+            //84: function() { Recorder.fetchTTS(); } 	// press 't' to fetch TTS audio files
+        },
+    });
+    </script>
+    <script>
+    document.querySelector(".mask").addEventListener("click", function(e) {
+        e.stopPropagation();
+        e.preventDefault();
+        console.log(Reveal.getState());
+        var w = document.body.clientWidth;
+        var h = document.body.clientHeight;
+        var offset = 0;
+        if (0 <= e.pageX && e.pageX < (w / 2 - offset) && e.pageX < (w / 2) && e.pageY < (h - 100)) {
+            console.log("prev");
+            Reveal.prev();
+        }
+
+        if (w >= e.pageX && e.pageX > (w / 2 + offset) && e.pageX > (w / 2) && e.pageY < (h - 100)) {
+            console.log("next");
+            Reveal.next();
+        }
+        
+    })
+    </script>
+
+[2016-11-09 18:07:05.284] [ERROR] process.js - { [Error: EPERM: operation not permitted, unlink 'E:\渲染引擎\工具集\新版课件制作工具\output\css\theme\README.md']
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'unlink',
+  path: 'E:\\渲染引擎\\工具集\\新版课件制作工具\\output\\css\\theme\\README.md' }
+Error: EPERM: operation not permitted, unlink 'E:\渲染引擎\工具集\新版课件制作工具\output\css\theme\README.md'
+    at Error (native)
+[2016-11-09 18:07:17.024] [INFO] console - { '0': 'index.js' }
+[2016-11-09 18:07:17.204] [INFO] console - { '0': 'process.js' }
+[2016-11-09 18:07:17.210] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 18:07:17.211] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 18:07:17.211] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 18:07:17.212] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 18:07:17.213] [INFO] index.js - 第3个参数为:--c
+[2016-11-09 18:07:17.214] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 18:07:17.214] [WARN] index.js - 清空output目录
+[2016-11-09 18:07:17.215] [INFO] console - 正在清空output目录......
+[2016-11-09 18:07:17.221] [INFO] console - 6
+[2016-11-09 18:07:36.408] [ERROR] process.js - { [Error: EPERM: operation not permitted, unlink 'E:\渲染引擎\工具集\新版课件制作工具\output\css\theme\README.md']
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'unlink',
+  path: 'E:\\渲染引擎\\工具集\\新版课件制作工具\\output\\css\\theme\\README.md' }
+Error: EPERM: operation not permitted, unlink 'E:\渲染引擎\工具集\新版课件制作工具\output\css\theme\README.md'
+    at Error (native)
+[2016-11-09 18:07:59.766] [INFO] console - { '0': 'index.js' }
+[2016-11-09 18:07:59.976] [INFO] console - { '0': 'process.js' }
+[2016-11-09 18:07:59.985] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 18:07:59.986] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 18:07:59.989] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 18:07:59.991] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 18:07:59.994] [INFO] index.js - 第3个参数为:--c
+[2016-11-09 18:07:59.995] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 18:07:59.996] [WARN] index.js - 清空output目录
+[2016-11-09 18:07:59.997] [INFO] console - 正在清空output目录......
+[2016-11-09 18:08:00.006] [INFO] console - 6
+[2016-11-09 18:08:00.026] [INFO] console - output目录清空完成......
+[2016-11-09 18:08:04.592] [INFO] console - { '0': 'index.js' }
+[2016-11-09 18:08:04.756] [INFO] console - { '0': 'process.js' }
+[2016-11-09 18:08:04.762] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 18:08:04.762] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 18:08:04.763] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 18:08:04.764] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 18:08:04.766] [INFO] index.js - 第3个参数为:--g
+[2016-11-09 18:08:04.767] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 18:08:04.767] [WARN] index.js - 生成页面
+[2016-11-09 18:08:04.768] [ERROR] process.js - ddddddddddddd
+[2016-11-09 18:08:04.770] [INFO] console - 正在清空output目录......
+[2016-11-09 18:08:04.776] [INFO] console - 6
+[2016-11-09 18:08:04.778] [INFO] console - output目录清空完成......
+[2016-11-09 18:08:04.779] [INFO] console - 正在复制主题目录......
+[2016-11-09 18:08:08.077] [INFO] console - 主题文件复制完成......
+[2016-11-09 18:08:08.081] [INFO] console - 正在复制课件图片目录......
+[2016-11-09 18:08:08.083] [INFO] console - 图片复制完成......
+[2016-11-09 18:08:08.085] [INFO] console - [ '# 第1单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:08:08.091] [INFO] console - 0
+[2016-11-09 18:08:08.092] [INFO] console - 0
+[2016-11-09 18:08:08.093] [INFO] console - [ '# 第2单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:08:08.094] [INFO] console - 0
+[2016-11-09 18:08:08.095] [INFO] console - 0
+[2016-11-09 18:08:08.096] [INFO] console - [ '# 第3单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:08:08.097] [INFO] console - 0
+[2016-11-09 18:08:08.097] [INFO] console - 0
+[2016-11-09 18:08:08.098] [INFO] console - 3
+[2016-11-09 18:08:08.098] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3 }
+[2016-11-09 18:08:08.111] [ERROR] process.js - <!--//每个模板的入口文件-->
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<header>
+    <!--加载header模板-->
+      <meta charset="utf-8">
+    <title>全国化学二轮教用</title>
+    <meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+    <meta name="author" content="Hakim El Hattab">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/bk7.css" id="theme">
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+    <!-- Printing and PDF exports -->
+    <script>
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+    document.getElementsByTagName('head')[0].appendChild(link);
+    </script>
+    <!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+    <style>
+    html {
+        font-size: 38px;
+        -webkit-transition: font-size 0.2s ease-out;
+    }
+    
+    @media only screen and (max-width: 1200px) {
+        html {
+            font-size: 38px;
+        }
+    }
+    
+    @media only screen and (max-width: 1100px) {
+        html {
+            font-size: 36px;
+        }
+    }
+    
+    @media only screen and (max-width: 1000px) {
+        html {
+            font-size: 34px;
+        }
+    }
+    
+    @media only screen and (max-width: 900px) {
+        html {
+            font-size: 32px;
+        }
+    }
+    
+    @media only screen and (max-width: 800px) {
+        html {
+            font-size: 30px;
+        }
+    }
+    
+    @media only screen and (max-width: 700px) {
+        html {
+            font-size: 28px;
+        }
+    }
+    
+    @media only screen and (max-width: 600px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 500px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 400px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 300px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    #header {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        height: 2em;
+        color: #558cd9;
+        font-family: "微软雅黑";
+        font-size: 0.8em;
+        line-height: 2em;
+        text-align: right;
+    }
+    
+    #head {
+        color: #558cd9;
+    }
+    
+    #footer {
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+        height: 2em;
+        color: #666666;
+        font-family: "微软雅黑";
+        font-size: 0.8em;
+        line-height: 1em;
+        text-align: center;
+    }
+    
+    #foot a {
+        text-decoration: none;
+        color: #666666;
+    }
+    
+    .reveal section img {
+        border: 0px;
+    }
+    
+    .centerLayout {
+        text-align: center;
+    }
+    
+    p.content {
+        font-size: 0.8em;
+        /*line-height: 1.2em;*/
+        text-indent: 1.6em;
+    }
+    
+    p.list-content {
+        font-size: 0.8em;
+        /*line-height: 1.2em;*/
+    }
+    
+    p.fragment {
+        font-size: 0.8em;
+        font-family: 'Times New Roman', "楷体", "宋体";
+    }
+    
+    .mask {
+        top: 0;
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        z-index: 10
+    }
+    </style>
+
+
+
+</header>
+<body>
+    <!--加载content模板-->
+    <div class="reveal">
+        <div class="mask"></div>
+        <!-- Any section element inside of this container is displayed as a slide -->
+        <div class="slides">
+                <!--ppt的每一页-->
+            
+                <section><h1> 第1单元</h1><p> 内容区域</p></section>
+            
+                <section><h2> 第1课</h2><p> 内容区域</p></section>
+            
+                <section><h2> 第2课</h2><p> 内容区域</p></section>
+            
+        </div>
+    </div>
+</div>        
+</body>
+<!--加载footer模板-->
+
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.js"></script>
+    <script>
+    // More info https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        width: 960,
+        height: 700,
+        slideNumber: true,
+        showNotes: false,
+        touch: false,
+        help: false,
+        overview: false,
+
+        transition: 'convex', // none/fade/slide/convex/concave/zoom
+
+        math: {
+            mathjax: 'MathJax/MathJax.js',
+            config: 'TeX-AMS_HTML-full' // See http://docs.mathjax.org/en/latest/config-files.html
+        },
+
+        menu: {
+            custom: [{
+                title: '帮助',
+                icon: '<i class="fa fa-info">',
+                src: 'help.html'
+            }],
+
+
+            themes: [{
+                name: '自然',
+                theme: 'css/theme/bk.css'
+            }, {
+                name: '蓝调',
+                theme: 'css/theme/bk1.css'
+            }, {
+                name: '朦胧',
+                theme: 'css/theme/bk2.css'
+            }, {
+                name: '清新',
+                theme: 'css/theme/bk3.css'
+            }, {
+                name: '蜂巢',
+                theme: 'css/theme/bk4.css'
+            }, {
+                name: '朴素',
+                theme: 'css/theme/bk5.css'
+            }, {
+                name: '梦幻',
+                theme: 'css/theme/bk6.css'
+            }, {
+                name: '晚霞',
+                theme: 'css/theme/bk7.css'
+            }],
+
+
+            transitions: false,
+            mouseWheel: true,
+            titleSelector: 'h2',
+            hideMissingTitles: true,
+
+        },
+
+        // More info https://github.com/hakimel/reveal.js#dependencies
+        dependencies: [{
+                src: 'lib/js/classList.js',
+                condition: function() {
+                    return !document.body.classList;
+                }
+            }, {
+                src: 'plugin/markdown/marked.js',
+                condition: function() {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            }, {
+                src: 'plugin/markdown/markdown.js',
+                condition: function() {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            }, {
+                src: 'plugin/highlight/highlight.js',
+                async: true,
+                callback: function() {
+                    hljs.initHighlightingOnLoad();
+                }
+            }, {
+                src: 'plugin/zoom-js/zoom.js',
+                async: true
+            },
+            // { src: 'plugin/notes/notes.js', async: true },
+            {
+                src: 'plugin/math/math.js',
+                async: true
+            }, {
+                src: 'plugin/chalkboard/chalkboard.js'
+            }, {
+                src: 'plugin/menu/menu.js'
+            }
+        ],
+
+        chalkboard: { // font-awesome.min.css must be available
+            // src: "chalkboard/chalkboard.json",
+            toggleChalkboardButton: {
+                left: "80px"
+            },
+            toggleNotesButton: {
+                left: "130px"
+            },
+            //					theme: "whiteboard",
+            //					background: [ 'rgba(127,127,127,.1)' , 'reveal.js-plugins/chalkboard/img/whiteboard.png' ],
+            //					pen: [ 'reveal.js-plugins/chalkboard/img/boardmarker.png' , 'reveal.js-plugins/chalkboard/img/boardmarker.png' ],
+            //				        color: [ 'rgba(0,0,255,1)', 'rgba(0,0,255,0.5)' ],
+            //				        draw: [ (RevealChalkboard) ?  RevealChalkboard.drawWithPen : null , (RevealChalkboard) ? RevealChalkboard.drawWithPen : null ],
+        },
+        keyboard: {
+            67: function() {
+                RevealChalkboard.toggleNotesCanvas()
+            }, // toggle chalkboard when 'c' is pressed
+            66: function() {
+                RevealChalkboard.toggleChalkboard()
+            }, // toggle chalkboard when 'b' is pressed
+            46: function() {
+                RevealChalkboard.clear()
+            }, // clear chalkboard when 'DEL' is pressed
+            8: function() {
+                RevealChalkboard.reset()
+            }, // reset all chalkboard data when 'BACKSPACE' is pressed
+            // 68: function() { RevealChalkboard.download() },	// downlad chalkboard drawing when 'd' is pressed
+            //	90: function() { Recorder.downloadZip(); }, 	// press 'z' to download zip containing audio files
+            //84: function() { Recorder.fetchTTS(); } 	// press 't' to fetch TTS audio files
+        },
+    });
+    </script>
+    <script>
+    document.querySelector(".mask").addEventListener("click", function(e) {
+        e.stopPropagation();
+        e.preventDefault();
+        console.log(Reveal.getState());
+        var w = document.body.clientWidth;
+        var h = document.body.clientHeight;
+        var offset = 0;
+        if (0 <= e.pageX && e.pageX < (w / 2 - offset) && e.pageX < (w / 2) && e.pageY < (h - 100)) {
+            console.log("prev");
+            Reveal.prev();
+        }
+
+        if (w >= e.pageX && e.pageX > (w / 2 + offset) && e.pageX > (w / 2) && e.pageY < (h - 100)) {
+            console.log("next");
+            Reveal.next();
+        }
+        
+    })
+    </script>
+
+[2016-11-09 18:14:08.740] [INFO] console - { '0': 'index.js' }
+[2016-11-09 18:14:08.882] [INFO] console - { '0': 'process.js' }
+[2016-11-09 18:14:08.966] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 18:14:08.968] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 18:14:08.970] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 18:14:08.971] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 18:14:08.974] [INFO] index.js - 第3个参数为:--c
+[2016-11-09 18:14:08.975] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 18:14:08.976] [WARN] index.js - 清空output目录
+[2016-11-09 18:14:08.977] [INFO] console - 正在清空output目录......
+[2016-11-09 18:14:09.021] [INFO] console - 6
+[2016-11-09 18:14:30.576] [ERROR] process.js - { [Error: EPERM: operation not permitted, unlink 'E:\渲染引擎\工具集\新版课件制作工具\output\css\theme\README.md']
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'unlink',
+  path: 'E:\\渲染引擎\\工具集\\新版课件制作工具\\output\\css\\theme\\README.md' }
+Error: EPERM: operation not permitted, unlink 'E:\渲染引擎\工具集\新版课件制作工具\output\css\theme\README.md'
+    at Error (native)
+[2016-11-09 18:15:15.043] [INFO] console - { '0': 'index.js' }
+[2016-11-09 18:15:15.176] [INFO] console - { '0': 'process.js' }
+[2016-11-09 18:15:15.181] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 18:15:15.182] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 18:15:15.183] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 18:15:15.184] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 18:15:15.186] [INFO] index.js - 第3个参数为:--c
+[2016-11-09 18:15:15.186] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 18:15:15.187] [WARN] index.js - 清空output目录
+[2016-11-09 18:15:15.188] [INFO] console - 正在清空output目录......
+[2016-11-09 18:15:15.191] [INFO] console - 6
+[2016-11-09 18:15:34.619] [ERROR] process.js - { [Error: EPERM: operation not permitted, unlink 'E:\渲染引擎\工具集\新版课件制作工具\output\css\theme\README.md']
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'unlink',
+  path: 'E:\\渲染引擎\\工具集\\新版课件制作工具\\output\\css\\theme\\README.md' }
+Error: EPERM: operation not permitted, unlink 'E:\渲染引擎\工具集\新版课件制作工具\output\css\theme\README.md'
+    at Error (native)
+[2016-11-09 18:15:59.122] [INFO] console - { '0': 'index.js' }
+[2016-11-09 18:15:59.256] [INFO] console - { '0': 'process.js' }
+[2016-11-09 18:15:59.262] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 18:15:59.263] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 18:15:59.264] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 18:15:59.265] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 18:15:59.266] [INFO] index.js - 第3个参数为:--c
+[2016-11-09 18:15:59.267] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 18:15:59.267] [WARN] index.js - 清空output目录
+[2016-11-09 18:15:59.268] [INFO] console - 正在清空output目录......
+[2016-11-09 18:15:59.272] [INFO] console - 6
+[2016-11-09 18:15:59.316] [INFO] console - output目录清空完成......
+[2016-11-09 18:16:06.787] [INFO] console - { '0': 'index.js' }
+[2016-11-09 18:16:06.920] [INFO] console - { '0': 'process.js' }
+[2016-11-09 18:16:06.925] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 18:16:06.926] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 18:16:06.927] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 18:16:06.928] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 18:16:06.929] [INFO] index.js - 第3个参数为:--g
+[2016-11-09 18:16:06.930] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 18:16:06.930] [WARN] index.js - 生成页面
+[2016-11-09 18:16:06.931] [ERROR] process.js - ddddddddddddd
+[2016-11-09 18:16:06.933] [INFO] console - 正在清空output目录......
+[2016-11-09 18:16:06.937] [INFO] console - 6
+[2016-11-09 18:16:06.939] [INFO] console - output目录清空完成......
+[2016-11-09 18:16:06.940] [INFO] console - 正在复制主题目录......
+[2016-11-09 18:16:14.980] [INFO] console - 主题文件复制完成......
+[2016-11-09 18:16:14.986] [INFO] console - 正在复制课件图片目录......
+[2016-11-09 18:16:14.992] [INFO] console - 图片复制完成......
+[2016-11-09 18:16:14.995] [INFO] console - [ '# 第1单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:16:15.003] [INFO] console - 0
+[2016-11-09 18:16:15.004] [INFO] console - 0
+[2016-11-09 18:16:15.006] [INFO] console - [ '# 第2单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:16:15.007] [INFO] console - 0
+[2016-11-09 18:16:15.009] [INFO] console - 0
+[2016-11-09 18:16:15.010] [INFO] console - [ '# 第3单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:16:15.011] [INFO] console - 0
+[2016-11-09 18:16:15.012] [INFO] console - 0
+[2016-11-09 18:16:15.013] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3 }
+[2016-11-09 18:16:53.909] [INFO] console - { '0': 'index.js' }
+[2016-11-09 18:16:54.044] [INFO] console - { '0': 'process.js' }
+[2016-11-09 18:16:54.050] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 18:16:54.050] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 18:16:54.051] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 18:16:54.052] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 18:16:54.053] [INFO] index.js - 第3个参数为:--g
+[2016-11-09 18:16:54.054] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 18:16:54.054] [WARN] index.js - 生成页面
+[2016-11-09 18:16:54.055] [ERROR] process.js - ddddddddddddd
+[2016-11-09 18:16:54.056] [INFO] console - 正在清空output目录......
+[2016-11-09 18:16:54.060] [INFO] console - 6
+[2016-11-09 18:17:14.723] [ERROR] process.js - { [Error: EPERM: operation not permitted, unlink 'E:\渲染引擎\工具集\新版课件制作工具\output\css\theme\README.md']
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'unlink',
+  path: 'E:\\渲染引擎\\工具集\\新版课件制作工具\\output\\css\\theme\\README.md' }
+Error: EPERM: operation not permitted, unlink 'E:\渲染引擎\工具集\新版课件制作工具\output\css\theme\README.md'
+    at Error (native)
+[2016-11-09 18:17:28.316] [INFO] console - { '0': 'index.js' }
+[2016-11-09 18:17:28.451] [INFO] console - { '0': 'process.js' }
+[2016-11-09 18:17:28.456] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 18:17:28.457] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 18:17:28.458] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 18:17:28.459] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 18:17:28.460] [INFO] index.js - 第3个参数为:--c
+[2016-11-09 18:17:28.460] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 18:17:28.461] [WARN] index.js - 清空output目录
+[2016-11-09 18:17:28.461] [INFO] console - 正在清空output目录......
+[2016-11-09 18:17:28.466] [INFO] console - 6
+[2016-11-09 18:17:28.651] [INFO] console - output目录清空完成......
+[2016-11-09 18:17:30.887] [INFO] console - { '0': 'index.js' }
+[2016-11-09 18:17:31.030] [INFO] console - { '0': 'process.js' }
+[2016-11-09 18:17:31.035] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 18:17:31.036] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 18:17:31.037] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 18:17:31.038] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 18:17:31.039] [INFO] index.js - 第3个参数为:--g
+[2016-11-09 18:17:31.040] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 18:17:31.041] [WARN] index.js - 生成页面
+[2016-11-09 18:17:31.041] [ERROR] process.js - ddddddddddddd
+[2016-11-09 18:17:31.043] [INFO] console - 正在清空output目录......
+[2016-11-09 18:17:31.048] [INFO] console - 6
+[2016-11-09 18:17:31.050] [INFO] console - output目录清空完成......
+[2016-11-09 18:17:31.051] [INFO] console - 正在复制主题目录......
+[2016-11-09 18:17:36.653] [INFO] console - 主题文件复制完成......
+[2016-11-09 18:17:36.657] [INFO] console - 正在复制课件图片目录......
+[2016-11-09 18:17:36.661] [INFO] console - 图片复制完成......
+[2016-11-09 18:17:36.663] [INFO] console - [ '# 第1单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:17:36.667] [INFO] console - 0
+[2016-11-09 18:17:36.667] [INFO] console - 0
+[2016-11-09 18:17:36.668] [INFO] console - [ '# 第2单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:17:36.669] [INFO] console - 0
+[2016-11-09 18:17:36.670] [INFO] console - 0
+[2016-11-09 18:17:36.671] [INFO] console - [ '# 第3单元', '> 内容区域', '', '## 第1课', '> 内容区域', '', '## 第2课', '> 内容区域' ]
+[2016-11-09 18:17:36.673] [INFO] console - 0
+[2016-11-09 18:17:36.673] [INFO] console - 0
+[2016-11-09 18:17:36.674] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3 }
+[2016-11-09 18:17:36.716] [ERROR] process.js - <!--//每个模板的入口文件-->
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<header>
+    <!--加载header模板-->
+      <meta charset="utf-8">
+    <title>全国化学二轮教用</title>
+    <meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+    <meta name="author" content="Hakim El Hattab">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/bk7.css" id="theme">
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+    <!-- Printing and PDF exports -->
+    <script>
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+    document.getElementsByTagName('head')[0].appendChild(link);
+    </script>
+    <!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+    <style>
+    html {
+        font-size: 38px;
+        -webkit-transition: font-size 0.2s ease-out;
+    }
+    
+    @media only screen and (max-width: 1200px) {
+        html {
+            font-size: 38px;
+        }
+    }
+    
+    @media only screen and (max-width: 1100px) {
+        html {
+            font-size: 36px;
+        }
+    }
+    
+    @media only screen and (max-width: 1000px) {
+        html {
+            font-size: 34px;
+        }
+    }
+    
+    @media only screen and (max-width: 900px) {
+        html {
+            font-size: 32px;
+        }
+    }
+    
+    @media only screen and (max-width: 800px) {
+        html {
+            font-size: 30px;
+        }
+    }
+    
+    @media only screen and (max-width: 700px) {
+        html {
+            font-size: 28px;
+        }
+    }
+    
+    @media only screen and (max-width: 600px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 500px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 400px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 300px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    #header {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        height: 2em;
+        color: #558cd9;
+        font-family: "微软雅黑";
+        font-size: 0.8em;
+        line-height: 2em;
+        text-align: right;
+    }
+    
+    #head {
+        color: #558cd9;
+    }
+    
+    #footer {
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+        height: 2em;
+        color: #666666;
+        font-family: "微软雅黑";
+        font-size: 0.8em;
+        line-height: 1em;
+        text-align: center;
+    }
+    
+    #foot a {
+        text-decoration: none;
+        color: #666666;
+    }
+    
+    .reveal section img {
+        border: 0px;
+    }
+    
+    .centerLayout {
+        text-align: center;
+    }
+    
+    p.content {
+        font-size: 0.8em;
+        /*line-height: 1.2em;*/
+        text-indent: 1.6em;
+    }
+    
+    p.list-content {
+        font-size: 0.8em;
+        /*line-height: 1.2em;*/
+    }
+    
+    p.fragment {
+        font-size: 0.8em;
+        font-family: 'Times New Roman', "楷体", "宋体";
+    }
+    
+    .mask {
+        top: 0;
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        z-index: 10
+    }
+    </style>
+
+
+
+</header>
+<body>
+    <!--加载content模板-->
+    <div class="reveal">
+        <div class="mask"></div>
+        <!-- Any section element inside of this container is displayed as a slide -->
+        <div class="slides">
+                <!--ppt的每一页-->
+            
+                <section><h1> 第1单元</h1><p> 内容区域</p></section>
+            
+                <section><h2> 第1课</h2><p> 内容区域</p></section>
+            
+                <section><h2> 第2课</h2><p> 内容区域</p></section>
+            
+        </div>
+    </div>
+</div>        
+</body>
+<!--加载footer模板-->
+
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.js"></script>
+    <script>
+    // More info https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        width: 960,
+        height: 700,
+        slideNumber: true,
+        showNotes: false,
+        touch: false,
+        help: false,
+        overview: false,
+
+        transition: 'convex', // none/fade/slide/convex/concave/zoom
+
+        math: {
+            mathjax: 'MathJax/MathJax.js',
+            config: 'TeX-AMS_HTML-full' // See http://docs.mathjax.org/en/latest/config-files.html
+        },
+
+        menu: {
+            custom: [{
+                title: '帮助',
+                icon: '<i class="fa fa-info">',
+                src: 'help.html'
+            }],
+
+
+            themes: [{
+                name: '自然',
+                theme: 'css/theme/bk.css'
+            }, {
+                name: '蓝调',
+                theme: 'css/theme/bk1.css'
+            }, {
+                name: '朦胧',
+                theme: 'css/theme/bk2.css'
+            }, {
+                name: '清新',
+                theme: 'css/theme/bk3.css'
+            }, {
+                name: '蜂巢',
+                theme: 'css/theme/bk4.css'
+            }, {
+                name: '朴素',
+                theme: 'css/theme/bk5.css'
+            }, {
+                name: '梦幻',
+                theme: 'css/theme/bk6.css'
+            }, {
+                name: '晚霞',
+                theme: 'css/theme/bk7.css'
+            }],
+
+
+            transitions: false,
+            mouseWheel: true,
+            titleSelector: 'h2',
+            hideMissingTitles: true,
+
+        },
+
+        // More info https://github.com/hakimel/reveal.js#dependencies
+        dependencies: [{
+                src: 'lib/js/classList.js',
+                condition: function() {
+                    return !document.body.classList;
+                }
+            }, {
+                src: 'plugin/markdown/marked.js',
+                condition: function() {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            }, {
+                src: 'plugin/markdown/markdown.js',
+                condition: function() {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            }, {
+                src: 'plugin/highlight/highlight.js',
+                async: true,
+                callback: function() {
+                    hljs.initHighlightingOnLoad();
+                }
+            }, {
+                src: 'plugin/zoom-js/zoom.js',
+                async: true
+            },
+            // { src: 'plugin/notes/notes.js', async: true },
+            {
+                src: 'plugin/math/math.js',
+                async: true
+            }, {
+                src: 'plugin/chalkboard/chalkboard.js'
+            }, {
+                src: 'plugin/menu/menu.js'
+            }
+        ],
+
+        chalkboard: { // font-awesome.min.css must be available
+            // src: "chalkboard/chalkboard.json",
+            toggleChalkboardButton: {
+                left: "80px"
+            },
+            toggleNotesButton: {
+                left: "130px"
+            },
+            //					theme: "whiteboard",
+            //					background: [ 'rgba(127,127,127,.1)' , 'reveal.js-plugins/chalkboard/img/whiteboard.png' ],
+            //					pen: [ 'reveal.js-plugins/chalkboard/img/boardmarker.png' , 'reveal.js-plugins/chalkboard/img/boardmarker.png' ],
+            //				        color: [ 'rgba(0,0,255,1)', 'rgba(0,0,255,0.5)' ],
+            //				        draw: [ (RevealChalkboard) ?  RevealChalkboard.drawWithPen : null , (RevealChalkboard) ? RevealChalkboard.drawWithPen : null ],
+        },
+        keyboard: {
+            67: function() {
+                RevealChalkboard.toggleNotesCanvas()
+            }, // toggle chalkboard when 'c' is pressed
+            66: function() {
+                RevealChalkboard.toggleChalkboard()
+            }, // toggle chalkboard when 'b' is pressed
+            46: function() {
+                RevealChalkboard.clear()
+            }, // clear chalkboard when 'DEL' is pressed
+            8: function() {
+                RevealChalkboard.reset()
+            }, // reset all chalkboard data when 'BACKSPACE' is pressed
+            // 68: function() { RevealChalkboard.download() },	// downlad chalkboard drawing when 'd' is pressed
+            //	90: function() { Recorder.downloadZip(); }, 	// press 'z' to download zip containing audio files
+            //84: function() { Recorder.fetchTTS(); } 	// press 't' to fetch TTS audio files
+        },
+    });
+    </script>
+    <script>
+    document.querySelector(".mask").addEventListener("click", function(e) {
+        e.stopPropagation();
+        e.preventDefault();
+        console.log(Reveal.getState());
+        var w = document.body.clientWidth;
+        var h = document.body.clientHeight;
+        var offset = 0;
+        if (0 <= e.pageX && e.pageX < (w / 2 - offset) && e.pageX < (w / 2) && e.pageY < (h - 100)) {
+            console.log("prev");
+            Reveal.prev();
+        }
+
+        if (w >= e.pageX && e.pageX > (w / 2 + offset) && e.pageX > (w / 2) && e.pageY < (h - 100)) {
+            console.log("next");
+            Reveal.next();
+        }
+        
+    })
+    </script>
+
+[2016-11-09 18:17:36.830] [ERROR] process.js - <!--//每个模板的入口文件-->
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<header>
+    <!--加载header模板-->
+      <meta charset="utf-8">
+    <title>全国化学二轮教用</title>
+    <meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+    <meta name="author" content="Hakim El Hattab">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/bk7.css" id="theme">
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+    <!-- Printing and PDF exports -->
+    <script>
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+    document.getElementsByTagName('head')[0].appendChild(link);
+    </script>
+    <!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+    <style>
+    html {
+        font-size: 38px;
+        -webkit-transition: font-size 0.2s ease-out;
+    }
+    
+    @media only screen and (max-width: 1200px) {
+        html {
+            font-size: 38px;
+        }
+    }
+    
+    @media only screen and (max-width: 1100px) {
+        html {
+            font-size: 36px;
+        }
+    }
+    
+    @media only screen and (max-width: 1000px) {
+        html {
+            font-size: 34px;
+        }
+    }
+    
+    @media only screen and (max-width: 900px) {
+        html {
+            font-size: 32px;
+        }
+    }
+    
+    @media only screen and (max-width: 800px) {
+        html {
+            font-size: 30px;
+        }
+    }
+    
+    @media only screen and (max-width: 700px) {
+        html {
+            font-size: 28px;
+        }
+    }
+    
+    @media only screen and (max-width: 600px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 500px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 400px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 300px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    #header {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        height: 2em;
+        color: #558cd9;
+        font-family: "微软雅黑";
+        font-size: 0.8em;
+        line-height: 2em;
+        text-align: right;
+    }
+    
+    #head {
+        color: #558cd9;
+    }
+    
+    #footer {
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+        height: 2em;
+        color: #666666;
+        font-family: "微软雅黑";
+        font-size: 0.8em;
+        line-height: 1em;
+        text-align: center;
+    }
+    
+    #foot a {
+        text-decoration: none;
+        color: #666666;
+    }
+    
+    .reveal section img {
+        border: 0px;
+    }
+    
+    .centerLayout {
+        text-align: center;
+    }
+    
+    p.content {
+        font-size: 0.8em;
+        /*line-height: 1.2em;*/
+        text-indent: 1.6em;
+    }
+    
+    p.list-content {
+        font-size: 0.8em;
+        /*line-height: 1.2em;*/
+    }
+    
+    p.fragment {
+        font-size: 0.8em;
+        font-family: 'Times New Roman', "楷体", "宋体";
+    }
+    
+    .mask {
+        top: 0;
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        z-index: 10
+    }
+    </style>
+
+
+
+</header>
+<body>
+    <!--加载content模板-->
+    <div class="reveal">
+        <div class="mask"></div>
+        <!-- Any section element inside of this container is displayed as a slide -->
+        <div class="slides">
+                <!--ppt的每一页-->
+            
+                <section><h1> 第2单元</h1><p> 内容区域</p></section>
+            
+                <section><h2> 第1课</h2><p> 内容区域</p></section>
+            
+                <section><h2> 第2课</h2><p> 内容区域</p></section>
+            
+        </div>
+    </div>
+</div>        
+</body>
+<!--加载footer模板-->
+
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.js"></script>
+    <script>
+    // More info https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        width: 960,
+        height: 700,
+        slideNumber: true,
+        showNotes: false,
+        touch: false,
+        help: false,
+        overview: false,
+
+        transition: 'convex', // none/fade/slide/convex/concave/zoom
+
+        math: {
+            mathjax: 'MathJax/MathJax.js',
+            config: 'TeX-AMS_HTML-full' // See http://docs.mathjax.org/en/latest/config-files.html
+        },
+
+        menu: {
+            custom: [{
+                title: '帮助',
+                icon: '<i class="fa fa-info">',
+                src: 'help.html'
+            }],
+
+
+            themes: [{
+                name: '自然',
+                theme: 'css/theme/bk.css'
+            }, {
+                name: '蓝调',
+                theme: 'css/theme/bk1.css'
+            }, {
+                name: '朦胧',
+                theme: 'css/theme/bk2.css'
+            }, {
+                name: '清新',
+                theme: 'css/theme/bk3.css'
+            }, {
+                name: '蜂巢',
+                theme: 'css/theme/bk4.css'
+            }, {
+                name: '朴素',
+                theme: 'css/theme/bk5.css'
+            }, {
+                name: '梦幻',
+                theme: 'css/theme/bk6.css'
+            }, {
+                name: '晚霞',
+                theme: 'css/theme/bk7.css'
+            }],
+
+
+            transitions: false,
+            mouseWheel: true,
+            titleSelector: 'h2',
+            hideMissingTitles: true,
+
+        },
+
+        // More info https://github.com/hakimel/reveal.js#dependencies
+        dependencies: [{
+                src: 'lib/js/classList.js',
+                condition: function() {
+                    return !document.body.classList;
+                }
+            }, {
+                src: 'plugin/markdown/marked.js',
+                condition: function() {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            }, {
+                src: 'plugin/markdown/markdown.js',
+                condition: function() {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            }, {
+                src: 'plugin/highlight/highlight.js',
+                async: true,
+                callback: function() {
+                    hljs.initHighlightingOnLoad();
+                }
+            }, {
+                src: 'plugin/zoom-js/zoom.js',
+                async: true
+            },
+            // { src: 'plugin/notes/notes.js', async: true },
+            {
+                src: 'plugin/math/math.js',
+                async: true
+            }, {
+                src: 'plugin/chalkboard/chalkboard.js'
+            }, {
+                src: 'plugin/menu/menu.js'
+            }
+        ],
+
+        chalkboard: { // font-awesome.min.css must be available
+            // src: "chalkboard/chalkboard.json",
+            toggleChalkboardButton: {
+                left: "80px"
+            },
+            toggleNotesButton: {
+                left: "130px"
+            },
+            //					theme: "whiteboard",
+            //					background: [ 'rgba(127,127,127,.1)' , 'reveal.js-plugins/chalkboard/img/whiteboard.png' ],
+            //					pen: [ 'reveal.js-plugins/chalkboard/img/boardmarker.png' , 'reveal.js-plugins/chalkboard/img/boardmarker.png' ],
+            //				        color: [ 'rgba(0,0,255,1)', 'rgba(0,0,255,0.5)' ],
+            //				        draw: [ (RevealChalkboard) ?  RevealChalkboard.drawWithPen : null , (RevealChalkboard) ? RevealChalkboard.drawWithPen : null ],
+        },
+        keyboard: {
+            67: function() {
+                RevealChalkboard.toggleNotesCanvas()
+            }, // toggle chalkboard when 'c' is pressed
+            66: function() {
+                RevealChalkboard.toggleChalkboard()
+            }, // toggle chalkboard when 'b' is pressed
+            46: function() {
+                RevealChalkboard.clear()
+            }, // clear chalkboard when 'DEL' is pressed
+            8: function() {
+                RevealChalkboard.reset()
+            }, // reset all chalkboard data when 'BACKSPACE' is pressed
+            // 68: function() { RevealChalkboard.download() },	// downlad chalkboard drawing when 'd' is pressed
+            //	90: function() { Recorder.downloadZip(); }, 	// press 'z' to download zip containing audio files
+            //84: function() { Recorder.fetchTTS(); } 	// press 't' to fetch TTS audio files
+        },
+    });
+    </script>
+    <script>
+    document.querySelector(".mask").addEventListener("click", function(e) {
+        e.stopPropagation();
+        e.preventDefault();
+        console.log(Reveal.getState());
+        var w = document.body.clientWidth;
+        var h = document.body.clientHeight;
+        var offset = 0;
+        if (0 <= e.pageX && e.pageX < (w / 2 - offset) && e.pageX < (w / 2) && e.pageY < (h - 100)) {
+            console.log("prev");
+            Reveal.prev();
+        }
+
+        if (w >= e.pageX && e.pageX > (w / 2 + offset) && e.pageX > (w / 2) && e.pageY < (h - 100)) {
+            console.log("next");
+            Reveal.next();
+        }
+        
+    })
+    </script>
+
+[2016-11-09 18:17:37.008] [ERROR] process.js - <!--//每个模板的入口文件-->
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<header>
+    <!--加载header模板-->
+      <meta charset="utf-8">
+    <title>全国化学二轮教用</title>
+    <meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+    <meta name="author" content="Hakim El Hattab">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/bk7.css" id="theme">
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+    <!-- Printing and PDF exports -->
+    <script>
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+    document.getElementsByTagName('head')[0].appendChild(link);
+    </script>
+    <!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+    <style>
+    html {
+        font-size: 38px;
+        -webkit-transition: font-size 0.2s ease-out;
+    }
+    
+    @media only screen and (max-width: 1200px) {
+        html {
+            font-size: 38px;
+        }
+    }
+    
+    @media only screen and (max-width: 1100px) {
+        html {
+            font-size: 36px;
+        }
+    }
+    
+    @media only screen and (max-width: 1000px) {
+        html {
+            font-size: 34px;
+        }
+    }
+    
+    @media only screen and (max-width: 900px) {
+        html {
+            font-size: 32px;
+        }
+    }
+    
+    @media only screen and (max-width: 800px) {
+        html {
+            font-size: 30px;
+        }
+    }
+    
+    @media only screen and (max-width: 700px) {
+        html {
+            font-size: 28px;
+        }
+    }
+    
+    @media only screen and (max-width: 600px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 500px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 400px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    @media only screen and (max-width: 300px) {
+        html {
+            font-size: 10px;
+        }
+    }
+    
+    #header {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        height: 2em;
+        color: #558cd9;
+        font-family: "微软雅黑";
+        font-size: 0.8em;
+        line-height: 2em;
+        text-align: right;
+    }
+    
+    #head {
+        color: #558cd9;
+    }
+    
+    #footer {
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+        height: 2em;
+        color: #666666;
+        font-family: "微软雅黑";
+        font-size: 0.8em;
+        line-height: 1em;
+        text-align: center;
+    }
+    
+    #foot a {
+        text-decoration: none;
+        color: #666666;
+    }
+    
+    .reveal section img {
+        border: 0px;
+    }
+    
+    .centerLayout {
+        text-align: center;
+    }
+    
+    p.content {
+        font-size: 0.8em;
+        /*line-height: 1.2em;*/
+        text-indent: 1.6em;
+    }
+    
+    p.list-content {
+        font-size: 0.8em;
+        /*line-height: 1.2em;*/
+    }
+    
+    p.fragment {
+        font-size: 0.8em;
+        font-family: 'Times New Roman', "楷体", "宋体";
+    }
+    
+    .mask {
+        top: 0;
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        z-index: 10
+    }
+    </style>
+
+
+
+</header>
+<body>
+    <!--加载content模板-->
+    <div class="reveal">
+        <div class="mask"></div>
+        <!-- Any section element inside of this container is displayed as a slide -->
+        <div class="slides">
+                <!--ppt的每一页-->
+            
+                <section><h1> 第3单元</h1><p> 内容区域</p></section>
+            
+                <section><h2> 第1课</h2><p> 内容区域</p></section>
+            
+                <section><h2> 第2课</h2><p> 内容区域</p></section>
+            
+        </div>
+    </div>
+</div>        
+</body>
+<!--加载footer模板-->
+
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.js"></script>
+    <script>
+    // More info https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        width: 960,
+        height: 700,
+        slideNumber: true,
+        showNotes: false,
+        touch: false,
+        help: false,
+        overview: false,
+
+        transition: 'convex', // none/fade/slide/convex/concave/zoom
+
+        math: {
+            mathjax: 'MathJax/MathJax.js',
+            config: 'TeX-AMS_HTML-full' // See http://docs.mathjax.org/en/latest/config-files.html
+        },
+
+        menu: {
+            custom: [{
+                title: '帮助',
+                icon: '<i class="fa fa-info">',
+                src: 'help.html'
+            }],
+
+
+            themes: [{
+                name: '自然',
+                theme: 'css/theme/bk.css'
+            }, {
+                name: '蓝调',
+                theme: 'css/theme/bk1.css'
+            }, {
+                name: '朦胧',
+                theme: 'css/theme/bk2.css'
+            }, {
+                name: '清新',
+                theme: 'css/theme/bk3.css'
+            }, {
+                name: '蜂巢',
+                theme: 'css/theme/bk4.css'
+            }, {
+                name: '朴素',
+                theme: 'css/theme/bk5.css'
+            }, {
+                name: '梦幻',
+                theme: 'css/theme/bk6.css'
+            }, {
+                name: '晚霞',
+                theme: 'css/theme/bk7.css'
+            }],
+
+
+            transitions: false,
+            mouseWheel: true,
+            titleSelector: 'h2',
+            hideMissingTitles: true,
+
+        },
+
+        // More info https://github.com/hakimel/reveal.js#dependencies
+        dependencies: [{
+                src: 'lib/js/classList.js',
+                condition: function() {
+                    return !document.body.classList;
+                }
+            }, {
+                src: 'plugin/markdown/marked.js',
+                condition: function() {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            }, {
+                src: 'plugin/markdown/markdown.js',
+                condition: function() {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            }, {
+                src: 'plugin/highlight/highlight.js',
+                async: true,
+                callback: function() {
+                    hljs.initHighlightingOnLoad();
+                }
+            }, {
+                src: 'plugin/zoom-js/zoom.js',
+                async: true
+            },
+            // { src: 'plugin/notes/notes.js', async: true },
+            {
+                src: 'plugin/math/math.js',
+                async: true
+            }, {
+                src: 'plugin/chalkboard/chalkboard.js'
+            }, {
+                src: 'plugin/menu/menu.js'
+            }
+        ],
+
+        chalkboard: { // font-awesome.min.css must be available
+            // src: "chalkboard/chalkboard.json",
+            toggleChalkboardButton: {
+                left: "80px"
+            },
+            toggleNotesButton: {
+                left: "130px"
+            },
+            //					theme: "whiteboard",
+            //					background: [ 'rgba(127,127,127,.1)' , 'reveal.js-plugins/chalkboard/img/whiteboard.png' ],
+            //					pen: [ 'reveal.js-plugins/chalkboard/img/boardmarker.png' , 'reveal.js-plugins/chalkboard/img/boardmarker.png' ],
+            //				        color: [ 'rgba(0,0,255,1)', 'rgba(0,0,255,0.5)' ],
+            //				        draw: [ (RevealChalkboard) ?  RevealChalkboard.drawWithPen : null , (RevealChalkboard) ? RevealChalkboard.drawWithPen : null ],
+        },
+        keyboard: {
+            67: function() {
+                RevealChalkboard.toggleNotesCanvas()
+            }, // toggle chalkboard when 'c' is pressed
+            66: function() {
+                RevealChalkboard.toggleChalkboard()
+            }, // toggle chalkboard when 'b' is pressed
+            46: function() {
+                RevealChalkboard.clear()
+            }, // clear chalkboard when 'DEL' is pressed
+            8: function() {
+                RevealChalkboard.reset()
+            }, // reset all chalkboard data when 'BACKSPACE' is pressed
+            // 68: function() { RevealChalkboard.download() },	// downlad chalkboard drawing when 'd' is pressed
+            //	90: function() { Recorder.downloadZip(); }, 	// press 'z' to download zip containing audio files
+            //84: function() { Recorder.fetchTTS(); } 	// press 't' to fetch TTS audio files
+        },
+    });
+    </script>
+    <script>
+    document.querySelector(".mask").addEventListener("click", function(e) {
+        e.stopPropagation();
+        e.preventDefault();
+        console.log(Reveal.getState());
+        var w = document.body.clientWidth;
+        var h = document.body.clientHeight;
+        var offset = 0;
+        if (0 <= e.pageX && e.pageX < (w / 2 - offset) && e.pageX < (w / 2) && e.pageY < (h - 100)) {
+            console.log("prev");
+            Reveal.prev();
+        }
+
+        if (w >= e.pageX && e.pageX > (w / 2 + offset) && e.pageX > (w / 2) && e.pageY < (h - 100)) {
+            console.log("next");
+            Reveal.next();
+        }
+        
+    })
+    </script>
+
