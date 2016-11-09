@@ -1,72 +1,1936 @@
-[2016-11-09 14:57:22.422] [INFO] console - Module {
-  id: '.',
-  exports: {},
-  parent: null,
-  filename: 'E:\\渲染引擎\\工具集\\新版课件制作工具\\index.js',
-  loaded: false,
-  children: 
-   [ Module {
-       id: 'E:\\渲染引擎\\工具集\\新版课件制作工具\\src\\utils\\log.js',
-       exports: [Object],
-       parent: [Circular],
-       filename: 'E:\\渲染引擎\\工具集\\新版课件制作工具\\src\\utils\\log.js',
-       loaded: true,
-       children: [Object],
-       paths: [Object] },
-     Module {
-       id: 'E:\\渲染引擎\\工具集\\新版课件制作工具\\src\\process.js',
-       exports: [Object],
-       parent: [Circular],
-       filename: 'E:\\渲染引擎\\工具集\\新版课件制作工具\\src\\process.js',
-       loaded: true,
-       children: [Object],
-       paths: [Object] } ],
-  paths: 
-   [ 'E:\\渲染引擎\\工具集\\新版课件制作工具\\node_modules',
-     'E:\\渲染引擎\\工具集\\node_modules',
-     'E:\\渲染引擎\\node_modules',
-     'E:\\node_modules' ] }
-[2016-11-09 14:57:22.438] [INFO] console - E:\渲染引擎\工具集\新版课件制作工具\index.js
-[2016-11-09 14:57:22.440] [INFO] console - E:\渲染引擎\工具集\新版课件制作工具
-[2016-11-09 14:57:22.441] [INFO] console - undefined
-[2016-11-09 14:57:22.442] [INFO] console - dasdasd ds sd
-[2016-11-09 14:58:03.486] [INFO] console - { '0': 'index.js' }
-[2016-11-09 14:58:03.644] [INFO] console - { '0': 'process.js' }
-[2016-11-09 14:58:03.646] [INFO] console - 数据处理对象实例化！！！
-[2016-11-09 14:58:03.647] [INFO] console - 读取系统配置文件config.yml
-[2016-11-09 14:58:03.647] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
-[2016-11-09 14:58:03.648] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
-[2016-11-09 14:58:03.650] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
-[2016-11-09 14:58:03.650] [INFO] console - This is a function with a param: a=1 b=2
-[2016-11-09 14:58:03.652] [INFO] console - undefined
-[2016-11-09 14:58:03.654] [INFO] console - dasdasd ds sd
-[2016-11-09 15:07:29.305] [INFO] console - { '0': 'index.js' }
-[2016-11-09 15:07:29.454] [INFO] console - { '0': 'process.js' }
-[2016-11-09 15:07:29.455] [INFO] console - 数据处理对象实例化！！！
-[2016-11-09 15:07:29.456] [INFO] console - 读取系统配置文件config.yml
-[2016-11-09 15:07:29.457] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
-[2016-11-09 15:07:29.458] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
-[2016-11-09 15:07:29.460] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
-[2016-11-09 15:07:29.460] [INFO] console - This is a function with a param: a=1 b=2
-[2016-11-09 15:07:29.461] [INFO] console - undefined
-[2016-11-09 15:07:43.468] [INFO] console - { '0': 'index.js' }
-[2016-11-09 15:07:43.635] [INFO] console - { '0': 'process.js' }
-[2016-11-09 15:07:43.637] [INFO] console - 数据处理对象实例化！！！
-[2016-11-09 15:07:43.637] [INFO] console - 读取系统配置文件config.yml
-[2016-11-09 15:07:43.638] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
-[2016-11-09 15:07:43.639] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
-[2016-11-09 15:07:43.641] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
-[2016-11-09 15:07:43.642] [INFO] console - This is a function with a param: a=1 b=2
-[2016-11-09 15:07:43.643] [INFO] console - undefined
-[2016-11-09 15:07:43.643] [INFO] console - 6
-[2016-11-09 15:32:49.605] [INFO] console - { '0': 'index.js' }
-[2016-11-09 15:32:49.847] [INFO] console - { '0': 'process.js' }
-[2016-11-09 15:32:49.894] [WARN] process.js - 1
-[2016-11-09 15:32:49.895] [WARN] process.js - 2
-[2016-11-09 15:32:49.895] [WARN] process.js - 3
-[2016-11-09 15:32:49.896] [INFO] console - 数据处理对象实例化！！！
-[2016-11-09 15:32:49.896] [INFO] console - 读取系统配置文件config.yml
-[2016-11-09 15:32:49.897] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
-[2016-11-09 15:32:49.898] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
-[2016-11-09 15:32:49.899] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
-[2016-11-09 15:32:49.900] [INFO] console - 6
+[2016-11-09 16:58:58.665] [WARN] process.js - 3 >>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 16:58:58.666] [WARN] process.js - [ '<section><h1>第1单元</h1><p>内容区域</p></section>',
+  '<section><h1>第2单元</h1><p>内容区域</p></section>',
+  '<section><h1>第3单元</h1><p>内容区域</p></section>' ]
+[2016-11-09 16:58:58.672] [INFO] console - 3
+[2016-11-09 16:58:58.674] [ERROR] process.js - <section><h1>第1单元</h1><p>内容区域</p></section>
+[2016-11-09 16:59:13.407] [INFO] console - { '0': 'index.js' }
+[2016-11-09 16:59:13.559] [INFO] console - { '0': 'process.js' }
+[2016-11-09 16:59:13.562] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 16:59:13.562] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 16:59:13.564] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 16:59:13.564] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 16:59:13.567] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 16:59:13.568] [INFO] console - 6
+[2016-11-09 16:59:13.572] [INFO] console - 3
+[2016-11-09 16:59:13.573] [ERROR] process.js - <section><h1>第1单元</h1><p>内容区域</p></section>
+[2016-11-09 16:59:26.083] [INFO] console - { '0': 'index.js' }
+[2016-11-09 16:59:26.303] [INFO] console - { '0': 'process.js' }
+[2016-11-09 16:59:26.305] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 16:59:26.306] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 16:59:26.307] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 16:59:26.308] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 16:59:26.309] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 16:59:26.310] [INFO] console - 6
+[2016-11-09 16:59:26.313] [INFO] console - 3
+[2016-11-09 16:59:26.314] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 16:59:58.219] [INFO] console - { '0': 'index.js' }
+[2016-11-09 16:59:58.374] [INFO] console - { '0': 'process.js' }
+[2016-11-09 16:59:58.375] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 16:59:58.376] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 16:59:58.376] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 16:59:58.377] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 16:59:58.377] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 16:59:58.377] [INFO] console - 6
+[2016-11-09 16:59:58.379] [INFO] console - 3
+[2016-11-09 16:59:58.380] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:15.904] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:16.052] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:16.053] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:16.054] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:16.055] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:16.055] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:16.056] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:16.057] [INFO] console - 6
+[2016-11-09 17:01:16.060] [INFO] console - 3
+[2016-11-09 17:01:16.060] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:16.585] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:16.732] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:16.734] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:16.734] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:16.735] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:16.736] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:16.737] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:16.738] [INFO] console - 6
+[2016-11-09 17:01:16.741] [INFO] console - 3
+[2016-11-09 17:01:16.742] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:17.131] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:17.294] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:17.295] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:17.296] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:17.297] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:17.298] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:17.299] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:17.301] [INFO] console - 6
+[2016-11-09 17:01:17.304] [INFO] console - 3
+[2016-11-09 17:01:17.304] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:17.590] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:17.757] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:17.759] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:17.759] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:17.761] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:17.761] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:17.762] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:17.763] [INFO] console - 6
+[2016-11-09 17:01:17.767] [INFO] console - 3
+[2016-11-09 17:01:17.767] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:18.055] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:18.227] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:18.228] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:18.229] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:18.230] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:18.230] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:18.231] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:18.232] [INFO] console - 6
+[2016-11-09 17:01:18.236] [INFO] console - 3
+[2016-11-09 17:01:18.236] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:18.506] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:18.674] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:18.675] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:18.675] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:18.677] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:18.678] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:18.679] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:18.679] [INFO] console - 6
+[2016-11-09 17:01:18.683] [INFO] console - 3
+[2016-11-09 17:01:18.683] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:18.958] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:19.125] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:19.126] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:19.127] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:19.128] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:19.129] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:19.130] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:19.130] [INFO] console - 6
+[2016-11-09 17:01:19.134] [INFO] console - 3
+[2016-11-09 17:01:19.134] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:19.421] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:19.584] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:19.585] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:19.586] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:19.587] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:19.588] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:19.590] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:19.590] [INFO] console - 6
+[2016-11-09 17:01:19.593] [INFO] console - 3
+[2016-11-09 17:01:19.594] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:19.876] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:20.041] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:20.043] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:20.044] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:20.045] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:20.046] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:20.047] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:20.049] [INFO] console - 6
+[2016-11-09 17:01:20.053] [INFO] console - 3
+[2016-11-09 17:01:20.054] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:20.325] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:20.486] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:20.487] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:20.487] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:20.488] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:20.489] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:20.490] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:20.491] [INFO] console - 6
+[2016-11-09 17:01:20.493] [INFO] console - 3
+[2016-11-09 17:01:20.494] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:42.587] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:42.758] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:42.759] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:42.760] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:42.761] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:42.762] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:42.763] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:42.764] [INFO] console - 6
+[2016-11-09 17:01:42.768] [INFO] console - 3
+[2016-11-09 17:01:42.769] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:44.051] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:44.218] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:44.220] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:44.221] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:44.222] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:44.223] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:44.224] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:44.225] [INFO] console - 6
+[2016-11-09 17:01:44.228] [INFO] console - 3
+[2016-11-09 17:01:44.228] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:45.008] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:45.159] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:45.161] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:45.161] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:45.163] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:45.164] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:45.165] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:45.167] [INFO] console - 6
+[2016-11-09 17:01:45.170] [INFO] console - 3
+[2016-11-09 17:01:45.171] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:45.620] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:45.783] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:45.784] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:45.785] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:45.786] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:45.787] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:45.788] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:45.788] [INFO] console - 6
+[2016-11-09 17:01:45.792] [INFO] console - 3
+[2016-11-09 17:01:45.792] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:46.263] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:46.433] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:46.435] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:46.436] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:46.437] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:46.438] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:46.438] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:46.439] [INFO] console - 6
+[2016-11-09 17:01:46.442] [INFO] console - 3
+[2016-11-09 17:01:46.442] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:46.879] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:47.041] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:47.042] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:47.043] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:47.044] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:47.045] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:47.046] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:47.046] [INFO] console - 6
+[2016-11-09 17:01:47.049] [INFO] console - 3
+[2016-11-09 17:01:47.050] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:47.359] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:47.531] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:47.532] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:47.533] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:47.534] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:47.535] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:47.536] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:47.537] [INFO] console - 6
+[2016-11-09 17:01:47.540] [INFO] console - 3
+[2016-11-09 17:01:47.540] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:47.824] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:47.992] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:47.993] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:47.994] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:47.995] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:47.996] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:47.997] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:47.998] [INFO] console - 6
+[2016-11-09 17:01:48.003] [INFO] console - 3
+[2016-11-09 17:01:48.003] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:48.444] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:48.607] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:48.608] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:48.609] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:48.611] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:48.612] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:48.613] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:48.614] [INFO] console - 6
+[2016-11-09 17:01:48.618] [INFO] console - 3
+[2016-11-09 17:01:48.619] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:48.906] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:49.071] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:49.072] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:49.073] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:49.074] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:49.075] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:49.076] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:49.077] [INFO] console - 6
+[2016-11-09 17:01:49.080] [INFO] console - 3
+[2016-11-09 17:01:49.081] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:49.377] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:49.543] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:49.544] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:49.545] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:49.546] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:49.548] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:49.550] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:49.550] [INFO] console - 6
+[2016-11-09 17:01:49.553] [INFO] console - 3
+[2016-11-09 17:01:49.554] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:49.845] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:50.012] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:50.013] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:50.014] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:50.015] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:50.017] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:50.018] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:50.019] [INFO] console - 6
+[2016-11-09 17:01:50.021] [INFO] console - 3
+[2016-11-09 17:01:50.022] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:50.303] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:50.473] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:50.476] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:50.476] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:50.477] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:50.479] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:50.480] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:50.481] [INFO] console - 6
+[2016-11-09 17:01:50.485] [INFO] console - 3
+[2016-11-09 17:01:50.485] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:50.767] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:50.954] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:50.956] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:50.956] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:50.957] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:50.958] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:50.960] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:50.960] [INFO] console - 6
+[2016-11-09 17:01:50.963] [INFO] console - 3
+[2016-11-09 17:01:50.964] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:51.234] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:51.414] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:51.416] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:51.417] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:51.418] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:51.419] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:51.421] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:51.422] [INFO] console - 6
+[2016-11-09 17:01:51.425] [INFO] console - 3
+[2016-11-09 17:01:51.426] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:51.705] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:51.890] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:51.891] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:51.892] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:51.894] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:51.895] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:51.896] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:51.897] [INFO] console - 6
+[2016-11-09 17:01:51.902] [INFO] console - 3
+[2016-11-09 17:01:51.903] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:52.177] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:52.350] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:52.352] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:52.352] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:52.353] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:52.355] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:52.356] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:52.357] [INFO] console - 6
+[2016-11-09 17:01:52.360] [INFO] console - 3
+[2016-11-09 17:01:52.361] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:52.647] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:52.830] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:52.833] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:52.835] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:52.836] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:52.837] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:52.839] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:52.840] [INFO] console - 6
+[2016-11-09 17:01:52.844] [INFO] console - 3
+[2016-11-09 17:01:52.845] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:53.113] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:53.293] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:53.295] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:53.295] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:53.296] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:53.298] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:53.300] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:53.301] [INFO] console - 6
+[2016-11-09 17:01:53.305] [INFO] console - 3
+[2016-11-09 17:01:53.305] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:53.588] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:53.759] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:53.760] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:53.761] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:53.762] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:53.764] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:53.765] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:53.766] [INFO] console - 6
+[2016-11-09 17:01:53.770] [INFO] console - 3
+[2016-11-09 17:01:53.771] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:54.070] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:54.228] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:54.230] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:54.230] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:54.232] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:54.233] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:54.235] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:54.236] [INFO] console - 6
+[2016-11-09 17:01:54.239] [INFO] console - 3
+[2016-11-09 17:01:54.240] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:54.525] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:54.687] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:54.689] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:54.689] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:54.690] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:54.691] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:54.693] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:54.693] [INFO] console - 6
+[2016-11-09 17:01:54.696] [INFO] console - 3
+[2016-11-09 17:01:54.697] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:54.991] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:55.146] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:55.148] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:55.149] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:55.150] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:55.151] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:55.153] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:55.153] [INFO] console - 6
+[2016-11-09 17:01:55.157] [INFO] console - 3
+[2016-11-09 17:01:55.158] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:55.432] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:55.600] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:55.602] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:55.603] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:55.604] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:55.605] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:55.607] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:55.607] [INFO] console - 6
+[2016-11-09 17:01:55.610] [INFO] console - 3
+[2016-11-09 17:01:55.610] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:55.906] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:56.063] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:56.065] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:56.067] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:56.068] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:56.069] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:56.071] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:56.071] [INFO] console - 6
+[2016-11-09 17:01:56.074] [INFO] console - 3
+[2016-11-09 17:01:56.075] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:56.330] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:56.516] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:56.518] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:56.518] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:56.519] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:56.521] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:56.522] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:56.523] [INFO] console - 6
+[2016-11-09 17:01:56.526] [INFO] console - 3
+[2016-11-09 17:01:56.526] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:56.804] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:56.986] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:56.988] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:56.988] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:56.989] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:56.990] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:56.992] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:56.992] [INFO] console - 6
+[2016-11-09 17:01:56.995] [INFO] console - 3
+[2016-11-09 17:01:56.996] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:57.273] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:57.456] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:57.458] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:57.459] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:57.460] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:57.462] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:57.464] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:57.465] [INFO] console - 6
+[2016-11-09 17:01:57.469] [INFO] console - 3
+[2016-11-09 17:01:57.470] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:57.756] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:57.934] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:57.936] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:57.936] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:57.937] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:57.938] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:57.940] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:57.941] [INFO] console - 6
+[2016-11-09 17:01:57.943] [INFO] console - 3
+[2016-11-09 17:01:57.944] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:58.460] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:58.633] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:58.635] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:58.636] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:58.637] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:58.638] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:58.640] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:58.640] [INFO] console - 6
+[2016-11-09 17:01:58.646] [INFO] console - 3
+[2016-11-09 17:01:58.647] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:58.930] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:59.093] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:59.095] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:59.096] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:59.097] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:59.098] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:59.100] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:59.101] [INFO] console - 6
+[2016-11-09 17:01:59.104] [INFO] console - 3
+[2016-11-09 17:01:59.105] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:59.371] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:01:59.554] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:01:59.555] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:01:59.556] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:01:59.557] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:01:59.558] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:01:59.560] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:01:59.561] [INFO] console - 6
+[2016-11-09 17:01:59.564] [INFO] console - 3
+[2016-11-09 17:01:59.565] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:01:59.835] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:00.018] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:00.019] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:00.020] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:00.021] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:00.022] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:00.024] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:00.025] [INFO] console - 6
+[2016-11-09 17:02:00.029] [INFO] console - 3
+[2016-11-09 17:02:00.030] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:00.341] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:00.523] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:00.524] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:00.525] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:00.526] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:00.527] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:00.528] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:00.529] [INFO] console - 6
+[2016-11-09 17:02:00.534] [INFO] console - 3
+[2016-11-09 17:02:00.535] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:00.814] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:00.991] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:00.993] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:00.993] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:00.994] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:00.995] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:00.997] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:00.997] [INFO] console - 6
+[2016-11-09 17:02:01.002] [INFO] console - 3
+[2016-11-09 17:02:01.002] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:01.272] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:01.442] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:01.444] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:01.445] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:01.446] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:01.447] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:01.451] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:01.452] [INFO] console - 6
+[2016-11-09 17:02:01.458] [INFO] console - 3
+[2016-11-09 17:02:01.460] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:01.746] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:01.912] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:01.913] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:01.914] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:01.915] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:01.917] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:01.918] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:01.919] [INFO] console - 6
+[2016-11-09 17:02:01.922] [INFO] console - 3
+[2016-11-09 17:02:01.923] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:02.207] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:02.357] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:02.359] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:02.360] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:02.361] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:02.362] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:02.364] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:02.364] [INFO] console - 6
+[2016-11-09 17:02:02.368] [INFO] console - 3
+[2016-11-09 17:02:02.369] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:02.679] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:02.846] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:02.848] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:02.849] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:02.850] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:02.851] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:02.853] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:02.853] [INFO] console - 6
+[2016-11-09 17:02:02.856] [INFO] console - 3
+[2016-11-09 17:02:02.857] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:03.138] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:03.296] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:03.298] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:03.299] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:03.300] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:03.302] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:03.303] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:03.304] [INFO] console - 6
+[2016-11-09 17:02:03.307] [INFO] console - 3
+[2016-11-09 17:02:03.308] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:03.609] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:03.768] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:03.770] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:03.770] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:03.772] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:03.773] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:03.775] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:03.775] [INFO] console - 6
+[2016-11-09 17:02:03.779] [INFO] console - 3
+[2016-11-09 17:02:03.779] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:04.058] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:04.220] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:04.221] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:04.222] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:04.223] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:04.225] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:04.226] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:04.227] [INFO] console - 6
+[2016-11-09 17:02:04.229] [INFO] console - 3
+[2016-11-09 17:02:04.230] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:04.520] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:04.685] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:04.687] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:04.688] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:04.689] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:04.690] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:04.691] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:04.692] [INFO] console - 6
+[2016-11-09 17:02:04.695] [INFO] console - 3
+[2016-11-09 17:02:04.695] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:04.967] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:05.150] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:05.151] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:05.152] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:05.153] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:05.155] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:05.156] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:05.157] [INFO] console - 6
+[2016-11-09 17:02:05.160] [INFO] console - 3
+[2016-11-09 17:02:05.160] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:05.442] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:05.638] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:05.640] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:05.641] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:05.642] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:05.642] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:05.644] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:05.645] [INFO] console - 6
+[2016-11-09 17:02:05.647] [INFO] console - 3
+[2016-11-09 17:02:05.648] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:05.923] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:06.107] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:06.108] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:06.109] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:06.110] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:06.111] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:06.112] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:06.113] [INFO] console - 6
+[2016-11-09 17:02:06.116] [INFO] console - 3
+[2016-11-09 17:02:06.117] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:06.403] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:06.578] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:06.580] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:06.580] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:06.581] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:06.584] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:06.586] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:06.587] [INFO] console - 6
+[2016-11-09 17:02:06.590] [INFO] console - 3
+[2016-11-09 17:02:06.591] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:06.863] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:07.039] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:07.041] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:07.041] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:07.042] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:07.043] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:07.045] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:07.045] [INFO] console - 6
+[2016-11-09 17:02:07.048] [INFO] console - 3
+[2016-11-09 17:02:07.049] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:07.320] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:07.489] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:07.490] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:07.491] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:07.492] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:07.493] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:07.494] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:07.495] [INFO] console - 6
+[2016-11-09 17:02:07.498] [INFO] console - 3
+[2016-11-09 17:02:07.499] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:07.784] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:07.945] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:07.946] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:07.947] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:07.948] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:07.950] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:07.951] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:07.952] [INFO] console - 6
+[2016-11-09 17:02:07.955] [INFO] console - 3
+[2016-11-09 17:02:07.956] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:08.238] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:08.398] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:08.400] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:08.401] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:08.402] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:08.403] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:08.405] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:08.405] [INFO] console - 6
+[2016-11-09 17:02:08.409] [INFO] console - 3
+[2016-11-09 17:02:08.409] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:08.701] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:08.868] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:08.869] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:08.870] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:08.871] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:08.872] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:08.874] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:08.874] [INFO] console - 6
+[2016-11-09 17:02:08.876] [INFO] console - 3
+[2016-11-09 17:02:08.877] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:09.177] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:09.345] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:09.347] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:09.348] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:09.350] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:09.351] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:09.352] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:09.353] [INFO] console - 6
+[2016-11-09 17:02:09.356] [INFO] console - 3
+[2016-11-09 17:02:09.357] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:09.660] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:09.831] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:09.833] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:09.834] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:09.835] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:09.836] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:09.838] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:09.838] [INFO] console - 6
+[2016-11-09 17:02:09.841] [INFO] console - 3
+[2016-11-09 17:02:09.842] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:10.135] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:10.289] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:10.290] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:10.291] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:10.292] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:10.293] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:10.294] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:10.295] [INFO] console - 6
+[2016-11-09 17:02:10.298] [INFO] console - 3
+[2016-11-09 17:02:10.298] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:10.541] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:10.695] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:10.697] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:10.698] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:10.699] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:10.701] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:10.703] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:10.703] [INFO] console - 6
+[2016-11-09 17:02:10.706] [INFO] console - 3
+[2016-11-09 17:02:10.706] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:11.228] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:11.412] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:11.414] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:11.415] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:11.417] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:11.418] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:11.420] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:11.421] [INFO] console - 6
+[2016-11-09 17:02:11.425] [INFO] console - 3
+[2016-11-09 17:02:11.426] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:11.758] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:11.946] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:11.948] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:11.949] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:11.950] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:11.952] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:11.954] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:11.955] [INFO] console - 6
+[2016-11-09 17:02:11.958] [INFO] console - 3
+[2016-11-09 17:02:11.959] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:12.276] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:12.460] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:12.461] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:12.462] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:12.463] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:12.465] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:12.469] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:12.470] [INFO] console - 6
+[2016-11-09 17:02:12.473] [INFO] console - 3
+[2016-11-09 17:02:12.474] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:12.830] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:13.018] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:13.019] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:13.020] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:13.021] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:13.023] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:13.025] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:13.025] [INFO] console - 6
+[2016-11-09 17:02:13.029] [INFO] console - 3
+[2016-11-09 17:02:13.030] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:13.364] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:13.552] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:13.554] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:13.554] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:13.556] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:13.557] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:13.559] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:13.560] [INFO] console - 6
+[2016-11-09 17:02:13.563] [INFO] console - 3
+[2016-11-09 17:02:13.564] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:13.878] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:14.071] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:14.072] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:14.073] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:14.075] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:14.076] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:14.077] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:14.078] [INFO] console - 6
+[2016-11-09 17:02:14.081] [INFO] console - 3
+[2016-11-09 17:02:14.082] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:14.385] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:14.580] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:14.582] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:14.583] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:14.584] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:14.586] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:14.588] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:14.588] [INFO] console - 6
+[2016-11-09 17:02:14.592] [INFO] console - 3
+[2016-11-09 17:02:14.593] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:14.937] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:15.131] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:15.135] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:15.142] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:15.144] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:15.146] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:15.148] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:15.150] [INFO] console - 6
+[2016-11-09 17:02:15.155] [INFO] console - 3
+[2016-11-09 17:02:15.156] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:15.469] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:15.670] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:15.672] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:15.673] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:15.674] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:15.675] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:15.676] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:15.677] [INFO] console - 6
+[2016-11-09 17:02:15.681] [INFO] console - 3
+[2016-11-09 17:02:15.682] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:15.993] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:16.195] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:16.196] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:16.197] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:16.198] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:16.200] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:16.202] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:16.204] [INFO] console - 6
+[2016-11-09 17:02:16.207] [INFO] console - 3
+[2016-11-09 17:02:16.208] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:16.512] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:16.701] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:16.703] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:16.704] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:16.706] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:16.708] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:16.709] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:16.710] [INFO] console - 6
+[2016-11-09 17:02:16.714] [INFO] console - 3
+[2016-11-09 17:02:16.714] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:16.994] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:17.160] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:17.168] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:17.170] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:17.171] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:17.173] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:17.175] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:17.176] [INFO] console - 6
+[2016-11-09 17:02:17.180] [INFO] console - 3
+[2016-11-09 17:02:17.181] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:17.459] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:17.626] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:17.628] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:17.628] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:17.629] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:17.631] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:17.632] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:17.633] [INFO] console - 6
+[2016-11-09 17:02:17.636] [INFO] console - 3
+[2016-11-09 17:02:17.637] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:17.928] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:18.096] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:18.098] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:18.099] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:18.100] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:18.102] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:18.103] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:18.104] [INFO] console - 6
+[2016-11-09 17:02:18.106] [INFO] console - 3
+[2016-11-09 17:02:18.107] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:18.397] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:18.570] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:18.572] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:18.572] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:18.574] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:18.575] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:18.576] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:18.576] [INFO] console - 6
+[2016-11-09 17:02:18.579] [INFO] console - 3
+[2016-11-09 17:02:18.580] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:18.867] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:19.043] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:19.044] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:19.045] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:19.047] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:19.048] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:19.050] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:19.051] [INFO] console - 6
+[2016-11-09 17:02:19.053] [INFO] console - 3
+[2016-11-09 17:02:19.054] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:19.352] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:19.510] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:19.512] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:19.513] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:19.514] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:19.515] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:19.517] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:19.518] [INFO] console - 6
+[2016-11-09 17:02:19.521] [INFO] console - 3
+[2016-11-09 17:02:19.522] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:19.809] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:19.971] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:19.973] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:19.974] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:19.975] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:19.977] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:19.978] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:19.979] [INFO] console - 6
+[2016-11-09 17:02:19.982] [INFO] console - 3
+[2016-11-09 17:02:19.983] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:20.279] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:20.441] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:20.442] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:20.443] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:20.444] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:20.445] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:20.447] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:20.448] [INFO] console - 6
+[2016-11-09 17:02:20.451] [INFO] console - 3
+[2016-11-09 17:02:20.452] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:20.752] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:20.925] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:20.927] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:20.928] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:20.929] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:20.930] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:20.931] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:20.933] [INFO] console - 6
+[2016-11-09 17:02:20.936] [INFO] console - 3
+[2016-11-09 17:02:20.937] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:21.208] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:21.381] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:21.383] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:21.384] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:21.386] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:21.387] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:21.389] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:21.390] [INFO] console - 6
+[2016-11-09 17:02:21.393] [INFO] console - 3
+[2016-11-09 17:02:21.394] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:21.679] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:21.861] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:21.862] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:21.863] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:21.864] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:21.865] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:21.867] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:21.868] [INFO] console - 6
+[2016-11-09 17:02:21.871] [INFO] console - 3
+[2016-11-09 17:02:21.872] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:22.142] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:22.323] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:22.325] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:22.326] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:22.327] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:22.328] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:22.329] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:22.330] [INFO] console - 6
+[2016-11-09 17:02:22.333] [INFO] console - 3
+[2016-11-09 17:02:22.334] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:22.623] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:22.799] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:22.801] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:22.802] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:22.803] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:22.804] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:22.805] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:22.806] [INFO] console - 6
+[2016-11-09 17:02:22.810] [INFO] console - 3
+[2016-11-09 17:02:22.811] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:23.081] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:23.252] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:23.254] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:23.255] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:23.260] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:23.263] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:23.267] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:23.268] [INFO] console - 6
+[2016-11-09 17:02:23.272] [INFO] console - 3
+[2016-11-09 17:02:23.272] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:23.557] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:23.719] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:23.720] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:23.721] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:23.722] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:23.723] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:23.725] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:23.726] [INFO] console - 6
+[2016-11-09 17:02:23.729] [INFO] console - 3
+[2016-11-09 17:02:23.729] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:24.015] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:24.186] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:24.188] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:24.188] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:24.190] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:24.191] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:24.192] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:24.192] [INFO] console - 6
+[2016-11-09 17:02:24.195] [INFO] console - 3
+[2016-11-09 17:02:24.195] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:24.494] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:24.659] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:24.660] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:24.661] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:24.663] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:24.664] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:24.666] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:24.667] [INFO] console - 6
+[2016-11-09 17:02:24.670] [INFO] console - 3
+[2016-11-09 17:02:24.671] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:24.957] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:25.120] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:25.121] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:25.122] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:25.123] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:25.124] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:25.125] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:25.126] [INFO] console - 6
+[2016-11-09 17:02:25.129] [INFO] console - 3
+[2016-11-09 17:02:25.129] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:25.422] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:25.587] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:25.588] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:25.589] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:25.591] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:25.592] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:25.593] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:25.594] [INFO] console - 6
+[2016-11-09 17:02:25.597] [INFO] console - 3
+[2016-11-09 17:02:25.598] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:25.881] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:26.042] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:26.043] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:26.044] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:26.045] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:26.047] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:26.049] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:26.050] [INFO] console - 6
+[2016-11-09 17:02:26.054] [INFO] console - 3
+[2016-11-09 17:02:26.054] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:26.331] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:26.506] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:26.508] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:26.509] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:26.510] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:26.511] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:26.513] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:26.514] [INFO] console - 6
+[2016-11-09 17:02:26.517] [INFO] console - 3
+[2016-11-09 17:02:26.518] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:26.805] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:26.987] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:26.988] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:26.989] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:26.990] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:26.991] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:26.992] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:26.993] [INFO] console - 6
+[2016-11-09 17:02:26.995] [INFO] console - 3
+[2016-11-09 17:02:26.996] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:27.284] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:27.471] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:27.473] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:27.474] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:27.475] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:27.476] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:27.478] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:27.478] [INFO] console - 6
+[2016-11-09 17:02:27.482] [INFO] console - 3
+[2016-11-09 17:02:27.483] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:27.751] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:27.928] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:27.929] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:27.930] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:27.931] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:27.932] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:27.935] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:27.935] [INFO] console - 6
+[2016-11-09 17:02:27.938] [INFO] console - 3
+[2016-11-09 17:02:27.938] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:28.212] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:28.397] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:28.399] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:28.400] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:28.401] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:28.403] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:28.404] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:28.405] [INFO] console - 6
+[2016-11-09 17:02:28.408] [INFO] console - 3
+[2016-11-09 17:02:28.409] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:28.685] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:28.866] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:28.868] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:28.869] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:28.870] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:28.871] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:28.873] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:28.873] [INFO] console - 6
+[2016-11-09 17:02:28.877] [INFO] console - 3
+[2016-11-09 17:02:28.878] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:29.166] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:29.333] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:29.335] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:29.336] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:29.338] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:29.339] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:29.342] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:29.345] [INFO] console - 6
+[2016-11-09 17:02:29.350] [INFO] console - 3
+[2016-11-09 17:02:29.352] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:29.631] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:29.800] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:29.802] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:29.802] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:29.803] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:29.804] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:29.805] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:29.806] [INFO] console - 6
+[2016-11-09 17:02:29.810] [INFO] console - 3
+[2016-11-09 17:02:29.811] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:30.109] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:30.272] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:30.274] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:30.275] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:30.276] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:30.277] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:30.278] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:30.279] [INFO] console - 6
+[2016-11-09 17:02:30.283] [INFO] console - 3
+[2016-11-09 17:02:30.284] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:30.576] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:30.743] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:30.744] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:30.745] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:30.746] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:30.747] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:30.749] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:30.750] [INFO] console - 6
+[2016-11-09 17:02:30.752] [INFO] console - 3
+[2016-11-09 17:02:30.753] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:31.051] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:31.220] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:31.222] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:31.223] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:31.224] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:31.225] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:31.227] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:31.227] [INFO] console - 6
+[2016-11-09 17:02:31.231] [INFO] console - 3
+[2016-11-09 17:02:31.232] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:31.523] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:31.688] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:31.689] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:31.690] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:31.691] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:31.692] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:31.694] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:31.694] [INFO] console - 6
+[2016-11-09 17:02:31.697] [INFO] console - 3
+[2016-11-09 17:02:31.698] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:31.983] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:32.144] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:32.145] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:32.146] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:32.147] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:32.148] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:32.150] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:32.151] [INFO] console - 6
+[2016-11-09 17:02:32.154] [INFO] console - 3
+[2016-11-09 17:02:32.155] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:32.435] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:32.610] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:32.612] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:32.613] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:32.615] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:32.616] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:32.619] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:32.619] [INFO] console - 6
+[2016-11-09 17:02:32.623] [INFO] console - 3
+[2016-11-09 17:02:32.624] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:32.928] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:33.098] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:33.100] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:33.101] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:33.102] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:33.104] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:33.105] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:33.106] [INFO] console - 6
+[2016-11-09 17:02:33.109] [INFO] console - 3
+[2016-11-09 17:02:33.110] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:33.395] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:33.573] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:33.574] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:33.575] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:33.576] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:33.577] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:33.578] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:33.579] [INFO] console - 6
+[2016-11-09 17:02:33.582] [INFO] console - 3
+[2016-11-09 17:02:33.583] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:33.865] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:34.043] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:34.045] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:34.045] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:34.047] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:34.048] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:34.050] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:34.051] [INFO] console - 6
+[2016-11-09 17:02:34.054] [INFO] console - 3
+[2016-11-09 17:02:34.055] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:34.340] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:34.516] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:34.518] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:34.518] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:34.519] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:34.520] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:34.522] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:34.523] [INFO] console - 6
+[2016-11-09 17:02:34.525] [INFO] console - 3
+[2016-11-09 17:02:34.526] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:34.798] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:34.982] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:34.984] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:34.984] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:34.985] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:34.986] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:34.988] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:34.990] [INFO] console - 6
+[2016-11-09 17:02:34.993] [INFO] console - 3
+[2016-11-09 17:02:34.993] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:35.277] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:35.452] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:35.453] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:35.454] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:35.455] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:35.456] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:35.458] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:35.459] [INFO] console - 6
+[2016-11-09 17:02:35.461] [INFO] console - 3
+[2016-11-09 17:02:35.462] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:35.741] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:35.907] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:35.908] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:35.909] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:35.910] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:35.911] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:35.913] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:35.914] [INFO] console - 6
+[2016-11-09 17:02:35.918] [INFO] console - 3
+[2016-11-09 17:02:35.918] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:36.211] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:36.366] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:36.368] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:36.368] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:36.369] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:36.370] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:36.371] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:36.372] [INFO] console - 6
+[2016-11-09 17:02:36.374] [INFO] console - 3
+[2016-11-09 17:02:36.375] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:36.662] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:36.831] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:36.833] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:36.834] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:36.836] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:36.837] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:36.839] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:36.840] [INFO] console - 6
+[2016-11-09 17:02:36.842] [INFO] console - 3
+[2016-11-09 17:02:36.843] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:37.162] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:37.331] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:37.333] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:37.334] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:37.335] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:37.336] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:37.338] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:37.338] [INFO] console - 6
+[2016-11-09 17:02:37.342] [INFO] console - 3
+[2016-11-09 17:02:37.342] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:37.637] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:37.802] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:37.804] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:37.805] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:37.806] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:37.807] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:37.809] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:37.809] [INFO] console - 6
+[2016-11-09 17:02:37.813] [INFO] console - 3
+[2016-11-09 17:02:37.813] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:38.096] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:38.257] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:38.259] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:38.260] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:38.261] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:38.262] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:38.263] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:38.264] [INFO] console - 6
+[2016-11-09 17:02:38.268] [INFO] console - 3
+[2016-11-09 17:02:38.269] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:38.571] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:38.743] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:38.745] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:38.745] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:38.746] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:38.748] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:38.750] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:38.751] [INFO] console - 6
+[2016-11-09 17:02:38.754] [INFO] console - 3
+[2016-11-09 17:02:38.755] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:39.048] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:39.229] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:39.231] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:39.232] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:39.234] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:39.235] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:39.236] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:39.237] [INFO] console - 6
+[2016-11-09 17:02:39.239] [INFO] console - 3
+[2016-11-09 17:02:39.240] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:39.535] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:39.700] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:39.702] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:39.702] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:39.703] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:39.704] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:39.706] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:39.706] [INFO] console - 6
+[2016-11-09 17:02:39.709] [INFO] console - 3
+[2016-11-09 17:02:39.710] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:39.992] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:40.174] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:40.176] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:40.176] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:40.177] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:40.178] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:40.180] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:40.181] [INFO] console - 6
+[2016-11-09 17:02:40.184] [INFO] console - 3
+[2016-11-09 17:02:40.186] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:40.456] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:40.636] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:40.637] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:40.638] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:40.639] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:40.640] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:40.642] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:40.643] [INFO] console - 6
+[2016-11-09 17:02:40.645] [INFO] console - 3
+[2016-11-09 17:02:40.646] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:40.916] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:41.098] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:41.100] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:41.101] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:41.102] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:41.103] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:41.105] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:41.105] [INFO] console - 6
+[2016-11-09 17:02:41.108] [INFO] console - 3
+[2016-11-09 17:02:41.109] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:41.382] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:41.560] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:41.562] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:41.562] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:41.563] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:41.564] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:41.566] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:41.567] [INFO] console - 6
+[2016-11-09 17:02:41.570] [INFO] console - 3
+[2016-11-09 17:02:41.571] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:41.847] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:42.018] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:42.020] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:42.020] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:42.022] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:42.023] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:42.024] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:42.025] [INFO] console - 6
+[2016-11-09 17:02:42.027] [INFO] console - 3
+[2016-11-09 17:02:42.028] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:42.303] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:42.470] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:42.471] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:42.472] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:42.474] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:42.475] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:42.476] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:42.476] [INFO] console - 6
+[2016-11-09 17:02:42.480] [INFO] console - 3
+[2016-11-09 17:02:42.481] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:42.765] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:42.930] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:42.932] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:42.933] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:42.935] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:42.936] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:42.937] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:42.938] [INFO] console - 6
+[2016-11-09 17:02:42.941] [INFO] console - 3
+[2016-11-09 17:02:42.942] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:43.232] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:43.394] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:43.396] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:43.396] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:43.398] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:43.399] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:43.401] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:43.401] [INFO] console - 6
+[2016-11-09 17:02:43.405] [INFO] console - 3
+[2016-11-09 17:02:43.406] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:43.686] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:43.850] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:43.851] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:43.852] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:43.853] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:43.854] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:43.855] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:43.856] [INFO] console - 6
+[2016-11-09 17:02:43.859] [INFO] console - 3
+[2016-11-09 17:02:43.859] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:44.145] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:44.298] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:44.300] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:44.301] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:44.302] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:44.304] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:44.305] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:44.306] [INFO] console - 6
+[2016-11-09 17:02:44.309] [INFO] console - 3
+[2016-11-09 17:02:44.309] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:44.591] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:44.753] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:44.755] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:44.756] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:44.757] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:44.758] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:44.761] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:44.761] [INFO] console - 6
+[2016-11-09 17:02:44.764] [INFO] console - 3
+[2016-11-09 17:02:44.766] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:45.052] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:45.227] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:45.228] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:45.229] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:45.231] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:45.232] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:45.234] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:45.235] [INFO] console - 6
+[2016-11-09 17:02:45.238] [INFO] console - 3
+[2016-11-09 17:02:45.239] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:45.517] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:45.687] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:45.688] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:45.689] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:45.690] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:45.691] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:45.692] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:45.693] [INFO] console - 6
+[2016-11-09 17:02:45.696] [INFO] console - 3
+[2016-11-09 17:02:45.696] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:45.974] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:46.146] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:46.147] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:46.149] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:46.150] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:46.151] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:46.153] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:46.153] [INFO] console - 6
+[2016-11-09 17:02:46.157] [INFO] console - 3
+[2016-11-09 17:02:46.157] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:46.434] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:46.609] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:46.610] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:46.611] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:46.612] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:46.613] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:46.615] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:46.617] [INFO] console - 6
+[2016-11-09 17:02:46.620] [INFO] console - 3
+[2016-11-09 17:02:46.621] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:46.898] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:47.066] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:47.068] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:47.069] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:47.069] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:47.071] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:47.073] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:47.074] [INFO] console - 6
+[2016-11-09 17:02:47.078] [INFO] console - 3
+[2016-11-09 17:02:47.080] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:47.355] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:47.512] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:47.514] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:47.515] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:47.516] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:47.517] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:47.519] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:47.520] [INFO] console - 6
+[2016-11-09 17:02:47.522] [INFO] console - 3
+[2016-11-09 17:02:47.523] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:47.811] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:47.970] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:47.972] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:47.973] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:47.974] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:47.975] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:47.977] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:47.978] [INFO] console - 6
+[2016-11-09 17:02:47.981] [INFO] console - 3
+[2016-11-09 17:02:47.982] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:48.267] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:48.427] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:48.429] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:48.430] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:48.431] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:48.432] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:48.434] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:48.434] [INFO] console - 6
+[2016-11-09 17:02:48.437] [INFO] console - 3
+[2016-11-09 17:02:48.438] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:48.730] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:48.891] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:48.893] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:48.893] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:48.895] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:48.896] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:48.898] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:48.899] [INFO] console - 6
+[2016-11-09 17:02:48.903] [INFO] console - 3
+[2016-11-09 17:02:48.903] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:49.191] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:49.359] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:49.361] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:49.361] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:49.362] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:49.364] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:49.366] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:49.367] [INFO] console - 6
+[2016-11-09 17:02:49.370] [INFO] console - 3
+[2016-11-09 17:02:49.370] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:49.665] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:49.828] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:49.829] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:49.830] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:49.831] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:49.832] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:49.835] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:49.835] [INFO] console - 6
+[2016-11-09 17:02:49.838] [INFO] console - 3
+[2016-11-09 17:02:49.839] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:50.112] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:50.297] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:50.298] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:50.299] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:50.300] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:50.301] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:50.303] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:50.304] [INFO] console - 6
+[2016-11-09 17:02:50.307] [INFO] console - 3
+[2016-11-09 17:02:50.308] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:50.591] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:50.786] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:50.788] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:50.788] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:50.789] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:50.790] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:50.792] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:50.793] [INFO] console - 6
+[2016-11-09 17:02:50.796] [INFO] console - 3
+[2016-11-09 17:02:50.797] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:51.075] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:51.253] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:51.255] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:51.256] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:51.257] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:51.259] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:51.261] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:51.262] [INFO] console - 6
+[2016-11-09 17:02:51.265] [INFO] console - 3
+[2016-11-09 17:02:51.266] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:51.533] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:51.718] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:51.720] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:51.721] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:51.722] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:51.724] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:51.725] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:51.726] [INFO] console - 6
+[2016-11-09 17:02:51.730] [INFO] console - 3
+[2016-11-09 17:02:51.730] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:52.004] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:52.185] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:52.186] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:52.187] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:52.188] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:52.189] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:52.190] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:52.191] [INFO] console - 6
+[2016-11-09 17:02:52.194] [INFO] console - 3
+[2016-11-09 17:02:52.194] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:52.477] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:52.652] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:52.655] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:52.656] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:52.658] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:52.660] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:52.661] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:52.662] [INFO] console - 6
+[2016-11-09 17:02:52.666] [INFO] console - 3
+[2016-11-09 17:02:52.667] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:53.211] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:53.408] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:53.410] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:53.410] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:53.411] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:53.412] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:53.413] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:53.414] [INFO] console - 6
+[2016-11-09 17:02:53.417] [INFO] console - 3
+[2016-11-09 17:02:53.418] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:53.731] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:53.956] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:53.958] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:53.958] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:53.959] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:53.961] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:53.962] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:53.963] [INFO] console - 6
+[2016-11-09 17:02:53.966] [INFO] console - 3
+[2016-11-09 17:02:53.967] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:54.286] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:54.455] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:54.456] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:54.457] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:54.458] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:54.459] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:54.461] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:54.461] [INFO] console - 6
+[2016-11-09 17:02:54.465] [INFO] console - 3
+[2016-11-09 17:02:54.466] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:54.777] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:54.961] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:54.962] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:54.963] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:54.965] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:54.967] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:54.969] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:54.970] [INFO] console - 6
+[2016-11-09 17:02:54.973] [INFO] console - 3
+[2016-11-09 17:02:54.974] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:55.336] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:55.628] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:55.630] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:55.632] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:55.634] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:55.635] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:55.638] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:55.641] [INFO] console - 6
+[2016-11-09 17:02:55.645] [INFO] console - 3
+[2016-11-09 17:02:55.646] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:56.101] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:56.338] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:56.342] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:56.343] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:56.345] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:56.346] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:56.349] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:56.350] [INFO] console - 6
+[2016-11-09 17:02:56.354] [INFO] console - 3
+[2016-11-09 17:02:56.354] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:56.779] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:56.953] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:56.955] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:56.956] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:56.957] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:56.958] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:56.959] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:56.960] [INFO] console - 6
+[2016-11-09 17:02:56.963] [INFO] console - 3
+[2016-11-09 17:02:56.963] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:57.307] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:57.544] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:57.546] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:57.546] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:57.549] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:57.552] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:57.554] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:57.555] [INFO] console - 6
+[2016-11-09 17:02:57.558] [INFO] console - 3
+[2016-11-09 17:02:57.559] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:57.880] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:58.077] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:58.079] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:58.080] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:58.080] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:58.082] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:58.085] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:58.086] [INFO] console - 6
+[2016-11-09 17:02:58.089] [INFO] console - 3
+[2016-11-09 17:02:58.091] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:58.377] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:58.538] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:58.539] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:58.540] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:58.541] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:58.542] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:58.544] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:58.545] [INFO] console - 6
+[2016-11-09 17:02:58.548] [INFO] console - 3
+[2016-11-09 17:02:58.549] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:58.838] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:58.999] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:59.001] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:59.002] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:59.003] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:59.004] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:59.005] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:59.006] [INFO] console - 6
+[2016-11-09 17:02:59.009] [INFO] console - 3
+[2016-11-09 17:02:59.010] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:59.300] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:59.470] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:59.472] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:59.472] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:59.474] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:59.475] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:59.477] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:59.477] [INFO] console - 6
+[2016-11-09 17:02:59.481] [INFO] console - 3
+[2016-11-09 17:02:59.482] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:02:59.756] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:02:59.937] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:02:59.939] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:02:59.940] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:02:59.941] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:02:59.942] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:02:59.943] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:02:59.944] [INFO] console - 6
+[2016-11-09 17:02:59.947] [INFO] console - 3
+[2016-11-09 17:02:59.948] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:00.248] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:00.428] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:00.429] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:00.430] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:00.431] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:00.433] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:00.436] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:00.436] [INFO] console - 6
+[2016-11-09 17:03:00.440] [INFO] console - 3
+[2016-11-09 17:03:00.441] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:00.728] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:00.907] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:00.908] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:00.908] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:00.909] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:00.910] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:00.912] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:00.912] [INFO] console - 6
+[2016-11-09 17:03:00.917] [INFO] console - 3
+[2016-11-09 17:03:00.918] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:01.206] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:01.385] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:01.386] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:01.387] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:01.387] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:01.389] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:01.391] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:01.392] [INFO] console - 6
+[2016-11-09 17:03:01.394] [INFO] console - 3
+[2016-11-09 17:03:01.395] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:01.668] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:01.843] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:01.845] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:01.845] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:01.846] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:01.848] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:01.850] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:01.851] [INFO] console - 6
+[2016-11-09 17:03:01.853] [INFO] console - 3
+[2016-11-09 17:03:01.854] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:02.146] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:02.336] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:02.338] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:02.339] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:02.340] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:02.341] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:02.342] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:02.343] [INFO] console - 6
+[2016-11-09 17:03:02.346] [INFO] console - 3
+[2016-11-09 17:03:02.346] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:02.652] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:02.861] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:02.863] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:02.863] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:02.866] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:02.868] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:02.869] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:02.870] [INFO] console - 6
+[2016-11-09 17:03:02.873] [INFO] console - 3
+[2016-11-09 17:03:02.874] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:03.205] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:03.399] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:03.401] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:03.402] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:03.403] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:03.404] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:03.406] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:03.406] [INFO] console - 6
+[2016-11-09 17:03:03.409] [INFO] console - 3
+[2016-11-09 17:03:03.410] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:03.716] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:03.907] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:03.908] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:03.909] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:03.910] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:03.912] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:03.915] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:03.916] [INFO] console - 6
+[2016-11-09 17:03:03.919] [INFO] console - 3
+[2016-11-09 17:03:03.920] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:04.229] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:04.412] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:04.414] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:04.416] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:04.417] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:04.418] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:04.419] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:04.420] [INFO] console - 6
+[2016-11-09 17:03:04.423] [INFO] console - 3
+[2016-11-09 17:03:04.424] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:04.774] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:05.009] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:05.012] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:05.013] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:05.015] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:05.017] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:05.019] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:05.022] [INFO] console - 6
+[2016-11-09 17:03:05.029] [INFO] console - 3
+[2016-11-09 17:03:05.030] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:05.445] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:05.663] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:05.667] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:05.669] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:05.673] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:05.675] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:05.679] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:05.682] [INFO] console - 6
+[2016-11-09 17:03:05.687] [INFO] console - 3
+[2016-11-09 17:03:05.688] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:06.108] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:06.312] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:06.313] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:06.314] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:06.316] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:06.317] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:06.319] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:06.319] [INFO] console - 6
+[2016-11-09 17:03:06.322] [INFO] console - 3
+[2016-11-09 17:03:06.323] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:06.598] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:06.842] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:06.844] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:06.845] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:06.847] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:06.849] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:06.851] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:06.852] [INFO] console - 6
+[2016-11-09 17:03:06.856] [INFO] console - 3
+[2016-11-09 17:03:06.857] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:07.151] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:07.320] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:07.321] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:07.322] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:07.323] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:07.324] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:07.326] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:07.327] [INFO] console - 6
+[2016-11-09 17:03:07.329] [INFO] console - 3
+[2016-11-09 17:03:07.330] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:07.626] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:07.790] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:07.791] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:07.792] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:07.793] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:07.794] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:07.795] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:07.796] [INFO] console - 6
+[2016-11-09 17:03:07.799] [INFO] console - 3
+[2016-11-09 17:03:07.800] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:08.090] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:08.251] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:08.252] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:08.253] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:08.254] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:08.255] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:08.258] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:08.258] [INFO] console - 6
+[2016-11-09 17:03:08.261] [INFO] console - 3
+[2016-11-09 17:03:08.261] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:08.550] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:08.735] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:08.736] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:08.737] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:08.738] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:08.739] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:08.740] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:08.741] [INFO] console - 6
+[2016-11-09 17:03:08.744] [INFO] console - 3
+[2016-11-09 17:03:08.745] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:09.047] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:09.227] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:09.229] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:09.230] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:09.231] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:09.234] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:09.236] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:09.236] [INFO] console - 6
+[2016-11-09 17:03:09.240] [INFO] console - 3
+[2016-11-09 17:03:09.240] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:09.546] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:09.717] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:09.719] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:09.719] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:09.720] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:09.721] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:09.723] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:09.724] [INFO] console - 6
+[2016-11-09 17:03:09.727] [INFO] console - 3
+[2016-11-09 17:03:09.727] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:10.018] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:10.185] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:10.186] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:10.187] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:10.189] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:10.190] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:10.191] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:10.192] [INFO] console - 6
+[2016-11-09 17:03:10.194] [INFO] console - 3
+[2016-11-09 17:03:10.195] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:10.495] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:10.664] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:10.665] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:10.667] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:10.668] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:10.669] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:10.670] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:10.671] [INFO] console - 6
+[2016-11-09 17:03:10.675] [INFO] console - 3
+[2016-11-09 17:03:10.675] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:10.941] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:11.143] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:11.144] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:11.145] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:11.146] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:11.147] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:11.149] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:11.150] [INFO] console - 6
+[2016-11-09 17:03:11.153] [INFO] console - 3
+[2016-11-09 17:03:11.153] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>
+[2016-11-09 17:03:11.426] [INFO] console - { '0': 'index.js' }
+[2016-11-09 17:03:11.617] [INFO] console - { '0': 'process.js' }
+[2016-11-09 17:03:11.619] [INFO] console - 数据处理对象实例化！！！
+[2016-11-09 17:03:11.619] [INFO] console - 读取系统配置文件config.yml
+[2016-11-09 17:03:11.620] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-09 17:03:11.621] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-09 17:03:11.623] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-09 17:03:11.623] [INFO] console - 6
+[2016-11-09 17:03:11.627] [INFO] console - 3
+[2016-11-09 17:03:11.628] [ERROR] process.js - <section><h1>第2单元</h1><p>内容区域</p></section>

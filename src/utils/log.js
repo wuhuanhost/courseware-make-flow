@@ -5,7 +5,7 @@ log4js.configure({
 	}, {
 		type: 'file',
 		filename: 'logs/logger.log',
-		maxLogSize: 10240,
+		maxLogSize: 10240000,//10M
 		backups: 10
 	}],
 	replaceConsole: true
