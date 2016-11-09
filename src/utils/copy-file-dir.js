@@ -128,7 +128,6 @@ function ccoutTask(from, to, cb) {
 
 
 function copyDir(from, to, cb) {
-	console.log(">>>>>>>>>>>>>>>>>");
     if(!cb){
 	  cb=function(){};
 	}

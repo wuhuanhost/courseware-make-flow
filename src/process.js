@@ -10,8 +10,11 @@ var doc = require('./utils/read-config')
     // var log = require('./utils/log');
 var copy = require('./utils/copy-file-dir');
 
-
+var async = require('async');
+var logger = require('./utils/log').logger("process.js");
 // log.console.error(doc.tpl)
+
+
 
 /**
  * 数据处理对象
@@ -31,28 +34,71 @@ function dataProcess() {
 //3、获取
 
 
-
-
-
-
 var dp = new dataProcess();
-var formPath = path.resolve(__dirname, "../", "tpl", "ppt", "source");
+var formPathTpl = path.resolve(__dirname, "../", "tpl", "ppt", "source");
+var formPathImages = path.resolve(__dirname, "../", "data", "images");
 var toPath = path.resolve(__dirname, "../", "output");
 
 
-    rmrf(toPath,{ nosort: true, silent: true },function(err){
-console.log(err);
 
+// 清空目录
+function clean(cb) {
+    console.log("正在清空output目录......");
+    rmrf(toPath, {
+        nosort: true,
+        silent: true
+    }, function (err) {
+        if (err) {
+             logger.error(err);
+        } else {
+            console.log("output目录清空完成......");
+            if (cb != null) {
+                cb();
+            }
+        }
     });
+}
 
+// 复制主题目录
+function copyTpl(cb) {
+    console.log("正在复制主题目录......");
+    copy.copyDir(formPathTpl, toPath, function (err) {
+        if (err) {
+             logger.error(err);
+        } else {
+            console.log("主题文件复制完成......");
+            cb();
+        }
+    });
+}
 
+//复制课件图片
+function copyImages(cb) {
+    console.log("正在复制课件图片目录......");
+    copy.copyDir(formPathImages, toPath + "/images", function (err) {
+        if (err) {
+             logger.error(err);
+        } else {
+            console.log("图片复制完成......");
+            cb();
+        }
+    });
+}
 
-// console.log(formPath);
-// console.log(toPath);
-// console.log("正在复制主题文件......");
-// copy.copyDir(formPath, toPath, function (err) {
-//     if (err) {
-//         console.log(err);
-//     }
-// console.log("主题文件复制完成......");
-// });
+// 生成课件的方法
+function renderHtml() {
+    logger.error("ddddddddddddd")
+    async.series([clean, copyTpl, copyImages],
+        function (err, values) {
+            if (err) {
+                 logger.error(err);
+            } else {
+                // console.log(values)
+            }
+        });
+}
+
+module.exports = {
+    renderHtml: renderHtml,
+    clean: clean
+};
