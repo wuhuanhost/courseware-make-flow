@@ -135,7 +135,6 @@ function readData(callback) {
             data.pages.push(temp);
             cb(null, data);
         }, function (err, data) {
-            logger.error(data);
             render(data);
             callback();
         })
@@ -148,7 +147,7 @@ function readData(callback) {
  */
 function render(data) {
     for (var i = 0; i < data.pages.length; i++) {
-        ejsRenderHtml(data.pages[i],(i+1));
+        ejsRenderHtml(data.pages[i], (i + 1));
     }
 }
 
@@ -158,13 +157,11 @@ function render(data) {
  * ejs渲染数据
  **/
 function ejsRenderHtml(data, fileName) {
-            logger.warn("");
+    logger.warn("正在生成  output\\" + fileName + ".html");
     ejs.renderFile(tplPath, data, function (err, str) {
-        logger.error(str)
         if (err) {
             console.log(err)
         }
-
         fs.writeFileSync('E:\\渲染引擎\\工具集\\新版课件制作工具\\output\\' + fileName + '.html', str);
     });
 }
@@ -174,17 +171,12 @@ function ejsRenderHtml(data, fileName) {
 // txt2html测试方法
 function txt2html(str) {
     var txtArr = str.split("\r\n");
-
-    console.log(txtArr)
     var str = "";
     for (var i = 0, len = txtArr.length; i < len; i++) {
-
         logger.debug(txtArr[i] + "   " + txtArr[i].match(/^##\s/g) + "         " + txtArr[i].match(/^#\s/g))
-
         if (txtArr[i].match(/^#\s/g) != null) {
             str += "<section><h1>" + txtArr[i].replace("#", "") + "</h1>";
         } else if (txtArr[i].match(/^##\s/g) != null) {
-            console.log(0)
             str += "<section><h2>" + txtArr[i].replace("##", "") + "</h2>";
         } else if (txtArr[i].match(/^>/) != null) {
             str += "<p>" + txtArr[i].replace(">", "") + "</p>";
