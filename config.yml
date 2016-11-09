@@ -2,12 +2,8 @@
 # 系统配置文件
 ##
 
-
 port: 9696  #服务器的端口号，生成课件后开启一个web服务，便于浏览生成好的页面
 #https://www.npmjs.com/package/node-static 静态服务器模块
-
-
-
 
 ## 课件设置
 title: 课件的名称
