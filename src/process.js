@@ -1,4 +1,4 @@
-
+/// <reference path="../typings/index.d.ts" />
 /*!
  * 数据处理引擎
  * @author will
@@ -14,7 +14,6 @@ var copy = require('./utils/copy-file-dir');
 var async = require('async');
 var logger = require('./utils/log').logger("process.js");
 // log.console.error(doc.tpl)
-
 
 
 
@@ -51,7 +50,7 @@ function clean(cb) {
         silent: true
     }, function (err) {
         if (err) {
-             logger.error(err);
+            logger.error(err);
         } else {
             console.log("output目录清空完成......");
             if (cb != null) {
@@ -66,7 +65,7 @@ function copyTpl(cb) {
     console.log("正在复制主题目录......");
     copy.copyDir(formPathTpl, toPath, function (err) {
         if (err) {
-             logger.error(err);
+            logger.error(err);
         } else {
             console.log("主题文件复制完成......");
             cb();
@@ -79,7 +78,7 @@ function copyImages(cb) {
     console.log("正在复制课件图片目录......");
     copy.copyDir(formPathImages, toPath + "/images", function (err) {
         if (err) {
-             logger.error(err);
+            logger.error(err);
         } else {
             console.log("图片复制完成......");
             cb();
@@ -93,7 +92,7 @@ function renderHtml() {
     async.series([clean, copyTpl, copyImages],
         function (err, values) {
             if (err) {
-                 logger.error(err);
+                logger.error(err);
             } else {
                 // console.log(values)
             }

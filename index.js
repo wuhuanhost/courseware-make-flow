@@ -4,7 +4,7 @@
 
 var logger = require('./src/utils/log').logger("index.js");
 
-var control=require('./src/process');
+var control = require('./src/process');
 
 //参数列表
 var argvs = process.argv;
@@ -35,4 +35,13 @@ if (len === 3) {
 
 }
 
+/**
+ * 箭头函数的使用
+ */
+var fun = (a, b) => {
+    return a + b;
+}
 
+var arr=[1,2,3];
+
+console.log(arr.reduce(fun));
