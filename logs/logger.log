@@ -8256,3 +8256,41 @@ H``2``O+CO..2  ..这个是填空项__                __
   title: '课件的名称',
   icon: '../images/icon.ico',
   tpl: 'ppt' }
+[2016-11-10 18:08:19.440] [INFO] console -   - 清空目录
+[2016-11-10 18:08:19.447] [INFO] console - 正在清空output目录......
+[2016-11-10 18:08:20.841] [INFO] console - output目录清空完成......
+[2016-11-10 18:08:27.088] [INFO] console -   - 生成课件......
+[2016-11-10 18:08:27.096] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 18:08:27.103] [INFO] console - 正在清空output目录......
+[2016-11-10 18:08:27.108] [INFO] console - output目录清空完成......
+[2016-11-10 18:08:27.109] [INFO] console - [Function: html2txt]
+[2016-11-10 18:08:27.110] [INFO] console - 开始html转换为txt......
+[2016-11-10 18:08:27.113] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 18:08:27.123] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 18:08:27.126] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 18:08:27.129] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 18:08:27.132] [WARN] console - 没有找到body标签！
+[2016-11-10 18:08:27.133] [INFO] console - 结束html转换为txt......
+[2016-11-10 18:08:27.133] [INFO] console - 正在复制主题目录......
+[2016-11-10 18:08:30.259] [INFO] console - 主题文件复制完成......
+[2016-11-10 18:08:30.262] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 18:08:30.266] [INFO] console - 图片复制完成......
+[2016-11-10 18:08:30.273] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 18:08:30.281] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 18:08:30.287] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 18:08:30.291] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3 }
+[2016-11-10 18:08:30.309] [INFO] process.js - { port: 9696,
+  title: '课件的名称',
+  icon: '../images/icon.ico',
+  tpl: 'ppt' }
+[2016-11-10 18:08:35.447] [INFO] console -   - 启动服务器......
+[2016-11-10 18:08:35.461] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 18:08:52.837] [ERROR] console - Error serving / - Not Found
+[2016-11-10 18:08:58.954] [ERROR] console - Error serving /a.html - Not Found
+[2016-11-10 18:09:03.578] [ERROR] console - Error serving /images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png - Not Found
+[2016-11-10 18:09:03.652] [ERROR] console - Error serving /images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png - Not Found
+[2016-11-10 18:09:04.535] [ERROR] console - Error serving /help.html - Not Found
