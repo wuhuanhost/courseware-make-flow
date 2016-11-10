@@ -5233,3 +5233,2954 @@ Error: EPERM: operation not permitted, unlink 'E:\渲染引擎\工具集\新版�
 [2016-11-09 18:39:26.615] [WARN] process.js - 正在生成  output\1.html
 [2016-11-09 18:39:26.626] [WARN] process.js - 正在生成  output\2.html
 [2016-11-09 18:39:26.655] [WARN] process.js - 正在生成  output\3.html
+[2016-11-10 10:29:29.244] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:29:29.369] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:29:29.385] [INFO] console - 文件类型错误，请确认文件类型是否正确！
+[2016-11-10 10:29:29.385] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:29:29.385] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:29:29.385] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:29:29.385] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:29:29.385] [INFO] index.js - 第3个参数为:--clean
+[2016-11-10 10:29:29.385] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:29:29.385] [INFO] console - 6
+[2016-11-10 10:29:51.585] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:29:51.726] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:29:51.741] [INFO] console - 文件类型错误，请确认文件类型是否正确！
+[2016-11-10 10:29:51.741] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:29:51.741] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:29:51.741] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:29:51.741] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:29:51.741] [INFO] index.js - 第3个参数为:--c
+[2016-11-10 10:29:51.741] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:29:51.741] [WARN] index.js - 清空output目录
+[2016-11-10 10:29:51.741] [INFO] console - 正在清空output目录......
+[2016-11-10 10:29:51.757] [INFO] console - 6
+[2016-11-10 10:29:55.761] [INFO] console - output目录清空完成......
+[2016-11-10 10:30:10.425] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:30:10.581] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:32:11.125] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:32:11.281] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:32:38.291] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:32:38.432] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:33:15.907] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:33:16.063] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:33:56.155] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:33:56.296] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:35:10.391] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:35:10.532] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:36:54.507] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:36:54.679] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:37:17.796] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:37:17.921] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:38:16.310] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:38:16.451] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:38:16.451] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:38:16.451] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:38:16.451] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:38:16.466] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:38:16.466] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 10:38:16.466] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:38:16.466] [WARN] index.js - 生成页面
+[2016-11-10 10:38:16.466] [ERROR] process.js - ddddddddddddd
+[2016-11-10 10:38:16.466] [INFO] console - 正在清空output目录......
+[2016-11-10 10:38:16.466] [INFO] console - 6
+[2016-11-10 10:38:16.466] [INFO] console - output目录清空完成......
+[2016-11-10 10:38:16.466] [INFO] console - [Function: html2txt]
+[2016-11-10 10:38:16.466] [INFO] console - 开始html转换为txt......
+[2016-11-10 10:38:16.482] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.html
+[2016-11-10 10:38:16.482] [INFO] console - # 这是标题1
+## 这是标题2
+### 这是标题3
+#### 这是标题4
+这是标题
+这是副标题
+这是正文
+* 无序列表
+* 无序列表
+* 无序列表
+* 无序列表
++ 有序列表
++ 有序列表
++ 有序列表
++ 有序列表
+我是图片{{images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png}}
+> <table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table>
+3+1>3或者3-1<3
+# 我也是一个标题
+# 我也是一个标题
+> 你不需要管我的<b>张三李四</b>
+# 我也是一个标题
+[[ 我是需要隐藏的内容
+H``2``O+CO..2  ..这个是填空项__                __
+
+[2016-11-10 10:38:16.513] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.html
+[2016-11-10 10:38:16.513] [INFO] console - # 这是标题1
+## 这是标题2
+### 这是标题3
+#### 这是标题4
+这是标题
+这是副标题
+这是正文
+* 无序列表
+* 无序列表
+* 无序列表
+* 无序列表
++ 有序列表
++ 有序列表
++ 有序列表
++ 有序列表
+我是图片{{images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png}}
+> <table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table>
+3+1>3或者3-1<3
+# 我也是一个标题
+# 我也是一个标题
+> 你不需要管我的<b>张三李四</b>
+# 我也是一个标题
+[[ 我是需要隐藏的内容
+H``2``O+CO..2  ..这个是填空项__                __
+
+[2016-11-10 10:38:16.529] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.html
+[2016-11-10 10:38:16.544] [INFO] console - # 这是标题1
+## 这是标题2
+### 这是标题3
+#### 这是标题4
+这是标题
+这是副标题
+这是正文
+* 无序列表
+* 无序列表
+* 无序列表
+* 无序列表
++ 有序列表
++ 有序列表
++ 有序列表
++ 有序列表
+我是图片{{images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png}}
+> <table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table>
+3+1>3或者3-1<3
+# 我也是一个标题
+# 我也是一个标题
+> 你不需要管我的<b>张三李四</b>
+# 我也是一个标题
+[[ 我是需要隐藏的内容
+H``2``O+CO..2  ..这个是填空项__                __
+
+[2016-11-10 10:38:16.560] [INFO] console - 结束html转换为txt......
+[2016-11-10 10:38:16.560] [INFO] console - 正在复制主题目录......
+[2016-11-10 10:38:22.991] [INFO] console - 主题文件复制完成......
+[2016-11-10 10:38:22.991] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 10:38:22.991] [INFO] console - 图片复制完成......
+[2016-11-10 10:41:58.786] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:41:58.927] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:41:58.927] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:41:58.927] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:41:58.927] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:41:58.927] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:41:58.942] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 10:41:58.942] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:41:58.942] [WARN] index.js - 生成页面
+[2016-11-10 10:41:58.942] [ERROR] process.js - ddddddddddddd
+[2016-11-10 10:41:58.942] [INFO] console - 正在清空output目录......
+[2016-11-10 10:41:58.942] [INFO] console - 6
+[2016-11-10 10:42:03.535] [INFO] console - output目录清空完成......
+[2016-11-10 10:42:03.535] [INFO] console - [Function: html2txt]
+[2016-11-10 10:42:03.535] [INFO] console - 开始html转换为txt......
+[2016-11-10 10:42:03.535] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 10:42:03.550] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 10:42:03.550] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 10:42:03.566] [INFO] console - 结束html转换为txt......
+[2016-11-10 10:42:03.566] [INFO] console - 正在复制主题目录......
+[2016-11-10 10:42:06.052] [INFO] console - 主题文件复制完成......
+[2016-11-10 10:42:06.052] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 10:42:06.067] [INFO] console - 图片复制完成......
+[2016-11-10 10:44:48.798] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:44:48.923] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:44:48.939] [INFO] console - 文件类型错误，请确认文件类型是否正确！
+[2016-11-10 10:44:48.939] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:44:48.939] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:44:48.939] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:44:48.939] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:44:48.939] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 10:44:48.939] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:44:48.939] [WARN] index.js - 生成页面
+[2016-11-10 10:44:48.939] [ERROR] process.js - ddddddddddddd
+[2016-11-10 10:44:48.939] [INFO] console - 正在清空output目录......
+[2016-11-10 10:44:48.939] [INFO] console - 6
+[2016-11-10 10:44:51.139] [INFO] console - output目录清空完成......
+[2016-11-10 10:44:51.139] [INFO] console - [Function: html2txt]
+[2016-11-10 10:44:51.139] [INFO] console - 开始html转换为txt......
+[2016-11-10 10:44:51.139] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 10:44:51.154] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 10:44:51.154] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 10:44:51.170] [INFO] console - 结束html转换为txt......
+[2016-11-10 10:44:51.170] [INFO] console - 正在复制主题目录......
+[2016-11-10 10:44:54.365] [INFO] console - 主题文件复制完成......
+[2016-11-10 10:44:54.369] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 10:44:54.372] [INFO] console - 图片复制完成......
+[2016-11-10 10:45:24.435] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:45:24.560] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:45:24.560] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:45:24.560] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:45:24.560] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:45:24.560] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:45:24.575] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 10:45:24.575] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:45:24.575] [WARN] index.js - 生成页面
+[2016-11-10 10:45:24.575] [ERROR] process.js - ddddddddddddd
+[2016-11-10 10:45:24.575] [INFO] console - 正在清空output目录......
+[2016-11-10 10:45:24.575] [INFO] console - 6
+[2016-11-10 10:45:27.424] [INFO] console - output目录清空完成......
+[2016-11-10 10:45:27.424] [INFO] console - [Function: html2txt]
+[2016-11-10 10:45:27.424] [INFO] console - 开始html转换为txt......
+[2016-11-10 10:45:27.424] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 10:45:27.439] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 10:45:27.439] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 10:45:27.439] [INFO] console - 结束html转换为txt......
+[2016-11-10 10:45:27.439] [INFO] console - 正在复制主题目录......
+[2016-11-10 10:45:29.794] [INFO] console - 主题文件复制完成......
+[2016-11-10 10:45:29.794] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 10:45:29.794] [INFO] console - 图片复制完成......
+[2016-11-10 10:46:15.650] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:46:15.775] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:46:15.791] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:46:15.791] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:46:15.791] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:46:15.791] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:46:15.791] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 10:46:15.791] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:46:15.791] [WARN] index.js - 生成页面
+[2016-11-10 10:46:15.791] [INFO] console - 正在清空output目录......
+[2016-11-10 10:46:15.791] [INFO] console - 6
+[2016-11-10 10:46:20.199] [INFO] console - output目录清空完成......
+[2016-11-10 10:46:20.214] [INFO] console - [Function: html2txt]
+[2016-11-10 10:46:20.214] [INFO] console - 开始html转换为txt......
+[2016-11-10 10:46:20.214] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 10:46:20.214] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 10:46:20.214] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 10:46:20.230] [INFO] console - 结束html转换为txt......
+[2016-11-10 10:46:20.230] [INFO] console - 正在复制主题目录......
+[2016-11-10 10:46:22.585] [INFO] console - 主题文件复制完成......
+[2016-11-10 10:46:22.585] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 10:46:22.585] [INFO] console - 图片复制完成......
+[2016-11-10 10:46:22.600] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 10:46:42.341] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:46:42.513] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:46:42.513] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:46:42.513] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:46:42.513] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:46:42.529] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:46:42.529] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 10:46:42.529] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:46:42.529] [WARN] index.js - 生成页面
+[2016-11-10 10:46:42.529] [INFO] console - 正在清空output目录......
+[2016-11-10 10:46:42.529] [INFO] console - 6
+[2016-11-10 10:46:47.134] [INFO] console - output目录清空完成......
+[2016-11-10 10:46:47.149] [INFO] console - [Function: html2txt]
+[2016-11-10 10:46:47.149] [INFO] console - 开始html转换为txt......
+[2016-11-10 10:46:47.149] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 10:46:47.149] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 10:46:47.165] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 10:46:47.165] [INFO] console - 结束html转换为txt......
+[2016-11-10 10:46:47.165] [INFO] console - 正在复制主题目录......
+[2016-11-10 10:46:49.760] [INFO] console - 主题文件复制完成......
+[2016-11-10 10:46:49.760] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 10:46:49.776] [INFO] console - 图片复制完成......
+[2016-11-10 10:47:07.450] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:47:07.580] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:47:07.588] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:47:07.588] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:47:07.589] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:47:07.590] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:47:07.592] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 10:47:07.592] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:47:07.593] [WARN] index.js - 生成页面
+[2016-11-10 10:47:07.594] [INFO] console - 正在清空output目录......
+[2016-11-10 10:47:07.599] [INFO] console - 6
+[2016-11-10 10:47:17.235] [INFO] console - output目录清空完成......
+[2016-11-10 10:47:17.237] [INFO] console - [Function: html2txt]
+[2016-11-10 10:47:17.238] [INFO] console - 开始html转换为txt......
+[2016-11-10 10:47:17.240] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 10:47:17.247] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 10:47:17.251] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 10:47:17.254] [INFO] console - 结束html转换为txt......
+[2016-11-10 10:47:17.255] [INFO] console - 正在复制主题目录......
+[2016-11-10 10:47:19.649] [INFO] console - 主题文件复制完成......
+[2016-11-10 10:47:19.652] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 10:47:19.656] [INFO] console - 图片复制完成......
+[2016-11-10 10:47:19.660] [INFO] console - null
+[2016-11-10 10:47:37.413] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:47:37.560] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:47:37.568] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:47:37.569] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:47:37.569] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:47:37.570] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:47:37.571] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 10:47:37.572] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:47:37.572] [WARN] index.js - 生成页面
+[2016-11-10 10:47:37.574] [INFO] console - 正在清空output目录......
+[2016-11-10 10:47:37.578] [INFO] console - 6
+[2016-11-10 10:47:40.341] [INFO] console - output目录清空完成......
+[2016-11-10 10:47:40.344] [INFO] console - [Function: html2txt]
+[2016-11-10 10:47:40.346] [INFO] console - 开始html转换为txt......
+[2016-11-10 10:47:40.349] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 10:47:40.361] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 10:47:40.366] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 10:47:40.370] [INFO] console - 结束html转换为txt......
+[2016-11-10 10:47:40.371] [INFO] console - 正在复制主题目录......
+[2016-11-10 10:47:42.556] [INFO] console - 主题文件复制完成......
+[2016-11-10 10:47:42.560] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 10:47:42.563] [INFO] console - 图片复制完成......
+[2016-11-10 10:47:42.567] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 10:48:05.081] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:48:05.222] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:48:05.230] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:48:05.231] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:48:05.232] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:48:05.233] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:48:05.234] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 10:48:05.234] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:48:05.235] [WARN] index.js - 生成页面
+[2016-11-10 10:48:05.236] [INFO] console - 正在清空output目录......
+[2016-11-10 10:48:05.241] [INFO] console - 6
+[2016-11-10 10:48:07.296] [INFO] console - output目录清空完成......
+[2016-11-10 10:48:07.299] [INFO] console - [Function: html2txt]
+[2016-11-10 10:48:07.300] [INFO] console - 开始html转换为txt......
+[2016-11-10 10:48:07.303] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 10:48:07.309] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 10:48:07.313] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 10:48:07.316] [INFO] console - 结束html转换为txt......
+[2016-11-10 10:48:07.318] [INFO] console - 正在复制主题目录......
+[2016-11-10 10:48:09.742] [INFO] console - 主题文件复制完成......
+[2016-11-10 10:48:09.745] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 10:48:09.748] [INFO] console - 图片复制完成......
+[2016-11-10 10:48:09.752] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 10:50:18.371] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:50:18.518] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:50:18.526] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:50:18.527] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:50:18.528] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:50:18.529] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:50:18.530] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 10:50:18.530] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:50:18.531] [WARN] index.js - 生成页面
+[2016-11-10 10:50:18.532] [INFO] console - 正在清空output目录......
+[2016-11-10 10:50:18.536] [INFO] console - 6
+[2016-11-10 10:50:23.917] [INFO] console - output目录清空完成......
+[2016-11-10 10:50:23.920] [INFO] console - [Function: html2txt]
+[2016-11-10 10:50:23.921] [INFO] console - 开始html转换为txt......
+[2016-11-10 10:50:23.925] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 10:50:23.932] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 10:50:23.936] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 10:50:23.939] [INFO] console - 结束html转换为txt......
+[2016-11-10 10:50:23.940] [INFO] console - 正在复制主题目录......
+[2016-11-10 10:50:26.168] [INFO] console - 主题文件复制完成......
+[2016-11-10 10:50:26.171] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 10:50:26.174] [INFO] console - 图片复制完成......
+[2016-11-10 10:50:26.179] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 10:50:51.854] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:50:51.991] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:50:51.998] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:50:51.999] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:50:52.000] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:50:52.001] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:50:52.003] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 10:50:52.004] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:50:52.004] [WARN] index.js - 生成页面
+[2016-11-10 10:50:52.006] [INFO] console - 正在清空output目录......
+[2016-11-10 10:50:52.010] [INFO] console - 6
+[2016-11-10 10:50:55.741] [INFO] console - output目录清空完成......
+[2016-11-10 10:50:55.744] [INFO] console - [Function: html2txt]
+[2016-11-10 10:50:55.746] [INFO] console - 开始html转换为txt......
+[2016-11-10 10:50:55.749] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 10:50:55.759] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 10:50:55.762] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 10:50:55.766] [INFO] console - 结束html转换为txt......
+[2016-11-10 10:50:55.767] [INFO] console - 正在复制主题目录......
+[2016-11-10 10:50:58.098] [INFO] console - 主题文件复制完成......
+[2016-11-10 10:50:58.101] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 10:50:58.104] [INFO] console - 图片复制完成......
+[2016-11-10 10:50:58.108] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 10:51:15.325] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:51:15.467] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:51:15.475] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:51:15.476] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:51:15.477] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:51:15.478] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:51:15.479] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 10:51:15.479] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:51:15.480] [WARN] index.js - 生成页面
+[2016-11-10 10:51:15.481] [INFO] console - 正在清空output目录......
+[2016-11-10 10:51:15.485] [INFO] console - 6
+[2016-11-10 10:51:18.167] [INFO] console - output目录清空完成......
+[2016-11-10 10:51:18.170] [INFO] console - [Function: html2txt]
+[2016-11-10 10:51:18.171] [INFO] console - 开始html转换为txt......
+[2016-11-10 10:51:18.173] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 10:51:18.183] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 10:51:18.188] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 10:51:18.193] [INFO] console - 结束html转换为txt......
+[2016-11-10 10:51:18.195] [INFO] console - 正在复制主题目录......
+[2016-11-10 10:51:20.396] [INFO] console - 主题文件复制完成......
+[2016-11-10 10:51:20.399] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 10:51:20.402] [INFO] console - 图片复制完成......
+[2016-11-10 10:51:20.406] [INFO] console - string
+[2016-11-10 10:51:32.300] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:51:32.438] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:51:32.447] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:51:32.447] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:51:32.448] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:51:32.450] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:51:32.452] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 10:51:32.452] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:51:32.453] [WARN] index.js - 生成页面
+[2016-11-10 10:51:32.455] [INFO] console - 正在清空output目录......
+[2016-11-10 10:51:32.462] [INFO] console - 6
+[2016-11-10 10:51:34.629] [INFO] console - output目录清空完成......
+[2016-11-10 10:51:34.631] [INFO] console - [Function: html2txt]
+[2016-11-10 10:51:34.631] [INFO] console - 开始html转换为txt......
+[2016-11-10 10:51:34.634] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 10:51:34.640] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 10:51:34.644] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 10:51:34.646] [INFO] console - 结束html转换为txt......
+[2016-11-10 10:51:34.648] [INFO] console - 正在复制主题目录......
+[2016-11-10 10:51:36.959] [INFO] console - 主题文件复制完成......
+[2016-11-10 10:51:36.962] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 10:51:36.965] [INFO] console - 图片复制完成......
+[2016-11-10 10:51:36.969] [INFO] console - string
+[2016-11-10 10:51:52.807] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:51:52.946] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:51:52.954] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:51:52.955] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:51:52.955] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:51:52.956] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:51:52.958] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 10:51:52.958] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:51:52.959] [WARN] index.js - 生成页面
+[2016-11-10 10:51:52.960] [INFO] console - 正在清空output目录......
+[2016-11-10 10:51:52.964] [INFO] console - 6
+[2016-11-10 10:51:54.360] [INFO] console - output目录清空完成......
+[2016-11-10 10:51:54.362] [INFO] console - [Function: html2txt]
+[2016-11-10 10:51:54.363] [INFO] console - 开始html转换为txt......
+[2016-11-10 10:51:54.364] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 10:51:54.371] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 10:51:54.375] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 10:51:54.378] [INFO] console - 结束html转换为txt......
+[2016-11-10 10:51:54.379] [INFO] console - 正在复制主题目录......
+[2016-11-10 10:51:56.908] [INFO] console - 主题文件复制完成......
+[2016-11-10 10:51:56.912] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 10:51:56.914] [INFO] console - 图片复制完成......
+[2016-11-10 10:51:56.918] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 10:52:16.097] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:52:16.236] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:52:16.245] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:52:16.245] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:52:16.246] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:52:16.248] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:52:16.249] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 10:52:16.250] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:52:16.251] [WARN] index.js - 生成页面
+[2016-11-10 10:52:16.252] [INFO] console - 正在清空output目录......
+[2016-11-10 10:52:16.256] [INFO] console - 6
+[2016-11-10 10:52:19.045] [INFO] console - output目录清空完成......
+[2016-11-10 10:52:19.046] [INFO] console - [Function: html2txt]
+[2016-11-10 10:52:19.047] [INFO] console - 开始html转换为txt......
+[2016-11-10 10:52:19.048] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 10:52:19.055] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 10:52:19.058] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 10:52:19.061] [INFO] console - 结束html转换为txt......
+[2016-11-10 10:52:19.063] [INFO] console - 正在复制主题目录......
+[2016-11-10 10:52:21.432] [INFO] console - 主题文件复制完成......
+[2016-11-10 10:52:21.436] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 10:52:21.439] [INFO] console - 图片复制完成......
+[2016-11-10 10:52:21.443] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 10:53:15.084] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:53:15.228] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:53:15.236] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:53:15.236] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:53:15.237] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:53:15.238] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:53:15.239] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 10:53:15.240] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:53:15.240] [WARN] index.js - 生成页面
+[2016-11-10 10:53:15.242] [INFO] console - 正在清空output目录......
+[2016-11-10 10:53:15.246] [INFO] console - 6
+[2016-11-10 10:53:16.693] [INFO] console - output目录清空完成......
+[2016-11-10 10:53:16.694] [INFO] console - [Function: html2txt]
+[2016-11-10 10:53:16.695] [INFO] console - 开始html转换为txt......
+[2016-11-10 10:53:16.697] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 10:53:16.703] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 10:53:16.705] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 10:53:16.708] [INFO] console - 结束html转换为txt......
+[2016-11-10 10:53:16.709] [INFO] console - 正在复制主题目录......
+[2016-11-10 10:53:19.833] [INFO] console - 主题文件复制完成......
+[2016-11-10 10:53:19.836] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 10:53:19.840] [INFO] console - 图片复制完成......
+[2016-11-10 10:53:19.844] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 10:54:47.654] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:54:47.802] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:54:47.813] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:54:47.814] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:54:47.815] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:54:47.816] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:54:47.817] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 10:54:47.817] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:54:47.818] [WARN] index.js - 生成页面
+[2016-11-10 10:54:47.819] [INFO] console - 正在清空output目录......
+[2016-11-10 10:54:47.823] [INFO] console - 6
+[2016-11-10 10:54:50.126] [INFO] console - output目录清空完成......
+[2016-11-10 10:54:50.129] [INFO] console - [Function: html2txt]
+[2016-11-10 10:54:50.130] [INFO] console - 开始html转换为txt......
+[2016-11-10 10:54:50.133] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 10:54:50.145] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 10:54:50.148] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 10:54:50.151] [INFO] console - 结束html转换为txt......
+[2016-11-10 10:54:50.152] [INFO] console - 正在复制主题目录......
+[2016-11-10 10:54:52.747] [INFO] console - 主题文件复制完成......
+[2016-11-10 10:54:52.750] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 10:54:52.753] [INFO] console - 图片复制完成......
+[2016-11-10 10:54:52.757] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 10:56:03.121] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:56:03.274] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:56:03.283] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:56:03.283] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:56:03.284] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:56:03.285] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:56:03.286] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 10:56:03.287] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:56:03.287] [WARN] index.js - 生成页面
+[2016-11-10 10:56:03.289] [INFO] console - 正在清空output目录......
+[2016-11-10 10:56:03.293] [INFO] console - 6
+[2016-11-10 10:56:10.226] [INFO] console - output目录清空完成......
+[2016-11-10 10:56:10.229] [INFO] console - [Function: html2txt]
+[2016-11-10 10:56:10.231] [INFO] console - 开始html转换为txt......
+[2016-11-10 10:56:10.234] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 10:56:10.246] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 10:56:10.251] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 10:56:10.256] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 10:56:10.262] [INFO] console - 没有找到body标签！
+[2016-11-10 10:56:10.264] [INFO] console - 结束html转换为txt......
+[2016-11-10 10:56:10.266] [INFO] console - 正在复制主题目录......
+[2016-11-10 10:56:24.345] [INFO] console - 主题文件复制完成......
+[2016-11-10 10:56:24.349] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 10:56:24.353] [INFO] console - 图片复制完成......
+[2016-11-10 10:56:24.358] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 10:59:31.254] [INFO] console - { '0': 'index.js' }
+[2016-11-10 10:59:31.483] [INFO] console - { '0': 'process.js' }
+[2016-11-10 10:59:31.491] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 10:59:31.492] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 10:59:31.493] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 10:59:31.494] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 10:59:31.495] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 10:59:31.495] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 10:59:31.496] [WARN] index.js - 生成页面
+[2016-11-10 10:59:31.497] [INFO] console - 正在清空output目录......
+[2016-11-10 10:59:31.501] [INFO] console - 6
+[2016-11-10 10:59:34.735] [INFO] console - output目录清空完成......
+[2016-11-10 10:59:34.738] [INFO] console - [Function: html2txt]
+[2016-11-10 10:59:34.740] [INFO] console - 开始html转换为txt......
+[2016-11-10 10:59:34.743] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 10:59:34.755] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 10:59:34.759] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 10:59:34.762] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 10:59:34.764] [INFO] console - 没有找到body标签！
+[2016-11-10 10:59:34.765] [INFO] console - 结束html转换为txt......
+[2016-11-10 10:59:34.767] [INFO] console - 正在复制主题目录......
+[2016-11-10 10:59:37.552] [INFO] console - 主题文件复制完成......
+[2016-11-10 10:59:37.557] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 10:59:37.560] [INFO] console - 图片复制完成......
+[2016-11-10 10:59:37.564] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 11:00:52.895] [INFO] console - { '0': 'index.js' }
+[2016-11-10 11:00:53.042] [INFO] console - { '0': 'process.js' }
+[2016-11-10 11:00:53.050] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 11:00:53.051] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 11:00:53.051] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 11:00:53.053] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 11:00:53.054] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 11:00:53.055] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 11:00:53.056] [WARN] index.js - 生成页面
+[2016-11-10 11:00:53.057] [INFO] console - 正在清空output目录......
+[2016-11-10 11:00:53.062] [INFO] console - 6
+[2016-11-10 11:00:54.885] [INFO] console - output目录清空完成......
+[2016-11-10 11:00:54.888] [INFO] console - [Function: html2txt]
+[2016-11-10 11:00:54.889] [INFO] console - 开始html转换为txt......
+[2016-11-10 11:00:54.892] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 11:00:54.900] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 11:00:54.905] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 11:00:54.909] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 11:00:54.912] [INFO] console - 没有找到body标签！
+[2016-11-10 11:00:54.913] [INFO] console - 结束html转换为txt......
+[2016-11-10 11:00:54.914] [INFO] console - 正在复制主题目录......
+[2016-11-10 11:00:57.886] [INFO] console - 主题文件复制完成......
+[2016-11-10 11:00:57.891] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 11:00:57.894] [INFO] console - 图片复制完成......
+[2016-11-10 11:00:57.899] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 11:02:06.501] [INFO] console - { '0': 'index.js' }
+[2016-11-10 11:02:06.642] [INFO] console - { '0': 'process.js' }
+[2016-11-10 11:02:06.650] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 11:02:06.651] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 11:02:06.652] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 11:02:06.652] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 11:02:06.654] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 11:02:06.655] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 11:02:06.655] [WARN] index.js - 生成页面
+[2016-11-10 11:02:06.657] [INFO] console - 正在清空output目录......
+[2016-11-10 11:02:06.661] [INFO] console - 6
+[2016-11-10 11:02:11.970] [INFO] console - output目录清空完成......
+[2016-11-10 11:02:11.972] [INFO] console - [Function: html2txt]
+[2016-11-10 11:02:11.974] [INFO] console - 开始html转换为txt......
+[2016-11-10 11:02:11.977] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 11:02:11.986] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 11:02:11.990] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 11:02:11.993] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 11:02:11.996] [INFO] console - 没有找到body标签！
+[2016-11-10 11:02:11.997] [INFO] console - 结束html转换为txt......
+[2016-11-10 11:02:11.998] [INFO] console - 正在复制主题目录......
+[2016-11-10 11:02:14.465] [INFO] console - 主题文件复制完成......
+[2016-11-10 11:02:14.468] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 11:02:14.471] [INFO] console - 图片复制完成......
+[2016-11-10 11:02:14.475] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 11:04:41.427] [INFO] console - { '0': 'index.js' }
+[2016-11-10 11:04:41.560] [INFO] console - { '0': 'process.js' }
+[2016-11-10 11:04:41.568] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 11:04:41.569] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 11:04:41.570] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 11:04:41.571] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 11:04:41.572] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 11:04:41.573] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 11:04:41.573] [WARN] index.js - 生成页面
+[2016-11-10 11:04:41.575] [INFO] console - 正在清空output目录......
+[2016-11-10 11:04:41.579] [INFO] console - 6
+[2016-11-10 11:04:50.763] [INFO] console - output目录清空完成......
+[2016-11-10 11:04:50.766] [INFO] console - [Function: html2txt]
+[2016-11-10 11:04:50.769] [INFO] console - 开始html转换为txt......
+[2016-11-10 11:04:50.772] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 11:04:50.782] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 11:04:50.795] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 11:04:50.799] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 11:04:50.802] [INFO] console - 没有找到body标签！
+[2016-11-10 11:04:50.804] [INFO] console - 结束html转换为txt......
+[2016-11-10 11:04:50.805] [INFO] console - 正在复制主题目录......
+[2016-11-10 11:04:54.181] [INFO] console - 主题文件复制完成......
+[2016-11-10 11:04:54.185] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 11:04:54.189] [INFO] console - 图片复制完成......
+[2016-11-10 11:04:54.193] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 11:05:00.584] [INFO] console - { '0': 'index.js' }
+[2016-11-10 11:05:00.729] [INFO] console - { '0': 'process.js' }
+[2016-11-10 11:05:00.740] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 11:05:00.741] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 11:05:00.741] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 11:05:00.743] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 11:05:00.745] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 11:05:00.745] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 11:05:00.746] [WARN] index.js - 生成页面
+[2016-11-10 11:05:00.747] [INFO] console - 正在清空output目录......
+[2016-11-10 11:05:00.752] [INFO] console - 6
+[2016-11-10 11:05:04.261] [INFO] console - output目录清空完成......
+[2016-11-10 11:05:04.262] [INFO] console - [Function: html2txt]
+[2016-11-10 11:05:04.263] [INFO] console - 开始html转换为txt......
+[2016-11-10 11:05:04.265] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 11:05:04.271] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 11:05:04.276] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 11:05:04.280] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 11:05:04.282] [INFO] console - 没有找到body标签！
+[2016-11-10 11:05:04.283] [INFO] console - 结束html转换为txt......
+[2016-11-10 11:05:04.284] [INFO] console - 正在复制主题目录......
+[2016-11-10 11:05:06.550] [INFO] console - 主题文件复制完成......
+[2016-11-10 11:05:06.554] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 11:05:06.556] [INFO] console - 图片复制完成......
+[2016-11-10 11:05:06.560] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 11:05:35.581] [INFO] console - { '0': 'index.js' }
+[2016-11-10 11:05:35.718] [INFO] console - { '0': 'process.js' }
+[2016-11-10 11:05:35.727] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 11:05:35.728] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 11:05:35.728] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 11:05:35.729] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 11:05:35.731] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 11:05:35.731] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 11:05:35.732] [WARN] index.js - 生成页面
+[2016-11-10 11:05:35.733] [INFO] console - 正在清空output目录......
+[2016-11-10 11:05:35.738] [INFO] console - 6
+[2016-11-10 11:05:39.356] [INFO] console - output目录清空完成......
+[2016-11-10 11:05:39.359] [INFO] console - [Function: html2txt]
+[2016-11-10 11:05:39.360] [INFO] console - 开始html转换为txt......
+[2016-11-10 11:05:39.363] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 11:05:39.373] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 11:05:39.378] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 11:05:39.382] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 11:05:39.385] [INFO] console - 没有找到body标签！
+[2016-11-10 11:05:39.386] [INFO] console - 结束html转换为txt......
+[2016-11-10 11:05:39.388] [INFO] console - 正在复制主题目录......
+[2016-11-10 11:05:41.934] [INFO] console - 主题文件复制完成......
+[2016-11-10 11:05:41.939] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 11:05:41.944] [INFO] console - 图片复制完成......
+[2016-11-10 11:05:41.950] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 11:05:59.555] [INFO] console - { '0': 'index.js' }
+[2016-11-10 11:05:59.693] [INFO] console - { '0': 'process.js' }
+[2016-11-10 11:05:59.701] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 11:05:59.702] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 11:05:59.703] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 11:05:59.704] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 11:05:59.706] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 11:05:59.706] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 11:05:59.707] [WARN] index.js - 生成页面
+[2016-11-10 11:05:59.708] [INFO] console - 正在清空output目录......
+[2016-11-10 11:05:59.713] [INFO] console - 6
+[2016-11-10 11:06:02.062] [INFO] console - output目录清空完成......
+[2016-11-10 11:06:02.065] [INFO] console - [Function: html2txt]
+[2016-11-10 11:06:02.066] [INFO] console - 开始html转换为txt......
+[2016-11-10 11:06:02.069] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 11:06:02.075] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 11:06:02.078] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 11:06:02.081] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 11:06:02.083] [INFO] console - 没有找到body标签！
+[2016-11-10 11:06:02.084] [INFO] console - 结束html转换为txt......
+[2016-11-10 11:06:02.085] [INFO] console - 正在复制主题目录......
+[2016-11-10 11:06:04.410] [INFO] console - 主题文件复制完成......
+[2016-11-10 11:06:04.413] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 11:06:04.416] [INFO] console - 图片复制完成......
+[2016-11-10 11:06:04.419] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 11:06:12.511] [INFO] console - { '0': 'index.js' }
+[2016-11-10 11:06:12.660] [INFO] console - { '0': 'process.js' }
+[2016-11-10 11:06:12.670] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 11:06:12.671] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 11:06:12.672] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 11:06:12.674] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 11:06:12.675] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 11:06:12.676] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 11:06:12.677] [WARN] index.js - 生成页面
+[2016-11-10 11:06:12.678] [INFO] console - 正在清空output目录......
+[2016-11-10 11:06:12.683] [INFO] console - 6
+[2016-11-10 11:06:15.438] [INFO] console - output目录清空完成......
+[2016-11-10 11:06:15.441] [INFO] console - [Function: html2txt]
+[2016-11-10 11:06:15.442] [INFO] console - 开始html转换为txt......
+[2016-11-10 11:06:15.445] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 11:06:15.457] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 11:06:15.462] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 11:06:15.466] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 11:06:15.469] [INFO] console - 没有找到body标签！
+[2016-11-10 11:06:15.470] [INFO] console - 结束html转换为txt......
+[2016-11-10 11:06:15.471] [INFO] console - 正在复制主题目录......
+[2016-11-10 11:06:17.798] [INFO] console - 主题文件复制完成......
+[2016-11-10 11:06:17.801] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 11:06:17.804] [INFO] console - 图片复制完成......
+[2016-11-10 11:06:17.808] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 11:07:55.519] [INFO] console - { '0': 'index.js' }
+[2016-11-10 11:07:55.694] [INFO] console - { '0': 'process.js' }
+[2016-11-10 11:07:55.707] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 11:07:55.708] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 11:07:55.709] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 11:07:55.711] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 11:07:55.712] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 11:07:55.713] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 11:07:55.714] [WARN] index.js - 生成页面
+[2016-11-10 11:07:55.715] [INFO] console - 正在清空output目录......
+[2016-11-10 11:07:55.722] [INFO] console - 6
+[2016-11-10 11:07:59.723] [INFO] console - output目录清空完成......
+[2016-11-10 11:07:59.726] [INFO] console - [Function: html2txt]
+[2016-11-10 11:07:59.727] [INFO] console - 开始html转换为txt......
+[2016-11-10 11:07:59.730] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 11:07:59.743] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 11:07:59.747] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 11:07:59.751] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 11:07:59.753] [INFO] console - 没有找到body标签！
+[2016-11-10 11:07:59.755] [INFO] console - 结束html转换为txt......
+[2016-11-10 11:07:59.755] [INFO] console - 正在复制主题目录......
+[2016-11-10 11:08:02.477] [INFO] console - 主题文件复制完成......
+[2016-11-10 11:08:02.481] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 11:08:02.484] [INFO] console - 图片复制完成......
+[2016-11-10 11:08:02.488] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 11:08:02.509] [INFO] console - [ '<section>\n<h1>这是标题1</h1>\n<h2>这是标题2</h2>\n<h3>这是标题3</h3>\n<h4>这是标题4</h4>\n<p class="content">这是标题</p>\n<p class="content">这是副标题</p>\n<p class="content">这是正文</p>\n<ul>\n<li>无序列表</li>\n<li>无序列表</li>\n<li>无序列表</li>\n<li>无序列表</li>\n</ul>\n<ol>\n+ 有序列表\n<li>有序列表</li>\n<li>有序列表</li>\n<li>有序列表</li>\n</ol>\n<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>\n<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>\n<p class="content">3+1&gt;3或者3-1&lt;3</p>\n<h1>我也是一个标题</h1>\n<h1>我也是一个标题</h1>\n<p class="content">你不需要管我的<b>张三李四</b></p>\n<h1>我也是一个标题</h1>\n<p class="fragment content">我是需要隐藏的内容</p>\n<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>\n<p class="content"></p>\n</section>' ]
+[2016-11-10 11:08:02.521] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 11:08:02.542] [INFO] console - [ '<section>\n<h1>这是标题1</h1>\n<h2>这是标题2</h2>\n<h3>这是标题3</h3>\n<h4>这是标题4</h4>\n<p class="content">这是标题</p>\n<p class="content">这是副标题</p>\n<p class="content">这是正文</p>\n<ul>\n<li>无序列表</li>\n<li>无序列表</li>\n<li>无序列表</li>\n<li>无序列表</li>\n</ul>\n<ol>\n+ 有序列表\n<li>有序列表</li>\n<li>有序列表</li>\n<li>有序列表</li>\n</ol>\n<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>\n<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>\n<p class="content">3+1&gt;3或者3-1&lt;3</p>\n<h1>我也是一个标题</h1>\n<h1>我也是一个标题</h1>\n<p class="content">你不需要管我的<b>张三李四</b></p>\n<h1>我也是一个标题</h1>\n<p class="fragment content">我是需要隐藏的内容</p>\n<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>\n<p class="content"></p>\n</section>' ]
+[2016-11-10 11:08:02.553] [INFO] console - <section>
+<h1>这是标题1</h1>
+<h2>这是标题2</h2>
+<h3>这是标题3</h3>
+<h4>这是标题4</h4>
+<p class="content">这是标题</p>
+<p class="content">这是副标题</p>
+<p class="content">这是正文</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
+<ol>
++ 有序列表
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>
+<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>
+<p class="content">3+1&gt;3或者3-1&lt;3</p>
+<h1>我也是一个标题</h1>
+<h1>我也是一个标题</h1>
+<p class="content">你不需要管我的<b>张三李四</b></p>
+<h1>我也是一个标题</h1>
+<p class="fragment content">我是需要隐藏的内容</p>
+<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>
+<p class="content"></p>
+</section>
+[2016-11-10 11:08:02.574] [INFO] console - [ '<section>\n<h1>这是标题1</h1>\n<h2>这是标题2</h2>\n<h3>这是标题3</h3>\n<h4>这是标题4</h4>\n<p class="content">这是标题</p>\n<p class="content">这是副标题</p>\n<p class="content">这是正文</p>\n<ul>\n<li>无序列表</li>\n<li>无序列表</li>\n<li>无序列表</li>\n<li>无序列表</li>\n</ul>\n<ol>\n+ 有序列表\n<li>有序列表</li>\n<li>有序列表</li>\n<li>有序列表</li>\n</ol>\n<p class="content">我是图片<img src="images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png"/></p>\n<p class="content"><table><tr><td></td><td></td><td><p><strong>价格</strong></p></td></tr><tr><td rowspan="2"></td><td><p><a href="http://www.aa.com">www.aa.com</a></p></td><td><p>20</p></td></tr><tr><td><p><a href="http://www.bb.com">www.bb.com</a></p></td><td><p>30</p></td></tr></table></p>\n<p class="content">3+1&gt;3或者3-1&lt;3</p>\n<h1>我也是一个标题</h1>\n<h1>我也是一个标题</h1>\n<p class="content">你不需要管我的<b>张三李四</b></p>\n<h1>我也是一个标题</h1>\n<p class="fragment content">我是需要隐藏的内容</p>\n<p class="content">H<sup>2</sup>O+CO<sub>2  </sub>这个是填空项<u>                </u></p>\n<p class="content"></p>\n</section>' ]
+[2016-11-10 11:08:02.584] [WARN] process.js - 正在生成  output\1.html
+[2016-11-10 11:08:02.713] [WARN] process.js - 正在生成  output\2.html
+[2016-11-10 11:08:02.720] [WARN] process.js - 正在生成  output\3.html
+[2016-11-10 11:27:36.954] [INFO] console - { '0': 'index.js' }
+[2016-11-10 11:27:37.085] [INFO] console - { '0': 'process.js' }
+[2016-11-10 11:27:37.093] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 11:27:37.094] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 11:27:37.095] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 11:27:37.096] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 11:27:37.097] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 11:27:37.098] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 11:27:37.099] [WARN] index.js - 生成页面
+[2016-11-10 11:27:37.100] [INFO] console - 正在清空output目录......
+[2016-11-10 11:27:37.104] [INFO] console - 6
+[2016-11-10 11:27:41.159] [INFO] console - output目录清空完成......
+[2016-11-10 11:27:41.161] [INFO] console - [Function: html2txt]
+[2016-11-10 11:27:41.161] [INFO] console - 开始html转换为txt......
+[2016-11-10 11:27:41.217] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 11:27:41.264] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 11:27:41.330] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 11:27:41.354] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 11:27:41.358] [INFO] console - 没有找到body标签！
+[2016-11-10 11:27:41.359] [INFO] console - 结束html转换为txt......
+[2016-11-10 11:27:41.361] [INFO] console - 正在复制主题目录......
+[2016-11-10 11:27:56.118] [INFO] console - 主题文件复制完成......
+[2016-11-10 11:27:56.122] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 11:27:56.125] [INFO] console - 图片复制完成......
+[2016-11-10 11:27:56.136] [WARN] process.js - 正在生成  output\1.html
+[2016-11-10 11:27:56.241] [WARN] process.js - 正在生成  output\2.html
+[2016-11-10 11:27:56.247] [WARN] process.js - 正在生成  output\3.html
+[2016-11-10 14:39:43.006] [INFO] console - { '0': 'index.js' }
+[2016-11-10 14:39:43.137] [INFO] console - { '0': 'process.js' }
+[2016-11-10 14:39:43.144] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 14:39:43.145] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 14:39:43.146] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 14:39:43.147] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 14:39:43.159] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 14:39:43.159] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 14:39:43.160] [WARN] index.js - 生成页面
+[2016-11-10 14:39:43.162] [INFO] console - 正在清空output目录......
+[2016-11-10 14:39:43.166] [INFO] console - 6
+[2016-11-10 14:39:52.038] [INFO] console - output目录清空完成......
+[2016-11-10 14:39:52.042] [INFO] console - [Function: html2txt]
+[2016-11-10 14:39:52.044] [INFO] console - 开始html转换为txt......
+[2016-11-10 14:39:52.060] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 14:39:52.121] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 14:39:52.148] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 14:39:52.163] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 14:39:52.175] [INFO] console - 没有找到body标签！
+[2016-11-10 14:39:52.177] [INFO] console - 结束html转换为txt......
+[2016-11-10 14:39:52.179] [INFO] console - 正在复制主题目录......
+[2016-11-10 14:40:10.446] [INFO] console - 主题文件复制完成......
+[2016-11-10 14:40:10.454] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 14:40:10.458] [INFO] console - 图片复制完成......
+[2016-11-10 14:40:10.464] [WARN] process.js - 正在生成  output\1.html
+[2016-11-10 14:40:11.049] [WARN] process.js - 正在生成  output\2.html
+[2016-11-10 14:40:11.078] [WARN] process.js - 正在生成  output\3.html
+[2016-11-10 15:22:03.660] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:22:03.795] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:22:03.803] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 15:22:03.804] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:22:03.805] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:22:03.806] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:22:03.807] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:22:03.808] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:22:03.808] [WARN] index.js - 生成页面
+[2016-11-10 15:22:03.810] [INFO] console - 正在清空output目录......
+[2016-11-10 15:22:03.813] [INFO] console - 6
+[2016-11-10 15:22:05.266] [INFO] console - output目录清空完成......
+[2016-11-10 15:22:05.268] [INFO] console - [Function: html2txt]
+[2016-11-10 15:22:05.269] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:22:05.287] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:22:05.313] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:22:05.333] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:22:05.365] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:22:05.378] [INFO] console - 没有找到body标签！
+[2016-11-10 15:22:05.379] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:22:05.381] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:22:14.582] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:22:14.587] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:22:14.592] [INFO] console - 图片复制完成......
+[2016-11-10 15:22:14.603] [WARN] process.js - 正在生成  output\1.html
+[2016-11-10 15:22:14.641] [WARN] process.js - 正在生成  output\2.html
+[2016-11-10 15:22:14.657] [WARN] process.js - 正在生成  output\3.html
+[2016-11-10 15:22:35.644] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:22:35.780] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:22:35.788] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 15:22:35.789] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:22:35.789] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:22:35.790] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:22:35.791] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:22:35.792] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:22:35.792] [WARN] index.js - 生成页面
+[2016-11-10 15:22:35.794] [INFO] console - 正在清空output目录......
+[2016-11-10 15:22:35.799] [INFO] console - 6
+[2016-11-10 15:22:37.178] [INFO] console - output目录清空完成......
+[2016-11-10 15:22:37.179] [INFO] console - [Function: html2txt]
+[2016-11-10 15:22:37.180] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:22:37.183] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:22:37.189] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:22:37.192] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:22:37.195] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:22:37.197] [INFO] console - 没有找到body标签！
+[2016-11-10 15:22:45.368] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:22:45.503] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:22:45.511] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 15:22:56.106] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:22:56.244] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:22:56.252] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 15:22:56.253] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:22:56.254] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:22:56.255] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:22:56.256] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:22:56.257] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:22:56.257] [WARN] index.js - 生成页面
+[2016-11-10 15:22:56.259] [INFO] console - 正在清空output目录......
+[2016-11-10 15:22:56.263] [INFO] console - 6
+[2016-11-10 15:22:56.265] [INFO] console - output目录清空完成......
+[2016-11-10 15:22:56.266] [INFO] console - [Function: html2txt]
+[2016-11-10 15:22:56.267] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:22:56.269] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:22:56.275] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:22:56.280] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:22:56.284] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:22:56.286] [INFO] console - 没有找到body标签！
+[2016-11-10 15:22:56.287] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:22:56.287] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:22:59.198] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:22:59.201] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:22:59.205] [INFO] console - 图片复制完成......
+[2016-11-10 15:22:59.211] [WARN] process.js - 正在生成  output\1.html
+[2016-11-10 15:22:59.220] [WARN] process.js - 正在生成  output\2.html
+[2016-11-10 15:22:59.227] [WARN] process.js - 正在生成  output\3.html
+[2016-11-10 15:23:02.256] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:23:02.388] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:23:02.396] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 15:23:02.397] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:23:02.398] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:23:02.399] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:23:02.401] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:23:02.401] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:23:02.402] [WARN] index.js - 生成页面
+[2016-11-10 15:23:02.404] [INFO] console - 正在清空output目录......
+[2016-11-10 15:23:02.408] [INFO] console - 6
+[2016-11-10 15:23:03.878] [INFO] console - output目录清空完成......
+[2016-11-10 15:23:03.880] [INFO] console - [Function: html2txt]
+[2016-11-10 15:23:03.881] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:23:03.882] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:23:03.887] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:23:03.891] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:23:03.894] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:23:03.896] [INFO] console - 没有找到body标签！
+[2016-11-10 15:23:03.897] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:23:03.897] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:23:06.213] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:23:06.217] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:23:06.220] [INFO] console - 图片复制完成......
+[2016-11-10 15:23:06.227] [WARN] process.js - 正在生成  output\1.html
+[2016-11-10 15:23:06.236] [WARN] process.js - 正在生成  output\2.html
+[2016-11-10 15:23:06.244] [WARN] process.js - 正在生成  output\3.html
+[2016-11-10 15:24:43.450] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:24:43.583] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:24:43.591] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 15:24:43.592] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:24:43.593] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:24:43.593] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:24:43.595] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:24:43.595] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:24:43.596] [WARN] index.js - 生成页面
+[2016-11-10 15:24:43.598] [INFO] console - 正在清空output目录......
+[2016-11-10 15:24:43.605] [INFO] console - 6
+[2016-11-10 15:24:45.236] [INFO] console - output目录清空完成......
+[2016-11-10 15:24:45.238] [INFO] console - [Function: html2txt]
+[2016-11-10 15:24:45.240] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:24:45.243] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:24:45.253] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:24:45.265] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:24:45.271] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:24:45.274] [INFO] console - 没有找到body标签！
+[2016-11-10 15:24:45.275] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:24:45.276] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:24:48.808] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:24:48.812] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:24:48.816] [INFO] console - 图片复制完成......
+[2016-11-10 15:24:48.823] [WARN] process.js - 正在生成  output\1.html
+[2016-11-10 15:24:48.832] [WARN] process.js - 正在生成  output\2.html
+[2016-11-10 15:24:48.839] [WARN] process.js - 正在生成  output\3.html
+[2016-11-10 15:25:42.166] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:25:42.352] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:25:42.361] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 15:25:42.362] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:25:42.363] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:25:42.364] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:25:42.366] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:25:42.367] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:25:42.367] [WARN] index.js - 生成页面
+[2016-11-10 15:25:42.369] [INFO] console - 正在清空output目录......
+[2016-11-10 15:25:42.374] [INFO] console - 6
+[2016-11-10 15:25:44.866] [INFO] console - output目录清空完成......
+[2016-11-10 15:25:44.867] [INFO] console - [Function: html2txt]
+[2016-11-10 15:25:44.868] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:25:44.870] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:25:44.877] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:25:44.882] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:25:44.887] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:26:47.117] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:26:47.256] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:26:47.264] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 15:26:47.265] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:26:47.266] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:26:47.267] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:26:47.268] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:26:47.268] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:26:47.270] [WARN] index.js - 生成页面
+[2016-11-10 15:26:47.272] [INFO] console - 正在清空output目录......
+[2016-11-10 15:26:47.276] [INFO] console - 6
+[2016-11-10 15:26:47.278] [INFO] console - output目录清空完成......
+[2016-11-10 15:26:47.279] [INFO] console - [Function: html2txt]
+[2016-11-10 15:26:47.280] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:26:47.282] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:26:47.289] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:26:47.294] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:26:47.297] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:26:47.298] [INFO] console - 没有找到body标签！
+[2016-11-10 15:26:47.299] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:26:47.300] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:26:50.002] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:26:50.007] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:26:50.011] [INFO] console - 图片复制完成......
+[2016-11-10 15:26:50.020] [WARN] process.js - 正在生成  output\1.html
+[2016-11-10 15:26:50.029] [WARN] process.js - 正在生成  output\2.html
+[2016-11-10 15:26:50.037] [WARN] process.js - 正在生成  output\3.html
+[2016-11-10 15:28:37.134] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:28:37.318] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:28:37.328] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 15:28:37.329] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:28:37.330] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:28:37.331] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:28:37.333] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:28:37.333] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:28:37.334] [WARN] index.js - 生成页面
+[2016-11-10 15:28:37.336] [INFO] console - 正在清空output目录......
+[2016-11-10 15:28:37.342] [INFO] console - 6
+[2016-11-10 15:28:39.042] [INFO] console - output目录清空完成......
+[2016-11-10 15:28:39.044] [INFO] console - [Function: html2txt]
+[2016-11-10 15:28:39.044] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:28:39.046] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:28:39.052] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:28:39.056] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:28:39.060] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:28:39.062] [WARN] console - 没有找到body标签！
+[2016-11-10 15:28:39.063] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:28:39.064] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:28:41.994] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:28:41.998] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:28:42.001] [INFO] console - 图片复制完成......
+[2016-11-10 15:28:42.007] [WARN] process.js - 正在生成  output\1.html
+[2016-11-10 15:28:42.015] [WARN] process.js - 正在生成  output\2.html
+[2016-11-10 15:28:42.021] [WARN] process.js - 正在生成  output\3.html
+[2016-11-10 15:29:11.352] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:29:11.496] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:29:11.504] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 15:29:11.505] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:29:11.506] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:29:11.506] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:29:11.508] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:29:11.508] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:29:11.509] [WARN] index.js - 生成页面
+[2016-11-10 15:29:11.510] [INFO] console - 正在清空output目录......
+[2016-11-10 15:29:11.514] [INFO] console - 6
+[2016-11-10 15:29:14.359] [INFO] console - output目录清空完成......
+[2016-11-10 15:29:14.360] [INFO] console - [Function: html2txt]
+[2016-11-10 15:29:14.361] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:29:14.363] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:29:14.369] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:29:14.373] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:29:14.376] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:29:14.378] [WARN] console - 没有找到body标签！
+[2016-11-10 15:29:14.379] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:29:14.380] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:29:17.079] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:29:17.083] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:29:17.086] [INFO] console - 图片复制完成......
+[2016-11-10 15:29:30.605] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:29:30.752] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:29:30.760] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 15:29:30.762] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:29:30.762] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:29:30.764] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:29:30.766] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:29:30.767] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:29:30.767] [WARN] index.js - 生成页面
+[2016-11-10 15:29:30.769] [INFO] console - 正在清空output目录......
+[2016-11-10 15:29:30.773] [INFO] console - 6
+[2016-11-10 15:29:32.323] [INFO] console - output目录清空完成......
+[2016-11-10 15:29:32.326] [INFO] console - [Function: html2txt]
+[2016-11-10 15:29:32.327] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:29:32.330] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:29:32.341] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:29:32.344] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:29:32.347] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:29:32.348] [WARN] console - 没有找到body标签！
+[2016-11-10 15:29:32.349] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:29:32.350] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:29:34.932] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:29:34.936] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:29:34.938] [INFO] console - 图片复制完成......
+[2016-11-10 15:29:34.944] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 15:29:34.954] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 15:29:34.958] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 15:29:42.646] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:29:42.785] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:29:42.794] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 15:29:42.795] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:29:42.795] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:29:42.797] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:29:42.798] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:29:42.798] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:29:42.799] [WARN] index.js - 生成页面
+[2016-11-10 15:29:42.800] [INFO] console - 正在清空output目录......
+[2016-11-10 15:29:42.805] [INFO] console - 6
+[2016-11-10 15:29:44.398] [INFO] console - output目录清空完成......
+[2016-11-10 15:29:44.400] [INFO] console - [Function: html2txt]
+[2016-11-10 15:29:44.400] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:29:44.402] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:29:44.407] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:29:44.411] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:29:44.414] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:29:44.416] [WARN] console - 没有找到body标签！
+[2016-11-10 15:29:44.416] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:29:44.417] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:29:46.830] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:29:46.833] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:29:46.836] [INFO] console - 图片复制完成......
+[2016-11-10 15:34:45.378] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:34:45.514] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:34:45.522] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 15:34:45.523] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:34:45.540] [INFO] console - [32mhello[39m
+[2016-11-10 15:34:45.541] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:34:45.542] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:34:45.544] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:34:45.545] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:34:45.545] [WARN] index.js - 生成页面
+[2016-11-10 15:34:45.547] [INFO] console - 正在清空output目录......
+[2016-11-10 15:34:45.551] [INFO] console - 6
+[2016-11-10 15:34:47.888] [INFO] console - output目录清空完成......
+[2016-11-10 15:34:47.890] [INFO] console - [Function: html2txt]
+[2016-11-10 15:34:47.891] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:34:47.893] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:34:47.903] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:34:47.908] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:34:47.913] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:34:47.918] [WARN] console - 没有找到body标签！
+[2016-11-10 15:34:47.920] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:34:47.922] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:34:51.137] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:34:51.141] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:34:51.145] [INFO] console - 图片复制完成......
+[2016-11-10 15:34:51.152] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 15:34:51.161] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 15:34:51.166] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 15:34:54.433] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:34:54.565] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:34:54.573] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 15:34:54.574] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:34:54.590] [INFO] console - [33mhello[39m
+[2016-11-10 15:34:54.591] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:34:54.591] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:34:54.593] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:34:54.593] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:34:54.594] [WARN] index.js - 生成页面
+[2016-11-10 15:34:54.595] [INFO] console - 正在清空output目录......
+[2016-11-10 15:34:54.600] [INFO] console - 6
+[2016-11-10 15:34:56.236] [INFO] console - output目录清空完成......
+[2016-11-10 15:34:56.239] [INFO] console - [Function: html2txt]
+[2016-11-10 15:34:56.240] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:34:56.242] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:34:56.250] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:34:56.254] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:34:56.258] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:34:56.261] [WARN] console - 没有找到body标签！
+[2016-11-10 15:34:56.261] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:34:56.263] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:34:59.238] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:34:59.242] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:34:59.245] [INFO] console - 图片复制完成......
+[2016-11-10 15:34:59.251] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 15:34:59.260] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 15:34:59.327] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 15:35:09.785] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:35:09.927] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:35:09.935] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 15:35:09.936] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:35:09.954] [INFO] console - [36mhello[39m
+[2016-11-10 15:35:09.955] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:35:09.956] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:35:09.958] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:35:09.958] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:35:09.959] [WARN] index.js - 生成页面
+[2016-11-10 15:35:09.960] [INFO] console - 正在清空output目录......
+[2016-11-10 15:35:09.967] [INFO] console - 6
+[2016-11-10 15:35:11.517] [INFO] console - output目录清空完成......
+[2016-11-10 15:35:11.518] [INFO] console - [Function: html2txt]
+[2016-11-10 15:35:11.519] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:35:11.520] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:35:11.526] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:35:11.529] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:35:11.532] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:35:11.535] [WARN] console - 没有找到body标签！
+[2016-11-10 15:35:11.535] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:35:11.536] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:35:14.133] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:35:14.138] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:35:14.141] [INFO] console - 图片复制完成......
+[2016-11-10 15:35:14.146] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 15:35:14.156] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 15:35:14.161] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 15:35:50.314] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:35:50.450] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:35:50.458] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 15:35:50.459] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:35:50.474] [INFO] console - [31m[4mhello[24m[39m
+[2016-11-10 15:35:50.475] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:35:50.476] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:35:50.478] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:35:50.478] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:35:50.478] [WARN] index.js - 生成页面
+[2016-11-10 15:35:50.480] [INFO] console - 正在清空output目录......
+[2016-11-10 15:35:50.484] [INFO] console - 6
+[2016-11-10 15:35:52.207] [INFO] console - output目录清空完成......
+[2016-11-10 15:35:52.208] [INFO] console - [Function: html2txt]
+[2016-11-10 15:35:52.209] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:35:52.212] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:35:52.219] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:35:52.225] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:35:52.228] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:35:52.230] [WARN] console - 没有找到body标签！
+[2016-11-10 15:35:52.230] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:35:52.231] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:35:54.779] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:35:54.783] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:35:54.786] [INFO] console - 图片复制完成......
+[2016-11-10 15:35:54.791] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 15:35:54.800] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 15:35:54.804] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 15:36:10.253] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:36:10.388] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:36:10.396] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 15:36:10.397] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:36:10.412] [INFO] console - [31mh[39m[33me[39m[32ml[39m[34ml[39m[35mo[39m
+[2016-11-10 15:36:10.413] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:36:10.414] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:36:10.417] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:36:10.417] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:36:10.418] [WARN] index.js - 生成页面
+[2016-11-10 15:36:10.419] [INFO] console - 正在清空output目录......
+[2016-11-10 15:36:10.423] [INFO] console - 6
+[2016-11-10 15:36:11.943] [INFO] console - output目录清空完成......
+[2016-11-10 15:36:11.946] [INFO] console - [Function: html2txt]
+[2016-11-10 15:36:11.947] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:36:11.950] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:36:11.957] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:36:11.962] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:36:11.965] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:36:11.969] [WARN] console - 没有找到body标签！
+[2016-11-10 15:36:11.970] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:36:11.971] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:36:14.972] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:36:14.979] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:36:14.982] [INFO] console - 图片复制完成......
+[2016-11-10 15:36:14.987] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 15:36:14.996] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 15:36:15.002] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 15:36:27.996] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:36:28.135] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:36:28.146] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 15:36:28.147] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:36:28.163] [INFO] console - ӇƎĹĹ๏
+[2016-11-10 15:36:28.163] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:36:28.164] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:36:28.166] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:36:28.167] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:36:28.167] [WARN] index.js - 生成页面
+[2016-11-10 15:36:28.169] [INFO] console - 正在清空output目录......
+[2016-11-10 15:36:28.173] [INFO] console - 6
+[2016-11-10 15:36:30.683] [INFO] console - output目录清空完成......
+[2016-11-10 15:36:30.685] [INFO] console - [Function: html2txt]
+[2016-11-10 15:36:30.685] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:36:30.687] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:36:30.692] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:36:30.696] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:36:30.700] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:36:30.702] [WARN] console - 没有找到body标签！
+[2016-11-10 15:36:30.703] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:36:30.704] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:36:33.085] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:36:33.089] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:36:33.093] [INFO] console - 图片复制完成......
+[2016-11-10 15:36:33.100] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 15:36:33.108] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 15:36:33.112] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 15:36:43.920] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:36:44.084] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:36:44.091] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 15:36:44.092] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:36:44.108] [INFO] console - [4mhello[24m
+[2016-11-10 15:36:44.109] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:36:44.110] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:36:44.112] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:36:44.112] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:36:44.113] [WARN] index.js - 生成页面
+[2016-11-10 15:36:44.115] [INFO] console - 正在清空output目录......
+[2016-11-10 15:36:44.119] [INFO] console - 6
+[2016-11-10 15:36:45.740] [INFO] console - output目录清空完成......
+[2016-11-10 15:36:45.743] [INFO] console - [Function: html2txt]
+[2016-11-10 15:36:45.744] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:36:45.747] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:36:45.758] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:36:45.764] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:36:45.771] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:36:45.775] [WARN] console - 没有找到body标签！
+[2016-11-10 15:36:45.776] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:36:45.778] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:36:48.516] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:36:48.521] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:36:48.524] [INFO] console - 图片复制完成......
+[2016-11-10 15:36:48.532] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 15:36:48.548] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 15:36:48.554] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 15:38:15.585] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:38:15.714] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:38:15.721] [INFO] console - 数据处理对象实例化！！！
+[2016-11-10 15:38:15.722] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:38:15.723] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:38:15.724] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:38:15.725] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:38:15.726] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:38:15.726] [WARN] index.js - 生成页面
+[2016-11-10 15:38:15.728] [INFO] console - 正在清空output目录......
+[2016-11-10 15:38:15.732] [INFO] console - 6
+[2016-11-10 15:38:18.636] [INFO] console - output目录清空完成......
+[2016-11-10 15:38:18.639] [INFO] console - [Function: html2txt]
+[2016-11-10 15:38:18.641] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:38:18.644] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:38:18.655] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:38:18.661] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:38:18.668] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:38:18.672] [WARN] console - 没有找到body标签！
+[2016-11-10 15:38:18.674] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:38:18.675] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:38:21.935] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:38:21.939] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:38:21.942] [INFO] console - 图片复制完成......
+[2016-11-10 15:38:21.949] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 15:38:21.957] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 15:38:21.963] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 15:43:15.447] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:43:15.573] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:43:15.582] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:43:15.583] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:43:15.584] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:43:15.585] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:43:15.585] [WARN] index.js - 生成页面
+[2016-11-10 15:43:15.587] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:43:15.587] [INFO] console - { port: 9696,
+  title: '课件的名称',
+  icon: '../images/icon.ico',
+  tpl: 'ppt' }
+[2016-11-10 15:43:15.590] [INFO] console - 正在清空output目录......
+[2016-11-10 15:43:15.594] [INFO] console - 6
+[2016-11-10 15:43:17.497] [INFO] console - output目录清空完成......
+[2016-11-10 15:43:17.498] [INFO] console - [Function: html2txt]
+[2016-11-10 15:43:17.499] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:43:17.501] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:43:17.507] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:43:17.513] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:43:17.516] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:43:17.518] [WARN] console - 没有找到body标签！
+[2016-11-10 15:43:17.519] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:43:17.519] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:43:21.432] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:43:21.436] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:43:21.440] [INFO] console - 图片复制完成......
+[2016-11-10 15:43:21.446] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 15:43:21.454] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 15:43:21.459] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 15:44:58.411] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:44:58.565] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:44:58.573] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:44:58.575] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:44:58.577] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:44:58.577] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:44:58.578] [WARN] index.js - 生成页面
+[2016-11-10 15:44:58.579] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:44:58.580] [INFO] console - { port: 9696,
+  title: '课件的名称',
+  icon: '../images/icon.ico',
+  tpl: 'ppt' }
+[2016-11-10 15:44:58.584] [INFO] console - 正在清空output目录......
+[2016-11-10 15:44:58.588] [INFO] console - 6
+[2016-11-10 15:45:00.075] [INFO] console - output目录清空完成......
+[2016-11-10 15:45:00.102] [INFO] console - [Function: html2txt]
+[2016-11-10 15:45:00.103] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:45:00.106] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:45:00.114] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:45:00.120] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:45:00.126] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:45:00.130] [WARN] console - 没有找到body标签！
+[2016-11-10 15:45:00.134] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:45:00.135] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:45:02.776] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:45:02.779] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:45:02.782] [INFO] console - 图片复制完成......
+[2016-11-10 15:45:02.788] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 15:45:02.796] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 15:45:02.800] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 15:45:02.804] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3,
+  sys: 
+   { port: 9696,
+     title: '课件的名称',
+     icon: '../images/icon.ico',
+     tpl: 'ppt' } }
+[2016-11-10 15:59:07.537] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:59:07.678] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:59:07.686] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:59:07.687] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:59:07.688] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:59:07.688] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:59:07.689] [WARN] index.js - 生成页面
+[2016-11-10 15:59:07.690] [INFO] console - { pages: [], countPage: 0, sysPath: {} }
+[2016-11-10 15:59:07.692] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:59:07.692] [INFO] console - { port: 9696,
+  title: '课件的名称',
+  icon: '../images/icon.ico',
+  tpl: 'ppt' }
+[2016-11-10 15:59:07.696] [INFO] console - 正在清空output目录......
+[2016-11-10 15:59:07.700] [INFO] console - 6
+[2016-11-10 15:59:09.443] [INFO] console - output目录清空完成......
+[2016-11-10 15:59:09.446] [INFO] console - [Function: html2txt]
+[2016-11-10 15:59:09.447] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:59:09.451] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:59:09.461] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:59:09.466] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:59:09.470] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:59:09.474] [WARN] console - 没有找到body标签！
+[2016-11-10 15:59:09.475] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:59:09.476] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:59:12.616] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:59:12.620] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:59:12.623] [INFO] console - 图片复制完成......
+[2016-11-10 15:59:12.629] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 15:59:12.637] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 15:59:12.643] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 15:59:12.648] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3,
+  sysPath: {},
+  sysConfig: 
+   { port: 9696,
+     title: '课件的名称',
+     icon: '../images/icon.ico',
+     tpl: 'ppt' } }
+[2016-11-10 15:59:32.710] [INFO] console - { '0': 'index.js' }
+[2016-11-10 15:59:32.842] [INFO] console - { '0': 'process.js' }
+[2016-11-10 15:59:32.850] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 15:59:32.851] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 15:59:32.853] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 15:59:32.854] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 15:59:32.855] [WARN] index.js - 生成页面
+[2016-11-10 15:59:32.856] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 15:59:32.858] [INFO] console - 正在清空output目录......
+[2016-11-10 15:59:32.861] [INFO] console - 6
+[2016-11-10 15:59:35.143] [INFO] console - output目录清空完成......
+[2016-11-10 15:59:35.145] [INFO] console - [Function: html2txt]
+[2016-11-10 15:59:35.146] [INFO] console - 开始html转换为txt......
+[2016-11-10 15:59:35.148] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 15:59:35.154] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 15:59:35.158] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 15:59:35.160] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 15:59:35.163] [WARN] console - 没有找到body标签！
+[2016-11-10 15:59:35.163] [INFO] console - 结束html转换为txt......
+[2016-11-10 15:59:35.164] [INFO] console - 正在复制主题目录......
+[2016-11-10 15:59:37.996] [INFO] console - 主题文件复制完成......
+[2016-11-10 15:59:37.999] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 15:59:38.003] [INFO] console - 图片复制完成......
+[2016-11-10 15:59:38.008] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 15:59:38.017] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 15:59:38.022] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 15:59:38.026] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3,
+  sysPath: {},
+  sysConfig: 
+   { port: 9696,
+     title: '课件的名称',
+     icon: '../images/icon.ico',
+     tpl: 'ppt' } }
+[2016-11-10 16:04:34.196] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:04:34.379] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:04:34.388] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:04:34.389] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:04:34.391] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 16:04:34.391] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:04:34.392] [WARN] index.js - 生成页面
+[2016-11-10 16:04:34.393] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 16:04:34.394] [INFO] console - 正在清空output目录......
+[2016-11-10 16:04:34.398] [INFO] console - 6
+[2016-11-10 16:04:36.088] [INFO] console - output目录清空完成......
+[2016-11-10 16:04:36.093] [INFO] console - [Function: html2txt]
+[2016-11-10 16:04:36.095] [INFO] console - 开始html转换为txt......
+[2016-11-10 16:04:36.098] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 16:04:36.107] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 16:04:36.112] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 16:04:36.118] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 16:04:36.121] [WARN] console - 没有找到body标签！
+[2016-11-10 16:04:36.122] [INFO] console - 结束html转换为txt......
+[2016-11-10 16:04:36.125] [INFO] console - 正在复制主题目录......
+[2016-11-10 16:04:40.238] [INFO] console - 主题文件复制完成......
+[2016-11-10 16:04:40.242] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 16:04:40.245] [INFO] console - 图片复制完成......
+[2016-11-10 16:04:40.251] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 16:04:40.259] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 16:04:40.265] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 16:04:40.269] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3,
+  sysConfig: 
+   { port: 9696,
+     title: '课件的名称',
+     icon: '../images/icon.ico',
+     tpl: 'ppt' } }
+[2016-11-10 16:05:44.654] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:05:44.794] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:05:44.802] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:05:44.803] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:05:44.804] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 16:05:44.805] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:05:44.806] [WARN] index.js - 生成页面
+[2016-11-10 16:05:44.807] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 16:05:44.808] [INFO] console - 正在清空output目录......
+[2016-11-10 16:05:44.812] [INFO] console - 6
+[2016-11-10 16:05:46.404] [INFO] console - output目录清空完成......
+[2016-11-10 16:05:46.405] [INFO] console - [Function: html2txt]
+[2016-11-10 16:05:46.406] [INFO] console - 开始html转换为txt......
+[2016-11-10 16:05:46.408] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 16:05:46.416] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 16:05:46.420] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 16:05:46.425] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 16:05:46.428] [WARN] console - 没有找到body标签！
+[2016-11-10 16:05:46.428] [INFO] console - 结束html转换为txt......
+[2016-11-10 16:05:46.429] [INFO] console - 正在复制主题目录......
+[2016-11-10 16:05:49.108] [INFO] console - 主题文件复制完成......
+[2016-11-10 16:05:49.112] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 16:05:49.115] [INFO] console - 图片复制完成......
+[2016-11-10 16:05:49.121] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 16:05:49.129] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 16:05:49.134] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 16:05:49.138] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3,
+  sysConfig: 
+   { port: 9696,
+     title: '课件的名称',
+     icon: '../images/icon.ico',
+     tpl: 'ppt' } }
+[2016-11-10 16:09:11.753] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:09:11.885] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:09:11.893] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:09:11.895] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:09:11.896] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 16:09:11.896] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:09:11.897] [WARN] index.js - 生成页面
+[2016-11-10 16:09:11.898] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 16:09:11.905] [INFO] console - 正在清空output目录......
+[2016-11-10 16:09:11.909] [INFO] console - 6
+[2016-11-10 16:09:13.381] [INFO] console - output目录清空完成......
+[2016-11-10 16:09:13.383] [INFO] console - [Function: html2txt]
+[2016-11-10 16:09:13.383] [INFO] console - 开始html转换为txt......
+[2016-11-10 16:09:13.386] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 16:09:13.392] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 16:09:13.397] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 16:09:13.400] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 16:09:13.403] [WARN] console - 没有找到body标签！
+[2016-11-10 16:09:13.403] [INFO] console - 结束html转换为txt......
+[2016-11-10 16:09:13.404] [INFO] console - 正在复制主题目录......
+[2016-11-10 16:09:16.288] [INFO] console - 主题文件复制完成......
+[2016-11-10 16:09:16.291] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 16:09:16.295] [INFO] console - 图片复制完成......
+[2016-11-10 16:09:16.302] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 16:09:16.311] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 16:09:16.320] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 16:09:16.324] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3 }
+[2016-11-10 16:09:34.276] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:09:34.425] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:09:34.433] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:09:34.434] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:09:34.436] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 16:09:34.436] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:09:34.437] [WARN] index.js - 生成页面
+[2016-11-10 16:09:34.438] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 16:09:34.446] [INFO] console - 正在清空output目录......
+[2016-11-10 16:09:34.452] [INFO] console - 6
+[2016-11-10 16:09:36.165] [INFO] console - output目录清空完成......
+[2016-11-10 16:09:36.167] [INFO] console - [Function: html2txt]
+[2016-11-10 16:09:36.168] [INFO] console - 开始html转换为txt......
+[2016-11-10 16:09:36.171] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 16:09:36.180] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 16:09:36.184] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 16:09:36.187] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 16:09:36.189] [WARN] console - 没有找到body标签！
+[2016-11-10 16:09:36.190] [INFO] console - 结束html转换为txt......
+[2016-11-10 16:09:36.191] [INFO] console - 正在复制主题目录......
+[2016-11-10 16:09:41.493] [INFO] console - 主题文件复制完成......
+[2016-11-10 16:09:41.496] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 16:09:41.500] [INFO] console - 图片复制完成......
+[2016-11-10 16:09:41.508] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 16:09:41.517] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 16:09:41.523] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 16:09:41.528] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3 }
+[2016-11-10 16:09:41.533] [INFO] process.js - null
+[2016-11-10 16:10:06.771] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:10:06.897] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:10:06.906] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:10:06.907] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:10:06.909] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 16:10:06.909] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:10:06.910] [WARN] index.js - 生成页面
+[2016-11-10 16:10:06.911] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 16:10:06.918] [INFO] console - 正在清空output目录......
+[2016-11-10 16:10:06.923] [INFO] console - 6
+[2016-11-10 16:10:10.430] [INFO] console - output目录清空完成......
+[2016-11-10 16:10:10.432] [INFO] console - [Function: html2txt]
+[2016-11-10 16:10:10.433] [INFO] console - 开始html转换为txt......
+[2016-11-10 16:10:10.436] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 16:10:10.444] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 16:10:10.447] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 16:10:10.451] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 16:10:10.454] [WARN] console - 没有找到body标签！
+[2016-11-10 16:10:10.455] [INFO] console - 结束html转换为txt......
+[2016-11-10 16:10:10.456] [INFO] console - 正在复制主题目录......
+[2016-11-10 16:10:15.343] [INFO] console - 主题文件复制完成......
+[2016-11-10 16:10:15.346] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 16:10:15.350] [INFO] console - 图片复制完成......
+[2016-11-10 16:10:15.355] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 16:10:15.364] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 16:10:15.383] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 16:10:15.387] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3 }
+[2016-11-10 16:10:15.391] [INFO] process.js - E:\渲染引擎\工具集\新版课件制作工具\config.yml
+[2016-11-10 16:10:49.045] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:10:49.190] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:10:49.198] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:10:49.199] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:10:49.200] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 16:10:49.201] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:10:49.202] [WARN] index.js - 生成页面
+[2016-11-10 16:10:49.203] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 16:10:49.209] [INFO] console - 正在清空output目录......
+[2016-11-10 16:10:49.213] [INFO] console - 6
+[2016-11-10 16:10:51.582] [INFO] console - output目录清空完成......
+[2016-11-10 16:10:51.583] [INFO] console - [Function: html2txt]
+[2016-11-10 16:10:51.584] [INFO] console - 开始html转换为txt......
+[2016-11-10 16:10:51.587] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 16:10:51.595] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 16:10:51.620] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 16:10:51.630] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 16:10:51.633] [WARN] console - 没有找到body标签！
+[2016-11-10 16:10:51.634] [INFO] console - 结束html转换为txt......
+[2016-11-10 16:10:51.636] [INFO] console - 正在复制主题目录......
+[2016-11-10 16:10:55.937] [INFO] console - 主题文件复制完成......
+[2016-11-10 16:10:55.941] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 16:10:55.944] [INFO] console - 图片复制完成......
+[2016-11-10 16:10:55.950] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 16:10:55.960] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 16:10:55.971] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 16:10:55.975] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3 }
+[2016-11-10 16:10:55.983] [INFO] process.js - E:\渲染引擎\工具集\新版课件制作工具\config.yml
+[2016-11-10 16:11:02.209] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:11:02.336] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:11:02.346] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:11:02.347] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:11:02.348] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 16:11:02.349] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:11:02.350] [WARN] index.js - 生成页面
+[2016-11-10 16:11:02.352] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 16:11:02.358] [INFO] console - 正在清空output目录......
+[2016-11-10 16:11:02.362] [INFO] console - 6
+[2016-11-10 16:11:06.231] [INFO] console - output目录清空完成......
+[2016-11-10 16:11:06.232] [INFO] console - [Function: html2txt]
+[2016-11-10 16:11:06.233] [INFO] console - 开始html转换为txt......
+[2016-11-10 16:11:06.236] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 16:11:06.243] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 16:11:06.248] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 16:11:06.252] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 16:11:06.254] [WARN] console - 没有找到body标签！
+[2016-11-10 16:11:06.255] [INFO] console - 结束html转换为txt......
+[2016-11-10 16:11:06.256] [INFO] console - 正在复制主题目录......
+[2016-11-10 16:11:09.708] [INFO] console - 主题文件复制完成......
+[2016-11-10 16:11:09.712] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 16:11:09.715] [INFO] console - 图片复制完成......
+[2016-11-10 16:11:09.721] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 16:11:09.730] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 16:11:09.737] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 16:11:09.741] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3 }
+[2016-11-10 16:11:09.746] [INFO] process.js - { port: 9696,
+  title: '课件的名称',
+  icon: '../images/icon.ico',
+  tpl: 'ppt' }
+[2016-11-10 16:24:21.300] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:24:21.427] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:24:21.455] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:24:21.456] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:24:21.458] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 16:24:21.458] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:24:21.459] [WARN] index.js - 生成页面
+[2016-11-10 16:24:21.460] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 16:24:21.467] [INFO] console - 正在清空output目录......
+[2016-11-10 16:24:21.471] [INFO] console - 6
+[2016-11-10 16:24:37.620] [INFO] console - output目录清空完成......
+[2016-11-10 16:24:37.623] [INFO] console - [Function: html2txt]
+[2016-11-10 16:24:37.628] [INFO] console - 开始html转换为txt......
+[2016-11-10 16:24:37.634] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 16:24:37.700] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 16:24:37.769] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 16:24:38.288] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 16:24:38.365] [WARN] console - 没有找到body标签！
+[2016-11-10 16:24:38.366] [INFO] console - 结束html转换为txt......
+[2016-11-10 16:24:38.368] [INFO] console - 正在复制主题目录......
+[2016-11-10 16:26:44.863] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:26:44.987] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:26:45.015] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:26:45.016] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:26:45.017] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 16:26:45.018] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:26:45.018] [WARN] index.js - 生成页面
+[2016-11-10 16:26:45.020] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 16:26:45.026] [INFO] console - 正在清空output目录......
+[2016-11-10 16:26:45.030] [INFO] console - 6
+[2016-11-10 16:26:56.788] [INFO] console - output目录清空完成......
+[2016-11-10 16:26:56.790] [INFO] console - [Function: html2txt]
+[2016-11-10 16:26:56.790] [INFO] console - 开始html转换为txt......
+[2016-11-10 16:26:56.792] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 16:26:56.798] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 16:26:56.804] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 16:26:56.809] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 16:26:56.814] [WARN] console - 没有找到body标签！
+[2016-11-10 16:26:56.814] [INFO] console - 结束html转换为txt......
+[2016-11-10 16:26:56.816] [INFO] console - 正在复制主题目录......
+[2016-11-10 16:27:46.405] [INFO] console - 主题文件复制完成......
+[2016-11-10 16:27:46.413] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 16:27:46.420] [INFO] console - 图片复制完成......
+[2016-11-10 16:27:46.428] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 16:27:47.356] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 16:27:47.384] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 16:27:47.393] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3 }
+[2016-11-10 16:27:47.402] [INFO] process.js - { port: 9696,
+  title: '课件的名称',
+  icon: '../images/icon.ico',
+  tpl: 'ppt' }
+[2016-11-10 16:28:20.379] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:28:20.505] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:28:20.533] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:28:20.534] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:28:20.535] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:28:20.536] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:28:20.536] [WARN] index.js - 启动web服务器
+[2016-11-10 16:28:20.543] [INFO] console - 6
+[2016-11-10 16:31:38.112] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:31:38.280] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:31:38.313] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:31:38.315] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:31:38.316] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:31:38.316] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:31:38.317] [WARN] index.js - 启动web服务器
+[2016-11-10 16:31:38.326] [INFO] console - 6
+[2016-11-10 16:32:15.824] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:32:15.957] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:32:15.987] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:32:15.989] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:32:15.991] [INFO] index.js - 第3个参数为:--sy
+[2016-11-10 16:32:15.992] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:32:15.993] [INFO] console - 6
+[2016-11-10 16:32:18.682] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:32:18.816] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:32:18.846] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:32:18.848] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:32:18.850] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:32:18.850] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:32:18.851] [WARN] index.js - 启动web服务器
+[2016-11-10 16:32:18.858] [INFO] console - 6
+[2016-11-10 16:32:34.200] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:25.546] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:32.604] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:32.714] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:32.721] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:32.722] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:32.867] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:32.945] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:32.948] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:32.950] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:33.016] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:33.017] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:33.020] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:33.023] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:33.026] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:33.233] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:33.235] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:33.238] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:33.239] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:33.241] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:33.248] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:33.252] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:33.255] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:34.274] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:34.522] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:34.525] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:34.538] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:34.575] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:34.641] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:34.687] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:35.330] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:35.455] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:35.865] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:35.910] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:35.912] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:33:37.716] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:34:34.287] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:34:34.412] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:34:34.440] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:34:34.441] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:34:34.443] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:34:34.444] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:34:34.444] [WARN] index.js - 启动web服务器
+[2016-11-10 16:34:34.452] [INFO] console - 6
+[2016-11-10 16:35:21.411] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:35:21.551] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:35:21.579] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:35:21.581] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:35:21.582] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:35:21.582] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:35:21.583] [WARN] index.js - 启动web服务器
+[2016-11-10 16:35:21.590] [INFO] process.js - 服务器启动成功......=> http://localhost:9696/
+[2016-11-10 16:35:21.591] [INFO] console - 6
+[2016-11-10 16:35:47.423] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:35:47.552] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:35:47.596] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:35:47.598] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:35:47.600] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:35:47.601] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:35:47.601] [WARN] index.js - 启动web服务器
+[2016-11-10 16:35:47.611] [INFO] process.js - http://localhost:9696/
+[2016-11-10 16:35:47.612] [INFO] console - 6
+[2016-11-10 16:36:13.961] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:36:14.095] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:36:14.127] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:36:14.128] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:36:14.129] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:36:14.130] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:36:14.130] [WARN] index.js - 启动web服务器
+[2016-11-10 16:36:14.137] [INFO] process.js - Server Start... http://localhost:9696/
+[2016-11-10 16:36:14.138] [INFO] console - 6
+[2016-11-10 16:38:44.116] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:38:44.247] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:38:44.275] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:38:44.277] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:38:44.279] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:38:44.279] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:38:44.280] [WARN] index.js - 启动web服务器
+[2016-11-10 16:38:44.287] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 16:38:44.288] [INFO] console - 6
+[2016-11-10 16:39:39.238] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:39:39.403] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:39:39.439] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:39:39.440] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:39:39.441] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:39:39.442] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:39:39.442] [WARN] index.js - 启动web服务器
+[2016-11-10 16:39:39.450] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 16:39:39.451] [INFO] console - 6
+[2016-11-10 16:39:55.760] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:39:55.938] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:39:55.982] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:39:55.983] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:39:55.985] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:39:55.986] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:39:55.987] [WARN] index.js - 启动web服务器
+[2016-11-10 16:39:55.994] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 16:39:55.995] [INFO] console - 6
+[2016-11-10 16:39:58.948] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:41:36.463] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:41:36.603] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:41:36.634] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:41:36.635] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:41:36.637] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:41:36.637] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:41:36.638] [WARN] index.js - 启动web服务器
+[2016-11-10 16:41:36.646] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 16:41:36.647] [INFO] console - 6
+[2016-11-10 16:41:39.930] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:42:42.842] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:42:42.965] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:42:42.994] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:42:42.995] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:42:42.996] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:42:42.997] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:42:42.997] [WARN] index.js - 启动web服务器
+[2016-11-10 16:42:43.004] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 16:42:43.006] [INFO] console - 6
+[2016-11-10 16:42:45.574] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:42:46.991] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:42:47.395] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:42:47.535] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:43:30.373] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:43:31.850] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:43:32.206] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:43:32.552] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:43:32.927] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:43:33.546] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:43:33.897] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:43:38.348] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:43:38.491] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:43:38.523] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:43:38.524] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:43:38.526] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:43:38.526] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:43:38.527] [WARN] index.js - 启动web服务器
+[2016-11-10 16:43:38.536] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 16:43:38.538] [INFO] console - 6
+[2016-11-10 16:43:40.401] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:46:01.355] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:46:01.492] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:46:01.521] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:46:01.523] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:46:01.525] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:46:01.525] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:46:01.526] [WARN] index.js - 启动web服务器
+[2016-11-10 16:46:01.533] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 16:46:01.534] [INFO] console - 6
+[2016-11-10 16:46:04.758] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:46:38.407] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:46:38.541] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:46:38.571] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:46:38.572] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:46:38.574] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:46:38.574] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:46:38.575] [WARN] index.js - 启动web服务器
+[2016-11-10 16:46:38.582] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 16:46:38.583] [INFO] console - 6
+[2016-11-10 16:46:41.388] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:46:42.737] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:46:43.055] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:46:43.366] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:46:43.682] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:46:43.694] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:46:43.977] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:46:44.255] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:47:27.689] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:47:27.822] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:47:27.850] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:47:27.851] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:47:27.853] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:47:27.854] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:47:27.855] [WARN] index.js - 启动web服务器
+[2016-11-10 16:47:27.862] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 16:47:27.863] [INFO] console - 6
+[2016-11-10 16:47:30.857] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:47:32.960] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:47:33.284] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:49:06.813] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:49:06.937] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:49:06.964] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:49:06.965] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:49:06.967] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:49:06.967] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:49:06.968] [WARN] index.js - 启动web服务器
+[2016-11-10 16:49:06.976] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 16:49:06.977] [INFO] console - 6
+[2016-11-10 16:49:09.561] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:50:01.750] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:50:01.909] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:50:01.937] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:50:01.939] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:50:01.941] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:50:01.941] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:50:01.942] [WARN] index.js - 启动web服务器
+[2016-11-10 16:50:01.949] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 16:50:01.951] [INFO] console - 6
+[2016-11-10 16:50:05.241] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:50:43.571] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:50:43.708] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:50:43.738] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:50:43.739] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:50:43.741] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:50:43.742] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:50:43.743] [WARN] index.js - 启动web服务器
+[2016-11-10 16:50:43.750] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 16:50:43.752] [INFO] console - 6
+[2016-11-10 16:50:45.137] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:50:47.405] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:51:19.892] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:51:20.027] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:51:20.056] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:51:20.058] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:51:20.060] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:51:20.061] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:51:20.062] [WARN] index.js - 启动web服务器
+[2016-11-10 16:51:20.069] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 16:51:20.070] [INFO] console - 6
+[2016-11-10 16:51:21.501] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:51:36.985] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:51:37.120] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:51:37.148] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:51:37.149] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:51:37.151] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:51:37.151] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:51:37.152] [WARN] index.js - 启动web服务器
+[2016-11-10 16:51:37.159] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 16:51:37.161] [INFO] console - 6
+[2016-11-10 16:51:39.266] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:51:49.320] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:51:49.453] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:51:49.482] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:51:49.483] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:51:49.485] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:51:49.485] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:51:49.486] [WARN] index.js - 启动web服务器
+[2016-11-10 16:51:49.493] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 16:51:49.494] [INFO] console - 6
+[2016-11-10 16:51:51.862] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:52:26.930] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:52:27.604] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:52:27.946] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:52:28.293] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:52:28.609] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:52:28.948] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:52:29.288] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:52:30.259] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:52:30.567] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:52:30.930] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:52:31.345] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:52:31.664] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:52:32.009] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:52:32.880] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:52:33.241] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:52:33.530] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:52:38.112] [ERROR] console - Error serving /images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png - Not Found
+[2016-11-10 16:52:38.647] [ERROR] console - Error serving /help.html - Not Found
+[2016-11-10 16:53:34.170] [ERROR] console - Error serving /images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png - Not Found
+[2016-11-10 16:53:34.512] [ERROR] console - Error serving /images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png - Not Found
+[2016-11-10 16:53:35.297] [ERROR] console - Error serving /help.html - Not Found
+[2016-11-10 16:58:30.898] [INFO] console - { '0': 'index.js' }
+[2016-11-10 16:58:31.033] [INFO] console - { '0': 'process.js' }
+[2016-11-10 16:58:31.061] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 16:58:31.062] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 16:58:31.064] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 16:58:31.064] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 16:58:31.065] [WARN] index.js - 启动web服务器
+[2016-11-10 16:58:31.073] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 16:58:31.074] [INFO] console - 6
+[2016-11-10 16:58:36.694] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:58:38.464] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:58:39.614] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:58:40.627] [ERROR] console - Error serving / - Not Found
+[2016-11-10 16:58:40.916] [ERROR] console - Error serving / - Not Found
+[2016-11-10 17:00:34.957] [INFO] console - { '0': 'index.js' }
+[2016-11-10 17:00:35.089] [INFO] console - { '0': 'process.js' }
+[2016-11-10 17:00:35.119] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 17:00:35.120] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 17:00:35.121] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 17:00:35.122] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 17:00:35.122] [WARN] index.js - 启动web服务器
+[2016-11-10 17:00:35.129] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 17:00:35.131] [INFO] console - 6
+[2016-11-10 17:00:39.778] [ERROR] console - Error serving / - Not Found
+[2016-11-10 17:00:41.568] [ERROR] console - Error serving / - Not Found
+[2016-11-10 17:00:42.643] [ERROR] console - Error serving / - Not Found
+[2016-11-10 17:00:42.971] [ERROR] console - Error serving / - Not Found
+[2016-11-10 17:02:35.558] [INFO] console - { '0': 'index.js' }
+[2016-11-10 17:02:35.683] [INFO] console - { '0': 'process.js' }
+[2016-11-10 17:02:35.711] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 17:02:35.712] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 17:02:35.714] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 17:02:35.714] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 17:02:35.715] [WARN] index.js - 启动web服务器
+[2016-11-10 17:02:35.722] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 17:02:35.723] [INFO] console - 6
+[2016-11-10 17:02:40.390] [ERROR] console - Error serving / - Not Found
+[2016-11-10 17:02:41.305] [ERROR] console - Error serving / - Not Found
+[2016-11-10 17:02:41.660] [ERROR] console - Error serving / - Not Found
+[2016-11-10 17:02:41.946] [ERROR] console - Error serving / - Not Found
+[2016-11-10 17:02:41.977] [ERROR] console - Error serving / - Not Found
+[2016-11-10 17:03:30.508] [INFO] console - { '0': 'index.js' }
+[2016-11-10 17:03:30.654] [INFO] console - { '0': 'process.js' }
+[2016-11-10 17:03:30.683] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 17:03:30.684] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 17:03:30.685] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 17:03:30.686] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 17:03:30.687] [WARN] index.js - 启动web服务器
+[2016-11-10 17:03:30.695] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 17:03:30.697] [INFO] console - 6
+[2016-11-10 17:03:35.529] [ERROR] console - Error serving / - Not Found
+[2016-11-10 17:03:39.259] [ERROR] console - Error serving / - Not Found
+[2016-11-10 17:04:54.222] [INFO] console - { '0': 'index.js' }
+[2016-11-10 17:04:54.356] [INFO] console - { '0': 'process.js' }
+[2016-11-10 17:04:54.385] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 17:04:54.386] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 17:04:54.388] [INFO] index.js - 第3个参数为:--c
+[2016-11-10 17:04:54.389] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 17:04:54.389] [WARN] index.js - 清空output目录
+[2016-11-10 17:04:54.390] [INFO] console - 正在清空output目录......
+[2016-11-10 17:04:54.394] [INFO] console - 6
+[2016-11-10 17:04:56.116] [INFO] console - output目录清空完成......
+[2016-11-10 17:05:16.677] [INFO] console - { '0': 'index.js' }
+[2016-11-10 17:05:16.812] [INFO] console - { '0': 'process.js' }
+[2016-11-10 17:05:16.840] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 17:05:16.842] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 17:05:16.844] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 17:05:16.845] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 17:05:16.845] [WARN] index.js - 启动web服务器
+[2016-11-10 17:05:16.853] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 17:05:16.854] [INFO] console - 6
+[2016-11-10 17:05:27.201] [ERROR] console - Error serving / - Not Found
+[2016-11-10 17:05:27.929] [ERROR] console - Error serving / - Not Found
+[2016-11-10 17:05:28.289] [ERROR] console - Error serving / - Not Found
+[2016-11-10 17:05:28.632] [ERROR] console - Error serving / - Not Found
+[2016-11-10 17:05:37.279] [ERROR] console - Error serving /images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png - Not Found
+[2016-11-10 17:05:37.395] [ERROR] console - Error serving /images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png - Not Found
+[2016-11-10 17:05:37.859] [ERROR] console - Error serving /help.html - Not Found
+[2016-11-10 17:05:39.488] [ERROR] console - Error serving /1.html - Not Found
+[2016-11-10 17:05:48.661] [ERROR] console - Error serving /1.html - Not Found
+[2016-11-10 17:05:49.517] [ERROR] console - Error serving /1.html - Not Found
+[2016-11-10 17:05:49.833] [ERROR] console - Error serving /1.html - Not Found
+[2016-11-10 17:05:50.175] [ERROR] console - Error serving /1.html - Not Found
+[2016-11-10 17:05:50.819] [ERROR] console - Error serving /1.html - Not Found
+[2016-11-10 17:05:51.152] [ERROR] console - Error serving /1.html - Not Found
+[2016-11-10 17:05:51.795] [ERROR] console - Error serving /1.html - Not Found
+[2016-11-10 17:05:52.290] [ERROR] console - Error serving /1.html - Not Found
+[2016-11-10 17:15:55.766] [INFO] console - { '0': 'index.js' }
+[2016-11-10 17:15:55.900] [INFO] console - { '0': 'process.js' }
+[2016-11-10 17:15:55.929] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 17:15:55.930] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 17:15:55.931] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 17:15:55.931] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 17:15:55.932] [WARN] index.js - 生成页面
+[2016-11-10 17:15:55.933] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 17:15:55.940] [INFO] console - 正在清空output目录......
+[2016-11-10 17:15:55.945] [INFO] console - 6
+[2016-11-10 17:15:55.947] [INFO] console - output目录清空完成......
+[2016-11-10 17:15:55.948] [INFO] console - [Function: html2txt]
+[2016-11-10 17:15:55.949] [INFO] console - 开始html转换为txt......
+[2016-11-10 17:15:55.951] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 17:15:55.958] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 17:15:55.979] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 17:15:55.986] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 17:15:55.999] [WARN] console - 没有找到body标签！
+[2016-11-10 17:15:56.000] [INFO] console - 结束html转换为txt......
+[2016-11-10 17:15:56.000] [INFO] console - 正在复制主题目录......
+[2016-11-10 17:16:03.154] [INFO] console - 主题文件复制完成......
+[2016-11-10 17:16:03.158] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 17:16:03.161] [INFO] console - 图片复制完成......
+[2016-11-10 17:16:03.167] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 17:16:03.194] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 17:16:03.212] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 17:16:03.216] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3 }
+[2016-11-10 17:16:03.221] [INFO] process.js - { port: 9696,
+  title: '课件的名称',
+  icon: '../images/icon.ico',
+  tpl: 'ppt' }
+[2016-11-10 17:16:55.167] [INFO] console - { '0': 'index.js' }
+[2016-11-10 17:16:55.356] [INFO] console - { '0': 'process.js' }
+[2016-11-10 17:16:55.396] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 17:16:55.397] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 17:16:55.399] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 17:16:55.400] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 17:16:55.401] [WARN] index.js - 启动web服务器
+[2016-11-10 17:16:55.402] [INFO] console - true
+[2016-11-10 17:16:55.404] [INFO] console - 6
+[2016-11-10 17:17:09.769] [INFO] console - { '0': 'index.js' }
+[2016-11-10 17:17:09.898] [INFO] console - { '0': 'process.js' }
+[2016-11-10 17:17:09.929] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 17:17:09.930] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 17:17:09.932] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 17:17:09.932] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 17:17:09.933] [WARN] index.js - 启动web服务器
+[2016-11-10 17:17:09.934] [INFO] console - undefined
+[2016-11-10 17:17:09.935] [INFO] console - 6
+[2016-11-10 17:17:43.432] [INFO] console - { '0': 'index.js' }
+[2016-11-10 17:17:43.566] [INFO] console - { '0': 'process.js' }
+[2016-11-10 17:17:43.596] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 17:17:43.598] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 17:17:43.599] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 17:17:43.600] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 17:17:43.600] [WARN] index.js - 启动web服务器
+[2016-11-10 17:17:43.601] [INFO] console - undefined
+[2016-11-10 17:17:43.602] [INFO] console - 6
+[2016-11-10 17:18:01.025] [INFO] console - { '0': 'index.js' }
+[2016-11-10 17:18:01.159] [INFO] console - { '0': 'process.js' }
+[2016-11-10 17:18:01.187] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 17:18:01.189] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 17:18:01.190] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 17:18:01.191] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 17:18:01.192] [WARN] index.js - 启动web服务器
+[2016-11-10 17:18:01.193] [INFO] console - E:\渲染引擎\工具集\新版课件制作工具\output
+[2016-11-10 17:18:01.194] [INFO] console - undefined
+[2016-11-10 17:18:01.195] [INFO] console - 6
+[2016-11-10 17:19:29.617] [INFO] console - { '0': 'index.js' }
+[2016-11-10 17:19:29.739] [INFO] console - { '0': 'process.js' }
+[2016-11-10 17:19:29.767] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 17:19:29.768] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 17:19:29.769] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 17:19:29.771] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 17:19:29.771] [WARN] index.js - 启动web服务器
+[2016-11-10 17:19:29.773] [INFO] console - E:\渲染引擎\工具集\新版课件制作工具\output
+[2016-11-10 17:19:29.774] [INFO] console - true
+[2016-11-10 17:19:29.776] [INFO] console - 6
+[2016-11-10 17:19:59.073] [INFO] console - { '0': 'index.js' }
+[2016-11-10 17:19:59.210] [INFO] console - { '0': 'process.js' }
+[2016-11-10 17:19:59.239] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 17:19:59.240] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 17:19:59.241] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 17:19:59.242] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 17:19:59.242] [WARN] index.js - 启动web服务器
+[2016-11-10 17:19:59.250] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 17:19:59.251] [INFO] console - 6
+[2016-11-10 17:20:06.035] [ERROR] console - Error serving /images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png - Not Found
+[2016-11-10 17:20:06.132] [ERROR] console - Error serving /images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png - Not Found
+[2016-11-10 17:20:06.762] [ERROR] console - Error serving /help.html - Not Found
+[2016-11-10 17:20:11.494] [INFO] console - { '0': 'index.js' }
+[2016-11-10 17:20:11.672] [INFO] console - { '0': 'process.js' }
+[2016-11-10 17:20:11.699] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 17:20:11.701] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 17:20:11.702] [INFO] index.js - 第3个参数为:--c
+[2016-11-10 17:20:11.703] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 17:20:11.704] [WARN] index.js - 清空output目录
+[2016-11-10 17:20:11.705] [INFO] console - 正在清空output目录......
+[2016-11-10 17:20:11.709] [INFO] console - 6
+[2016-11-10 17:20:13.430] [INFO] console - output目录清空完成......
+[2016-11-10 17:20:23.890] [INFO] console - { '0': 'index.js' }
+[2016-11-10 17:20:24.024] [INFO] console - { '0': 'process.js' }
+[2016-11-10 17:20:24.052] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 17:20:24.053] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 17:20:24.054] [INFO] index.js - 第3个参数为:--g
+[2016-11-10 17:20:24.055] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 17:20:24.056] [WARN] index.js - 生成页面
+[2016-11-10 17:20:24.058] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 17:20:24.065] [INFO] console - 正在清空output目录......
+[2016-11-10 17:20:24.069] [INFO] console - 6
+[2016-11-10 17:20:24.072] [INFO] console - output目录清空完成......
+[2016-11-10 17:20:24.074] [INFO] console - [Function: html2txt]
+[2016-11-10 17:20:24.074] [INFO] console - 开始html转换为txt......
+[2016-11-10 17:20:24.077] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 17:20:24.082] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 17:20:24.086] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 17:20:24.091] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 17:20:24.093] [WARN] console - 没有找到body标签！
+[2016-11-10 17:20:24.094] [INFO] console - 结束html转换为txt......
+[2016-11-10 17:20:24.095] [INFO] console - 正在复制主题目录......
+[2016-11-10 17:20:28.032] [INFO] console - 主题文件复制完成......
+[2016-11-10 17:20:28.035] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 17:20:28.040] [INFO] console - 图片复制完成......
+[2016-11-10 17:20:28.046] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 17:20:28.055] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 17:20:28.534] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 17:20:28.544] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3 }
+[2016-11-10 17:20:28.553] [INFO] process.js - { port: 9696,
+  title: '课件的名称',
+  icon: '../images/icon.ico',
+  tpl: 'ppt' }
+[2016-11-10 17:20:32.860] [INFO] console - { '0': 'index.js' }
+[2016-11-10 17:20:32.995] [INFO] console - { '0': 'process.js' }
+[2016-11-10 17:20:33.023] [INFO] index.js - 第1个参数为:D:\Program Files\nodejs\node.exe
+[2016-11-10 17:20:33.024] [INFO] index.js - 第2个参数为:E:\渲染引擎\工具集\新版课件制作工具\index.js
+[2016-11-10 17:20:33.025] [INFO] index.js - 第3个参数为:--s
+[2016-11-10 17:20:33.026] [INFO] console - >>>>>>>>>>>>>>>>>>>>>>>>>
+[2016-11-10 17:20:33.027] [WARN] index.js - 启动web服务器
+[2016-11-10 17:20:33.034] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 17:20:33.036] [INFO] console - 6
+[2016-11-10 17:20:35.615] [ERROR] console - Error serving /images/5aceec8f-a625-11e6-85dd-507b9d9a6632.png - Not Found
+[2016-11-10 17:20:36.369] [ERROR] console - Error serving /help.html - Not Found
+[2016-11-10 17:40:03.708] [INFO] console -   - 清空目录
+[2016-11-10 17:40:03.715] [INFO] console - 正在清空output目录......
+[2016-11-10 17:40:03.719] [INFO] console - 6
+[2016-11-10 17:40:05.539] [INFO] console - output目录清空完成......
+[2016-11-10 17:40:14.297] [INFO] console -   - 生成课件......
+[2016-11-10 17:40:14.305] [INFO] console - 读取系统配置文件config.yml
+[2016-11-10 17:40:14.311] [INFO] console - 正在清空output目录......
+[2016-11-10 17:40:14.315] [INFO] console - 6
+[2016-11-10 17:40:14.318] [INFO] console - output目录清空完成......
+[2016-11-10 17:40:14.319] [INFO] console - [Function: html2txt]
+[2016-11-10 17:40:14.319] [INFO] console - 开始html转换为txt......
+[2016-11-10 17:40:14.321] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\1.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\1.txt
+[2016-11-10 17:40:14.327] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\2.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\2.txt
+[2016-11-10 17:40:14.333] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\3.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\3.txt
+[2016-11-10 17:40:14.337] [INFO] console - 转换E:\渲染引擎\工具集\新版课件制作工具\data\html\a.html===========>E:\渲染引擎\工具集\新版课件制作工具\data\txt\a.txt
+[2016-11-10 17:40:14.340] [WARN] console - 没有找到body标签！
+[2016-11-10 17:40:14.340] [INFO] console - 结束html转换为txt......
+[2016-11-10 17:40:14.341] [INFO] console - 正在复制主题目录......
+[2016-11-10 17:40:17.934] [INFO] console - 主题文件复制完成......
+[2016-11-10 17:40:17.938] [INFO] console - 正在复制课件图片目录......
+[2016-11-10 17:40:17.941] [INFO] console - 图片复制完成......
+[2016-11-10 17:40:17.947] [INFO] process.js - 正在生成  output\1.html
+[2016-11-10 17:40:17.956] [INFO] process.js - 正在生成  output\2.html
+[2016-11-10 17:40:17.962] [INFO] process.js - 正在生成  output\3.html
+[2016-11-10 17:40:17.966] [ERROR] process.js - { pages: 
+   [ { content: [Object], index: 1 },
+     { content: [Object], index: 2 },
+     { content: [Object], index: 3 } ],
+  countPage: 3 }
+[2016-11-10 17:40:17.984] [INFO] process.js - { port: 9696,
+  title: '课件的名称',
+  icon: '../images/icon.ico',
+  tpl: 'ppt' }
+[2016-11-10 17:40:24.145] [INFO] console -   - 启动服务器......
+[2016-11-10 17:40:24.159] [INFO] process.js - Server Start Success... http://localhost:9696/
+[2016-11-10 17:40:24.160] [INFO] console - 6
+[2016-11-10 17:40:41.514] [INFO] console -   - 启动服务器......
+[2016-11-10 17:40:41.536] [INFO] process.js - Server Start Success... http://localhost:9696/

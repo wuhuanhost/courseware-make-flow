@@ -12,7 +12,7 @@ log4js.configure({
 });
 
 exports.logger = function (name) {
-	console.log(arguments)
+	// console.log(arguments)
 	var logger = log4js.getLogger(name);
 	logger.setLevel('INFO');
 	return logger;

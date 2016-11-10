@@ -8,37 +8,115 @@ var path = require('path');
 var fs = require('fs');
 var rmrf = require('rimraf')
 var doc = require('./utils/read-config')
-    // var log = require('./utils/log');
 var copy = require('./utils/copy-file-dir');
-
 var async = require('async');
 var logger = require('./utils/log').logger("process.js");
-// log.console.error(doc.tpl)
 var ejs = require('ejs');
+var html2txt = require('./parse/html2txt');
+var txt2html = require('./parse/txt2html');
+var static = require('node-static');
+var http = require('http');
 
-/**
- * 数据处理对象
- * @return {[type]} [description]
- */
-function dataProcess() {
-    console.log("数据处理对象实例化！！！");
-    //初始化方法
-    this.init = function () {
-        console.log("读取系统配置文件config.yml");
-    }
-    this.init();
-}
+// 课件数据对象
+var data = {
+    pages: [],
+    countPage: 0
+};
 
-//1、加载系统配置文件
-//2、加载模板文件
-//3、获取
+// 系统配置对象
+var sysConfig = {};
 
-
-var dp = new dataProcess();
+//系统路径变量
+var sysConfigPath = path.resolve(__dirname, "../", "config.yml");
 var formPathTpl = path.resolve(__dirname, "../", "tpl", "ppt", "source");
 var formPathImages = path.resolve(__dirname, "../", "data", "images");
 var toPath = path.resolve(__dirname, "../", "output");
 var tplPath = path.resolve(__dirname, "../", "tpl", "ppt", "layout", "_layout.ejs");
+var htmlPath = path.resolve(__dirname, "../", "data", "html");
+var txtPath = path.resolve(__dirname, "../", "data", "txt");
+
+/**
+ * 生成课件的祝方法
+ */
+function renderHtml() {
+    async.series([readYaml, clean, allHtml2Txt, copyTpl, copyImages, readData],
+        function (err, values) {
+            if (err) {
+                logger.error(err);
+            } else {
+                // console.log(values)
+                logger.error(data);
+                logger.info(sysConfig);
+            }
+        });
+}
+
+
+/**
+ * 启动web服务器
+ */
+function startServer() {
+    var file = new static.Server(toPath);
+    if (!fs.existsSync(toPath)) {
+        throw "output目录不存在，不能启动服务器!";
+    }
+    http.createServer(function (request, response) {
+        request.addListener('end', function () {
+            file.serve(request, response, function (err, res) {
+                if (err) {
+                    console.error("Error serving " + request.url + " - " + err.message);
+                    response.writeHead(err.status, err.headers);
+                    // response.write("<h1>"+err.status+"</h1><p>Error serving ... page "+request.url+" - "+err.message+"</p>");
+                    var errPage = `<!DOCTYPE html><html lang="zh-CN">
+                    <header>
+                        <meta charset="utf-8"><title>${err.status}</title>
+                    </header>
+                    <body>
+                        <h1>${err.status}</h1><p>Error serving ... page ${request.url} - ${err.message}</p>
+                    </body>`;
+                    response.write(errPage);
+                    response.end();
+                }
+            });
+        }).resume();
+    }).listen(sysConfig.port || 9696);
+    logger.info("Server Start Success... http://localhost:9696/");
+}
+
+
+
+
+/**
+ * 读取配置文件
+ * @return {[type]} [description]
+ */
+function readYaml(cb) {
+    console.log("读取系统配置文件config.yml");
+    sysConfig = doc(sysConfigPath);
+    cb();
+}
+
+
+/**
+ * html转换为txt
+ */
+function allHtml2Txt(cb) {
+    console.log(html2txt)
+    console.log("开始html转换为txt......");
+    fs.readdir(htmlPath, function (err, list) {
+        if (err) {
+            logger.error(err);
+        }
+        for (var _path of list) {
+            var htmlFilePath = path.join(htmlPath, _path);
+            var txtFilePath = path.join(txtPath, _path.replace(".html", ".txt"));
+            console.log("转换" + htmlFilePath + "===========>" + txtFilePath);
+            html2txt(htmlFilePath, txtFilePath);
+        }
+        console.log("结束html转换为txt......");
+        cb();
+    });
+}
 
 
 // 清空目录
@@ -85,21 +163,9 @@ function copyImages(cb) {
     });
 }
 
-// 生成课件的方法
-function renderHtml() {
-    logger.error("ddddddddddddd")
-    async.series([clean, copyTpl, copyImages, readData],
-        function (err, values) {
-            if (err) {
-                logger.error(err);
-            } else {
-                // console.log(values)
-            }
-        });
-}
 
 
-var txtPath = path.resolve(__dirname, "../", "data", "txt");
+
 
 //课件数据结构
 // var data = {
@@ -111,10 +177,6 @@ var txtPath = path.resolve(__dirname, "../", "data", "txt");
 //     countPage: 100
 // }
 
-var data = {
-    pages: [],
-    countPage: 0
-};
 
 //读取data/txt中的所有的文件
 function readData(callback) {
@@ -139,12 +201,11 @@ function readData(callback) {
             callback();
         })
     });
-
 }
 
 
 /**
- * 
+ * 渲染内存中的数据
  */
 function render(data) {
     for (var i = 0; i < data.pages.length; i++) {
@@ -153,12 +214,11 @@ function render(data) {
 }
 
 
-
 /**
  * ejs渲染数据
  **/
 function ejsRenderHtml(data, fileName) {
-    logger.warn("正在生成  output\\" + fileName + ".html");
+    logger.info("正在生成  output\\" + fileName + ".html");
     ejs.renderFile(tplPath, data, function (err, str) {
         if (err) {
             console.log(err)
@@ -169,25 +229,25 @@ function ejsRenderHtml(data, fileName) {
 
 
 
-// txt2html测试方法
-function txt2html(str) {
-    var txtArr = str.split("\r\n");
-    var str = "";
-    for (var i = 0, len = txtArr.length; i < len; i++) {
-        logger.debug(txtArr[i] + "   " + txtArr[i].match(/^##\s/g) + "         " + txtArr[i].match(/^#\s/g))
-        if (txtArr[i].match(/^#\s/g) != null) {
-            str += "<section><h1>" + txtArr[i].replace("#", "") + "</h1>";
-        } else if (txtArr[i].match(/^##\s/g) != null) {
-            str += "<section><h2>" + txtArr[i].replace("##", "") + "</h2>";
-        } else if (txtArr[i].match(/^>/) != null) {
-            str += "<p>" + txtArr[i].replace(">", "") + "</p>";
-        }
-        if (txtArr[i] === "") {
-            str += "</section>";
-        }
-    }
-    return str + "</section>"
-}
+// // txt2html测试方法
+// function txt2html(str) {
+//     var txtArr = str.split("\r\n");
+//     var str = "";
+//     for (var i = 0, len = txtArr.length; i < len; i++) {
+//         logger.debug(txtArr[i] + "   " + txtArr[i].match(/^##\s/g) + "         " + txtArr[i].match(/^#\s/g))
+//         if (txtArr[i].match(/^#\s/g) != null) {
+//             str += "<section><h1>" + txtArr[i].replace("#", "") + "</h1>";
+//         } else if (txtArr[i].match(/^##\s/g) != null) {
+//             str += "<section><h2>" + txtArr[i].replace("##", "") + "</h2>";
+//         } else if (txtArr[i].match(/^>/) != null) {
+//             str += "<p>" + txtArr[i].replace(">", "") + "</p>";
+//         }
+//         if (txtArr[i] === "") {
+//             str += "</section>";
+//         }
+//     }
+//     return str + "</section>"
+// }
 
 /**
  * 分割每一页的数据按照<section>,然后放到一个数组中。
@@ -195,14 +255,13 @@ function txt2html(str) {
 function splitSection(txt) {
     var str = txt2html(txt);
     var content = [];
-    var arr = str.match(/<section>.*?<\/section>/g);
+    var arr = str.match(/<section>[\S\s]*?<\/section>/g);
     for (var i = 0, len = arr.length; i < len; i++) {
         content.push(arr[i]);
     }
+
     return content;
 }
-
-
 
 
 
@@ -213,5 +272,6 @@ function splitSection(txt) {
 
 module.exports = {
     renderHtml: renderHtml,
-    clean: clean
+    clean: clean,
+    startServer: startServer
 };
