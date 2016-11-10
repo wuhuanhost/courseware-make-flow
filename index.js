@@ -1,5 +1,5 @@
+#! /usr/bin/env node
 'use strict';
-
 var logger = require('./src/utils/log').logger("index.js");
 var control = require('./src/process');
 var program = require('commander');
@@ -11,17 +11,19 @@ program
     .option('-c, --clean', '清空output目录')
     .parse(process.argv);
 
+if (program.clean) {
+    console.log('  - 清空目录');
+    control.clean(null);
+}
+
 if (program.generator) {
     console.log('  - 生成课件......');
     control.renderHtml();
 }
+
 if (program.server) {
     console.log('  - 启动服务器......');
     control.startServer()
-}
-if (program.clean) {
-    console.log('  - 清空目录');
-    control.clean(null);
 }
 
 
