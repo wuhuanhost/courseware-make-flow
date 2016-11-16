@@ -84,8 +84,6 @@ function startServer() {
 }
 
 
-
-
 /**
  * 读取配置文件
  * @return {[type]} [description]
@@ -119,6 +117,7 @@ function allHtml2Txt(cb) {
 }
 
 
+
 // 清空目录
 function clean(cb) {
     console.log("正在清空output目录......");
@@ -132,7 +131,7 @@ function clean(cb) {
             console.log("output目录清空完成......");
             if (cb != null) {
                 cb();
-            }
+            } 
         }
     });
 }
