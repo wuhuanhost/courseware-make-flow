@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>编辑器布局测试</title>
+    <style>
+        html,
+        body,
+        .cantainer {
+            height: 100%;
+            padding: 0;
+            margin: 0;
+            overflow: hidden;
+        }
+        
+        .cantainer {
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .cantainer header {
+            height: 59px;
+            border-bottom: 1px solid #999999;
+        }
+        
+        .cantainer .middle {
+            flex: 1;
+            display: flex;
+            flex-direction: row;
+        }
+        
+        .cantainer footer {
+            height: 39px;
+            border-top: 1px solid #999999;
+        }
+        
+        .cantainer .middle .nav {
+            width: 230px;
+            border-right: 1px solid #999999;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .cantainer .middle .editor {
+            flex: 1;
+            border-right: 1px solid #999999;
+            overflow: auto;
+        }
+        
+        .cantainer .middle .line {
+            width: 3px;
+        }
+        
+        .cantainer .middle .line:hover {
+            cursor: e-resize;
+        }
+        
+        .cantainer .middle .view {
+            flex: 1;
+            overflow: auto;
+        }
+        /*定义滚动条高宽及背景 高宽分别对应横竖滚动条的尺寸*/
+        
+         ::-webkit-scrollbar {
+            width: 12px;
+            height: 16px;
+            background-color: #eee;
+        }
+        /*定义滚动条轨道 内阴影+圆角*/
+        
+         ::-webkit-scrollbar-track {
+            
+            border-radius: 10px;
+            background-color: #eee;
+        }
+        /*定义滑块 内阴影+圆角*/
+        
+         ::-webkit-scrollbar-thumb {
+            border-radius: 10px;
+            
+            background-color: #cccccc;
+        }
+        
+        .cantainer .middle .nav .nav-tool {
+            height: 40px;
+            border-bottom: 1px solid #999999;
+        }
+        
+        .cantainer .middle .nav .nav-content {
+            flex: 1;
+            background: #eeeeee;
+            overflow: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <!--容器-->
+    <div class="cantainer">
+        <!--页头-->
+        <header></header>
+        <!--中间-->
+        <div class="middle">
+            <!--右侧导航-->
+            <div class="nav">
+                <div class="nav-tool">
+                </div>
+                <!--目录内容-->
+                <div class="nav-content">
+                </div>
+            </div>
+            <!--编辑区-->
+            <div class="editor">
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+            </div>
+            <div class="line"></div>
+            <!--预览区-->
+            <div class="view">
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+                <p>测试</p>
+            </div>
+        </div>
+        <!--页脚-->
+        <footer></footer>
+    </div>
+</body>
+
+</html>
